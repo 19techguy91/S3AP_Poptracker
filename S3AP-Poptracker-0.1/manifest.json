@@ -1,0 +1,14 @@
+{
+    "name": "Spyro 3 Poptracker Pack",
+    "game_name": "Spyro: Year of the Dragon (2000)",
+    "package_version": "0.1",
+    "package_uid": "S3_ap",
+    "author": "Uroogla",
+	"platform": "psx",
+    "variants": {
+        "Full Tracker": {
+            "display_name": "Item Tracker",
+			"flags": [	"ap"	]
+        }
+    }
+}

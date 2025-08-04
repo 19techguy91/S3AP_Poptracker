@@ -1,0 +1,38 @@
+﻿[
+	{
+		"name": "Sunrise Spring",
+		"location_size": 20,
+		"location_border_thickness": 2,
+		"img": "images/maps/SunriseSpring.png"
+	},
+	{
+		"name": "Sunny Villa",
+		"location_size": 20,
+		"location_border_thickness": 2,
+		"img": "images/maps/SunnyVilla.png"
+	},
+	{
+		"name": "Cloud Spires",
+		"location_size": 20,
+		"location_border_thickness": 2,
+		"img": "images/maps/CloudSpires.png"
+	},
+	{
+		"name": "Molten Crater",
+		"location_size": 20,
+		"location_border_thickness": 2,
+		"img": "images/maps/MoltenCrater.png"
+	},
+	{
+		"name": "Seashell Shore",
+		"location_size": 20,
+		"location_border_thickness": 2,
+		"img": "images/maps/SeashellShore.png"
+	},
+	{
+		"name": "Sheila's Alp",
+		"location_size": 20,
+		"location_border_thickness": 2,
+		"img": "images/maps/SheilasAlp.png"
+	}
+]

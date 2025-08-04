@@ -1,0 +1,142 @@
+﻿{
+	"tracker_default": {
+		"type": "container",
+		"background": "#000000",
+		"content": {
+			"type": "dock",
+			"dropshadow": true,
+			"content": [
+				{
+					"type": "array",
+					"v_alignment": "stretch",
+					"margin": "0, 0",
+					"content": [
+						{
+							"type": "tabbed",
+							"dock": "top",
+							"tabs": [
+								{
+									"title": "Items",
+									"icon": "images/items/life bottle.png",
+									"content": [
+										{
+											"type": "dock",
+											"dock": "top",
+											"v_alignment": "stretch",
+											"content": [
+												{
+													"type": "group",
+													"header": "Items",
+													"dock": "top",
+													"content": {
+														"type": "layout",
+														"key": "shared_item_grid_horizontal"
+													}
+												}
+												
+											]
+										}
+									]
+								},
+								
+								{
+									"title": "Sunrise Spring",
+									"icon": "images/labels/dan.png",
+									"content": {
+										"type": "dock",
+										"dock": "top",
+										"orientation": "vertical",
+										"content": [
+																				
+											{
+												"type": "map",
+												"maps": ["Sunrise Spring"]
+											}
+											]
+									}
+								},
+								{
+									"title": "Sunny Villa",
+									"icon": "images/labels/dan.png",
+									"content": {
+										"type": "dock",
+										"dock": "top",
+										"orientation": "vertical",
+										"content": [								
+											{
+												"type": "map",
+												"maps": ["Sunny Villa"]
+											}
+											]
+									}
+								},
+								{
+									"title": "Cloud Spires",
+									"icon": "images/items/smallsword.png",
+									"content": {
+										"type": "dock",
+										"dock": "top",
+										"orientation": "vertical",
+										"content": [								
+											{
+												"type": "map",
+												"maps": ["Cloud Spires"]
+											}
+											]
+									}
+								},
+								{
+									"title": "Molten Crater",
+									"icon": "images/labels/glass demon.png",
+									"content": {
+										"type": "dock",
+										"dock": "top",
+										"orientation": "vertical",
+										"content": [
+											{
+												"type": "map",
+												"maps": ["Molten Crater"]
+											}
+											]
+									}
+								},
+								
+								
+								{
+									"title": "Seashell Shore",
+									"icon": "images/labels/wolves.png",
+									"content": {
+										"type": "dock",
+										"dock": "top",
+										"orientation": "vertical",
+										"content": [									
+											{
+												"type": "map",
+												"maps": ["Seashell Shore"]
+											}
+										]
+									}
+								},
+								{
+									"title": "Sheila's Alp",
+									"icon": "images/items/harvester part.png",
+									"content": {
+										"type": "dock",
+										"dock": "top",
+										"orientation": "vertical",
+										"content": [									
+											{
+												"type": "map",
+												"maps": ["Sheila's Alp"]
+											}
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	}
+}
