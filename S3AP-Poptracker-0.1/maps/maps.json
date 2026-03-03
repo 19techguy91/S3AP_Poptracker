@@ -1,38 +1,382 @@
 ﻿[
-	{
-		"name": "Sunrise Spring",
-		"location_size": 20,
-		"location_border_thickness": 2,
-		"img": "images/maps/SunriseSpring.png"
-	},
-	{
-		"name": "Sunny Villa",
-		"location_size": 20,
-		"location_border_thickness": 2,
-		"img": "images/maps/SunnyVilla.png"
-	},
-	{
-		"name": "Cloud Spires",
-		"location_size": 20,
-		"location_border_thickness": 2,
-		"img": "images/maps/CloudSpires.png"
-	},
-	{
-		"name": "Molten Crater",
-		"location_size": 20,
-		"location_border_thickness": 2,
-		"img": "images/maps/MoltenCrater.png"
-	},
-	{
-		"name": "Seashell Shore",
-		"location_size": 20,
-		"location_border_thickness": 2,
-		"img": "images/maps/SeashellShore.png"
-	},
-	{
-		"name": "Sheila's Alp",
-		"location_size": 20,
-		"location_border_thickness": 2,
-		"img": "images/maps/SheilasAlp.png"
-	}
+    {
+        "name": "Sunrise Spring",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/01SunriseSpring.png",
+        "submaps": ["Sunny Villa", "Cloud Spires", "Molten Crater", "Seashell Shore", "Sheila's Alp", "Mushroom Speedway", "Crawdad Farm"]
+    },
+    {
+        "name": "Sunrise Spring",
+        "img": "images/maps/01SunriseSpring/01SunriseSpring.png",
+        "location_size": 32,
+        "locations": [
+            {
+                "name": "Sunrise Spring",
+                "map_locations": [
+                    { "context": "Egg: Isabelle", "x": 100, "y": 100 }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sunny Villa",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/02SunnyVilla.png",
+        "submaps": ["Sheila (SV)", "Skate (SV)"]
+    },
+    {
+        "name": "Sheila (SV)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/02SunnyVilla_Sheila.png"
+    },
+    {
+        "name": "Skate (SV)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/02SunnyVilla_Skate.png"
+    },
+    {
+        "name": "Cloud Spires",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/03CloudSpires.png",
+        "submaps": ["Bells (CS)", "Sun Seed (CS)"]
+    },
+    {
+        "name": "Bells (CS)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/03CloudSpires_Bells.png"
+    },
+    {
+        "name": "Sun Seed (CS)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/03CloudSpires_SunSeed.png"
+    },
+    {
+        "name": "Molten Crater",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/04MoltenCrater.png",
+        "submaps": ["Sgt. Byrd (MC)", "Thief (MC)"]
+    },
+    {
+        "name": "Sgt. Byrd (MC)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/04MoltenCrater_SgtByrd.png"
+    },
+    {
+        "name": "Thief (MC)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/04MoltenCrater_Thief.png"
+    },
+    {
+        "name": "Seashell Shore",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/05SeashellShore.png",
+        "submaps": ["Bluto (SS)", "Sheila (SS)"]
+    },
+    {
+        "name": "Bluto (SS)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/05SeashellShore_Bluto.png"
+    },
+    {
+        "name": "Sheila (SS)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/05SeashellShore_Sheila.png"
+    },
+    {
+        "name": "Sheila's Alp",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/06SheilasAlp.png"
+    },
+    {
+        "name": "Mushroom Speedway",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/07MushroomSpeedway.png"
+    },
+    {
+        "name": "Crawdad Farm",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/01SunriseSpring/08CrawdadFarm.png"
+    },
+    {
+        "name": "Midday Gardens",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/01MiddayGardens.png",
+        "submaps": ["Icy Peak", "Enchanted Towers", "Spooky Swamp", "Bamboo Terrace", "Sgt. Byrd's Base", "Country Speedway", "Spider Town"]
+    },
+    {
+        "name": "Icy Peak",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/02IcyPeak.png",
+        "submaps": ["Thief (IP)"]
+    },
+    {
+        "name": "Thief (IP)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/02IcyPeak_Thief.png"
+    },
+    {
+        "name": "Enchanted Towers",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/03EnchantedTowers.png",
+        "submaps": ["Dog (ET)", "Skate (ET)"]
+    },
+    {
+        "name": "Dog (ET)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/03EnchantedTowers_Dog.png"
+    },
+    {
+        "name": "Skate (ET)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/03EnchantedTowers_Skate.png"
+    },
+    {
+        "name": "Spooky Swamp",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/04SpookySwamp.png",
+        "submaps": ["Sheila (SSw)"]
+    },
+    {
+        "name": "Sheila (SSw)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/04SpookySwamp_Sheila.png"
+    },
+    {
+        "name": "Bamboo Terrace",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/05BambooTerrace.png",
+        "submaps": ["Bentley (BT)"]
+    },
+    {
+        "name": "Bentley (BT)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/05BambooTerrace_Bentley.png"
+    },
+    {
+        "name": "Sgt. Byrd's Base",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/06SgtByrdsBase.png"
+    },
+    {
+        "name": "Country Speedway",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/07CountrySpeedway.png"
+    },
+    {
+        "name": "Spider Town",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/02MiddayGardens/08SpiderTown.png"
+    },
+    {
+        "name": "Evening Lake",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/01EveningLake.png",
+        "submaps": ["Frozen Altar", "Lost Fleet", "Fireworks Factory", "Charmed Ridge", "Bentley's Outpost", "Honey Speedway", "Starfish Reef"]
+    },
+    {
+        "name": "Frozen Altar",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/02FrozenAltar.png"
+    },
+    {
+        "name": "Lost Fleet",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/03LostFleet.png",
+        "submaps": ["Skate (LF)", "Sub (LF)"]
+    },
+    {
+        "name": "Skate (LF)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/03LostFleet_Skate.png"
+    },
+    {
+        "name": "Sub (LF)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/03LostFleet_Sub.png"
+    },
+    {
+        "name": "Fireworks Factory",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/04FireworksFactory.png",
+        "submaps": ["Agent 9 (FF)", "Dragons (FF)", "Ninja Training (FF)"]
+    },
+    {
+        "name": "Agent 9 (FF)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/04FireworksFactory_Agent9.png"
+    },
+    {
+        "name": "Dragons (FF)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/04FireworksFactory_Dragons.png"
+    },
+    {
+        "name": "Ninja Training (FF)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/04FireworksFactory_NinjaTraining.png"
+    },
+    {
+        "name": "Charmed Ridge",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/05CharmedRidge.png",
+        "submaps": ["Golden Goose (CR)"]
+    },
+    {
+        "name": "Golden Goose (CR)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/05CharmedRidge_GoldenGoose.png"
+    },
+    {
+        "name": "Bentley's Outpost",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/06BentleysOutpost.png"
+    },
+    {
+        "name": "Honey Speedway",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/07HoneySpeedway.png"
+    },
+    {
+        "name": "Starfish Reef",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/03EveningLake/08StarfishReef.png"
+    },
+    {
+        "name": "Midnight Mountain",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/01MidnightMountain.png",
+        "submaps": ["Crystal Islands", "Desert Ruins", "Haunted Tomb", "Dino Mines", "Agent 9's Lab", "Harbor Speedway", "Bugbot Factory", "Super Bonus Round"]
+    },
+    {
+        "name": "Crystal Islands",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/02CrystalIslands.png",
+        "submaps": ["Bentley (CI)", "Slide (CI)"]
+    },
+    {
+        "name": "Bentley (CI)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/02CrystalIslands_Bentley.png"
+    },
+    {
+        "name": "Slide (CI)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/02CrystalIslands_Slide.png"
+    },
+    {
+        "name": "Desert Ruins",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/03DesertRuins.png",
+        "submaps": ["Sharks (DR)", "Sheila (DR)"]
+    },
+    {
+        "name": "Sharks (DR)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/03DesertRuins_Sharks.png"
+    },
+    {
+        "name": "Sheila (DR)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/03DesertRuins_Sheila.png"
+    },
+    {
+        "name": "Haunted Tomb",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/04HauntedTomb.png"
+    },
+    {
+        "name": "Dino Mines",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/05DinoMines.png",
+        "submaps": ["Agent 9 (DM)"]
+    },
+    {
+        "name": "Agent 9 (DM)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/05DinoMines_Agent9.png"
+    },
+    {
+        "name": "Agent 9's Lab",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/06Agent9sLab.png"
+    },
+    {
+        "name": "Harbor Speedway",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/07HarborSpeedway.png"
+    },
+    {
+        "name": "Bugbot Factory",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/08BugbotFactory.png"
+    },
+    {
+        "name": "Super Bonus Round",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/09SuperBonusRound.png",
+        "submaps": ["Skate (SBR)"]
+    },
+    {
+        "name": "Skate (SBR)",
+        "location_size": 20,
+        "location_border_thickness": 2,
+        "img": "images/maps/04MidnightMountain/09SuperBonusRound_Skate.png"
+    }
 ]

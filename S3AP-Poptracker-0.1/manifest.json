@@ -8,7 +8,7 @@
     "variants": {
         "Full Tracker": {
             "display_name": "Item Tracker",
-			"flags": [	"ap"	]
+			"flags": [	"ap", "dev"	]
         }
     }
 }
