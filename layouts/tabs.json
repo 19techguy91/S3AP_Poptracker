@@ -1,0 +1,23 @@
+{
+  "tabs": {
+    "type": "tabbed",
+    "tabs": [
+      { 
+        "title": "Sunrise Spring", 
+        "content": { "type": "layout", "key": "01SunriseSpring" } 
+      },
+      { 
+        "title": "Midday Gardens", 
+        "content": { "type": "layout", "key": "02MiddayGardens" } 
+      },
+      { 
+        "title": "Evening Lake", 
+        "content": { "type": "layout", "key": "03EveningLake" } 
+      },
+      { 
+        "title": "Midnight Mountain", 
+        "content": { "type": "layout", "key": "04MidnightMountain" } 
+      }
+    ]
+  }
+}

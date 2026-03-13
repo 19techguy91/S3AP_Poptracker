@@ -1,0 +1,42 @@
+{
+  "02MiddayGardens": {
+    "type": "tabbed",
+    "fill_column": true,
+    "fill_row": true,
+    "tabs": [
+      { "title": "Hub", "content": { "type": "map", "maps": ["MiddayGardens"] } },
+      { 
+        "title": "Icy Peak", 
+        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
+          { "title": "Main", "content": { "type": "map", "maps": ["IcyPeak"] } },
+          { "title": "Thief", "content": { "type": "map", "maps": ["ThiefIP"] } }
+        ] }
+      },
+      { 
+        "title": "Enchanted Towers", 
+        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
+          { "title": "Main", "content": { "type": "map", "maps": ["EnchantedTowers"] } },
+          { "title": "Dog", "content": { "type": "map", "maps": ["DogET"] } },
+          { "title": "Skate", "content": { "type": "map", "maps": ["SkateET"] } }
+        ] }
+      },
+      { 
+        "title": "Spooky Swamp", 
+        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
+          { "title": "Main", "content": { "type": "map", "maps": ["SpookySwamp"] } },
+          { "title": "Sheila", "content": { "type": "map", "maps": ["SheilaSSw"] } }
+        ] }
+      },
+      { 
+        "title": "Bamboo Terrace", 
+        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
+          { "title": "Main", "content": { "type": "map", "maps": ["BambooTerrace"] } },
+          { "title": "Bentley", "content": { "type": "map", "maps": ["BentleyBT"] } }
+        ] }
+      },
+      { "title": "Sgt. Byrd's Base", "content": { "type": "map", "maps": ["SgtByrdsBase"] } },
+      { "title": "Country Speedway", "content": { "type": "map", "maps": ["CountrySpeedway"] } },
+      { "title": "Spider Town", "content": { "type": "map", "maps": ["SpiderTown"] } }
+    ]
+  }
+}

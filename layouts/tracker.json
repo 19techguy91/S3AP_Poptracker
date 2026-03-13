@@ -1,0 +1,7 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#9c35ba",
+    "content": { "type": "layout", "key": "tabs" }
+  }
+}

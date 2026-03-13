@@ -1,0 +1,32 @@
+{
+  "name": "Spyro 3 AP",
+  "game_name": "Spyro 3",
+  "package_version": "1.0.0",
+  "package_uid": "spyro3_final",
+  "author": "Uroogla, 19techguy91",
+  "min_poptracker_version": "0.34.0",
+
+  "item_files": [
+    "items/items.json"
+  ],
+
+  "map_files": [
+    "maps/maps.json"
+  ],
+
+  "location_files": [
+    "locations/locations.json"
+  ],
+
+  "script_files": [
+    "scripts/init.lua"
+  ],
+
+  "variants": {
+    "Map Tracker": {
+      "display_name": "Map Tracker",
+      "layout": "tracker_default",
+      "flags": ["ap"]
+    }
+  }
+}

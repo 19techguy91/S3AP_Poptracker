@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Dragon Egg",
+    "type": "static",
+    "img": "images/egg.png"
+  },
+  {
+    "name": "Swim",
+    "type": "toggle",
+    "img": "images/swim.png"
+  }
+]
