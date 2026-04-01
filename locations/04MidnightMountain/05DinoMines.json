@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Dino Mines Gem Thresholds",
+    "map_locations": [
+      { "map": "DinoMines", "x": 100, "y": 410 }, 
+      { "map": "Agent9DM", "x": 142, "y": 142 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Dino Mines: Gems",
+    "visibility_rules": "Gemsanity_Partial",
+    "map_locations": [
+      { "map": "DinoMines", "x": 200, "y": 410 }, 
+      { "map": "Agent9DM", "x": 242, "y": 142 }
+    ],
+    "sections": [
+      { "name": "Dino Mines: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 106", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 107", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 108", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 109", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 110", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 111", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 112", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 113", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 114", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 115", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 116", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 117", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 118", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 119", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 120", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 121", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 122", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 123", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 124", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 125", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 126", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 127", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 128", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 129", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 130", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 131", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 132", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 133", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 134", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 135", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 136", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 137", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 138", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 139", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 140", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 141", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 142", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Dino Mines: Gem 143", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Leap of faith",
+    "map_locations": [
+        { "map": "DinoMines", "x": 950, "y": 463 }
+    ],
+    "sections": [
+        { "name": "Egg: Dan", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle in Fireplace",
+    "map_locations": [
+        { "map": "DinoMines", "x": 1026, "y": 880 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 1", "hosted_item": "Life Bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Swim through the wall",
+    "map_locations": [
+        { "map": "DinoMines", "x": 836, "y": 1186 }
+    ],
+    "sections": [
+        { "name": "Egg: Romey", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Jail break!",
+    "map_locations": [
+        { "map": "DinoMines", "x": 531, "y": 494 }
+    ],
+    "sections": [
+        { "name": "Egg: Kiki", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shafted/Hit all the seahorses",
+    "map_locations": [
+        { "map": "DinoMines", "x": 245, "y": 694 }
+    ],
+    "sections": [
+        { "name": "Egg: Elliot", "hosted_item": "Egg", "item_count": 1 },
+        { "name": "Skillpoint 1", "hosted_item": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hit the secret dino",
+    "map_locations": [
+        { "map": "Agent9DM", "x": 342, "y": 142 }
+    ],
+    "sections": [
+        { "name": "Skillpoint 2", "hosted_item": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "Gunfight at the Jurassic Corral",
+    "map_locations": [
+        { "map": "Agent9DM", "x": 137, "y": 633 }
+    ],
+    "sections": [
+        { "name": "Egg: Sharon", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Take it to the bank",
+    "map_locations": [
+        { "map": "Agent9DM", "x": 811, "y": 238 }
+    ],
+    "sections": [
+        { "name": "Egg: Sergio", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

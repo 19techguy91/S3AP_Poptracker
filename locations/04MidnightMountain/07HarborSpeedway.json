@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Harbor Speedway Gem Thresholds",
+    "map_locations": [
+      { "map": "HarborSpeedway", "x": 205, "y": 83 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Harbor Speedway: Gems",
+    "map_locations": [
+      { "map": "HarborSpeedway", "x": 305, "y": 83 }
+    ],
+    "sections": [
+      { "name": "Harbor Speedway: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Harbor Speedway: Gem 32", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Time Attack/Race the blue footed boobies",
+    "map_locations": [
+        { "map": "HarborSpeedway", "x": 337, "y": 885 }
+    ],
+    "sections": [
+        { "name": "Egg: Kobe", "hosted_item": "Egg", "item_count": 1 },
+        { "name": "Egg: Jessie", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hunter's pursuit",
+    "map_locations": [
+        { "map": "HarborSpeedway", "x": 970, "y": 667 }
+    ],
+    "sections": [
+        { "name": "Egg: Sara", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

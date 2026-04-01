@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Mushroom Speedway Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "MushroomSpeedway", "x": 642, "y": 62 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Mushroom Speedway: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "MushroomSpeedway", "x": 742, "y": 62 }
+    ],
+    "sections": [
+      { "name": "Mushroom Speedway: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Mushroom Speedway: Gem 32", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Time attack/Race the Butterflies",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MushroomSpeedway", "x": 642, "y": 526 }
+    ],
+    "sections": [
+      { "name": "Egg: Sabina", "hosted_item": "Egg", "item_count": 1 },
+      { "name": "Egg: John", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hunter's Dogfight",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MushroomSpeedway", "x": 298, "y": 332 }
+    ], 
+    "sections": [
+        { "name": "Egg: Tater", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

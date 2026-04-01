@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Country Speedway Gem Thresholds",
+    "map_locations": [
+      { "map": "CountrySpeedway", "x": 242, "y": 95 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Country Speedway: Gems",
+    "map_locations": [
+      { "map": "CountrySpeedway", "x": 342, "y": 95 }
+    ],
+    "sections": [
+        { "name": "Country Speedway: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Country Speedway: Gem 32", "hosted_item": "Gem", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Time Attack/Race the pigs",
+    "map_locations": [
+      { "map": "CountrySpeedway", "x": 745, "y": 32 }
+    ],
+      "sections": [
+        { "name": "Egg: Gavin", "hosted_item": "Egg", "item_count": 1 },
+        { "name": "Egg: Shemp", "hosted_item": "Egg", "item_count": 1 }
+      ]
+  },
+  {
+    "name": "Hunter's rescue mission",
+    "map_locations": [
+      { "map": "CountrySpeedway", "x": 674, "y": 412 }
+    ],
+      "sections": [
+        { "name": "Egg: Roberto", "hosted_item": "Egg", "item_count": 1 }
+      ]
+    }
+]

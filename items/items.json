@@ -1,12 +1,18 @@
 [
   {
     "name": "Dragon Egg",
-    "type": "static",
-    "img": "images/egg.png"
+    "type": "consumable",
+    "codes": "egg",
+    "img": "images/items/DragonEgg.png",
+    "max_quantity": 150,
+    "increment": 1
   },
   {
-    "name": "Swim",
-    "type": "toggle",
-    "img": "images/swim.png"
+    "name": "Gem Bundle",
+    "type": "consumable",
+    "codes": "gem_bundle",
+    "img": "images/items/Gems.png",
+    "max_quantity": 20000,
+    "increment": 100
   }
 ]

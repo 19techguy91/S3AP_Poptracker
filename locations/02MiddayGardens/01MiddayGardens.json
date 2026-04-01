@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Midday Gardens: 25% Gems",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "visibility_rules": [
+      "setting_threshold_25"
+    ],
+    "access_rules": [
+      "WorldKey:2, BuzzDefeated"
+    ],
+    "map_locations": [
+      { "map": "MiddayGardens", "x": 159, "y": 398 }
+    ],
+    "sections": [
+      { "name": "25% Gems", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Midday Gardens: 50% Gems",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "visibility_rules": [
+      "setting_threshold_50"
+    ],
+    "access_rules": [
+      "WorldKey:2, BuzzDefeated"
+    ],
+    "map_locations": [
+      { "map": "MiddayGardens", "x": 159, "y": 428 }
+    ],
+    "sections": [
+      { "name": "50% Gems", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Midday Gardens: 75% Gems",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "visibility_rules": [
+      "setting_threshold_75"
+    ],
+    "access_rules": [
+      "WorldKey:2, BuzzDefeated"
+    ],
+    "map_locations": [
+      { "map": "MiddayGardens", "x": 159, "y": 458 }
+    ],
+    "sections": [
+      { "name": "75% Gems", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Midday Gardens: All Gems",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "visibility_rules": [
+      "setting_threshold_100"
+    ],
+    "access_rules": [
+      "WorldKey:2, BuzzDefeated"
+    ],
+    "map_locations": [
+      { "map": "MiddayGardens", "x": 159, "y": 488 }
+    ],
+    "sections": [
+      { "name": "All Gems", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Midday Gardens: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "visibility_rules": [
+      "Gemsanity_Partial"
+    ],
+    "access_rules": [
+      "WorldKey:2, BuzzDefeated"
+    ],
+    "map_locations": [
+      { "map": "MiddayGardens", "x": 259, "y": 398 }
+    ],
+    "sections": [
+        { "name": "Midday Gardens: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 106", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 107", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 108", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 109", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 110", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 111", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 112", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 113", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 114", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 115", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 116", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 117", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 118", "hosted_item": "Gem", "item_count": 1 }
+
+    ]
+},
+{
+  "name": "Midday Gardens: Superflame Gems",
+  "chest_unopened_img": "images/ui/Gems.png", 
+  "chest_opened_img": "images/ui/Gems_Checked.png",
+  "visibility_rules": [
+    "Gemsanity_Partial"
+  ],
+  "access_rules": [
+  "WorldKey:2, SuperflameGate",
+  "WorldKey:2, SuperflameGateMiddayGardens"
+  ],
+  "map_locations": [
+    {"map": "MiddayGardens", "x": 259, "y": 498 }
+  ],
+  "sections": [
+        { "name": "Midday Gardens: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 119", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 120", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 121", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 122", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midday Gardens: Gem 123", "hosted_item": "Gem", "item_count": 1 }
+  ]
+},
+{
+  "name": "Underwater Egg",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "access_rules": [
+    "WorldKey:2, BuzzDefeated"
+  ],
+  "map_locations": [
+  { "map": "MiddayGardens", "x": 1039, "y": 1195 }
+],
+"sections": [
+  { "name": "Egg: Dave", "hosted_item": "Egg", "item_count": 1 }
+]
+},
+{
+  "name": "Secret ice cave",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "access_rules": [
+    "WorldKey:2, BuzzDefeated"
+  ],
+  "map_locations": [
+    { "map": "MiddayGardens", "x": 1668, "y": 914 }
+  ],
+  "sections": [
+    { "name": "Egg: Mingus", "hosted_item": "Egg", "item_count": 1 }
+  ]
+},
+{
+  "name": "MG: Catch the thief",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "access_rules": [
+    "WorldKey:2, BuzzDefeated"
+  ],
+  "map_locations": [
+    { "map": "MiddayGardens", "x": 1190, "y": 876 }
+  ],
+  "sections": [
+    { "name": "Egg: Trixie", "hosted_item": "Egg", "item_count": 1 }
+  ]
+},
+{
+  "name": "Climb the ledge",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "access_rules": [
+    "WorldKey:2, BuzzDefeated"
+  ],
+  "map_locations": [
+  { "map": "MiddayGardens", "x": 485, "y": 1364 }
+],
+"sections": [
+  { "name": "Egg: Modesty", "hosted_item": "Egg", "item_count": 1 }
+]
+},
+{
+  "name": "Superflame the flowerpots",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "access_rules": [
+  "WorldKey:2, SuperflameGate",
+  "WorldKey:2, SuperflameGateMiddayGardens"
+  ],
+  "map_locations": [
+    { "map": "MiddayGardens", "x": 582, "y": 1353 }
+  ],
+  "sections": [
+    { "name": "Egg: Matt", "hosted_item": "Egg", "item_count": 1 }
+  ]
+},
+{
+  "name": "Defeat Spike",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "access_rules": [
+    "WorldKey:2, BuzzDefeated"
+  ],
+  "map_locations": [
+    { "map": "MiddayGardens", "x": 928, "y": 1496 }
+  ],
+  "sections": [
+    { "name": "Egg: Monique", "hosted_item": "Egg", "item_count": 1 },
+    {
+      "name": "Spike Defeated",
+      "hosted_item": "SpikeDefeated",
+      "item_count": 1,
+      "chest_unopened_img": "images/ui/Spike_Gray.png", 
+      "chest_opened_img": "images/ui/Spike.png"
+    }
+  ]
+}
+]

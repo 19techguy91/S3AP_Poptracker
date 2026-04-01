@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Desert Ruins Gem Thresholds",
+    "map_locations": [
+      { "map": "DesertRuins", "x": 125, "y": 357 }, 
+      { "map": "SharksDR", "x": 75, "y": 77 }, 
+      { "map": "SheilaDR", "x": 132, "y": 117 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Desert Ruins: Gems",
+    "map_locations": [
+      { "map": "DesertRuins", "x": 225, "y": 357 }, 
+      { "map": "SharksDR", "x": 175, "y": 77 }, 
+      { "map": "SheilaDR", "x": 232, "y": 117 }
+    ],
+    "sections": [
+      { "name": "Desert Ruins: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 106", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 107", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 108", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 109", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 110", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 111", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 112", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 113", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 114", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 115", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 116", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 117", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 118", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 119", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 120", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 121", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 122", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 123", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 124", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 125", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 126", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 127", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 128", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 129", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 130", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 131", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 132", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 133", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 134", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 135", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 136", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 137", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 138", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 139", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 140", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 141", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 142", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 143", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Desert Ruins: Gem 144", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle before Moneybags",
+    "map_locations": [
+        { "map": "DesertRuins", "x": 893, "y": 379 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 1", "hosted_item": "Life Bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Give me a hand",
+    "map_locations": [
+        { "map": "DesertRuins", "x": 641, "y": 618 }
+    ],
+    "sections": [
+        { "name": "Egg: Andy", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Sink or singe",
+    "map_locations": [
+        { "map": "DesertRuins", "x": 173, "y": 607 }
+    ],
+    "sections": [
+        { "name": "Egg: Nelly", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Krash Kangaroo I",
+    "map_locations": [
+        { "map": "SheilaDR", "x": 976, "y": 363 }
+    ],
+    "sections": [
+        { "name": "Egg: Lester", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Krash Kangaroo II",
+    "map_locations": [
+        { "map": "SheilaDR", "x": 1832, "y": 188 }
+    ],
+    "sections": [
+        { "name": "Egg: Pete", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Raid the tomb",
+    "map_locations": [
+        { "map": "DesertRuins", "x": 1046, "y": 868 }
+    ],
+    "sections": [
+        { "name": "Egg: Marty", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle near Sharks Sub-Area",
+    "map_locations": [
+        { "map": "DesertRuins", "x": 899, "y": 639 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 2", "hosted_item": "Life Bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shark shootin'",
+    "map_locations": [
+        { "map": "SharksDR", "x": 539, "y": 417 }
+    ],
+    "sections": [
+        { "name": "Egg: Sadie", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Destroy all seaweed",
+    "map_locations": [
+        { "map": "SharksDR", "x": 275, "y": 77 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "hosted_item": "Skillpoint", "item_count": 1 }
+    ]
+}
+]

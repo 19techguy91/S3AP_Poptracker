@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Haunted Tomb Gem Thresholds",
+    "map_locations": [
+      { "map": "HauntedTomb", "x": 1170, "y": 295 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Haunted Tomb: Gems",
+    "map_locations": [
+      { "map": "HauntedTomb", "x": 1270, "y": 295 }
+    ],
+    "sections": [
+      { "name": "Haunted Tomb: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 106", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 107", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 108", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 109", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 110", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 111", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 112", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 113", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 114", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 115", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Swim into the dark hole",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 1005, "y": 795 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "hosted_item": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle by Upper Falling Rocks Area",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 1096, "y": 778 }
+    ],
+    "sections": [
+        { "name": "Life Bottle", "hosted_item": "Life Bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Climb the wall",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 53, "y": 1446 }
+    ],
+    "sections": [
+        { "name": "Egg: Christine", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Release the temple dweller",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 993, "y": 1088 }
+    ],
+    "sections": [
+        { "name": "Egg: Will", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Snake Slide",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 517, "y": 1088 }
+    ],
+    "sections": [
+        { "name": "Egg: Malcom", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Tank blast I/Tank blast II",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 874, "y": 1461 }
+    ],
+    "sections": [
+        { "name": "Egg: MJ", "hosted_item": "Egg", "item_count": 1 },
+        { "name": "Egg: TJ", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Clear the caves",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 991, "y": 1180 }
+    ],
+    "sections": [
+        { "name": "Egg: Roxy", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

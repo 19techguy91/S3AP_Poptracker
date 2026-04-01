@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Bamboo Terrace Gem Thresholds",
+    "map_locations": [
+      { "map": "BambooTerrace", "x": 1321, "y": 216 },
+      { "map": "BentleyBT", "x": 566, "y": 58 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Bamboo Terrace: Gems",
+    "map_locations": [
+      { "map": "BambooTerrace", "x": 1421, "y": 216 },
+      { "map": "BentleyBT", "x": 666, "y": 58 }
+    ],
+    "sections": [
+      { "name": "Bamboo Terrace: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 106", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 107", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 108", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 109", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 110", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 111", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 112", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 113", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 114", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 115", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 116", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 117", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 118", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 119", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 120", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 121", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 122", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 123", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 124", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 125", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 126", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 127", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 128", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 129", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 130", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 131", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 132", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 133", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 134", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 135", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 136", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 137", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 138", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 139", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 140", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 141", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 142", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 143", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 144", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 145", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 146", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 147", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 148", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 149", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 150", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 151", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 152", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 153", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 154", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 155", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 156", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 157", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 158", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 159", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Glide to the small island",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 269, "y": 351 }
+    ],
+    "sections": [
+        { "name": "Egg: Dwight", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Glide to the hidden cave",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 173, "y": 652 }
+    ],
+    "sections": [
+        { "name": "Egg: Madison", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Underwater Life Bottle Breakable Wall x4",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 646, "y": 732 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 1", "hosted_item": "Life bottle", "item_count": 1 },
+        { "name": "Life Bottle 2", "hosted_item": "Life bottle", "item_count": 1 },
+        { "name": "Life Bottle 3", "hosted_item": "Life bottle", "item_count": 1 },
+        { "name": "Life Bottle 4", "hosted_item": "Life bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Clear the pandas' path",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1518, "y": 845 }
+    ],
+    "sections": [
+        { "name": "Egg: Tom", "hosted_item":"Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Catch the thief",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1254, "y": 813}
+    ],
+    "sections": [
+        { "name": "Egg: Pee-wee", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle in Bentley Sub-Area",
+    "map_locations": [
+        { "map": "BentleyBT", "x": 215, "y": 591}
+    ],
+    "sections": [
+        { "name": "Life Bottle 5", "hosted_item": "Life bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Smash to the mountain top",
+    "map_locations": [
+        { "map": "BentleyBT", "x": 365, "y": 318}
+    ],
+    "sections": [
+        { "name": "Egg: Brubeck", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shoot from the Boat",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 664, "y": 904 }
+    ],
+    "sections": [
+        { "name": "Egg: Rusty", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

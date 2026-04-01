@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Midnight Mountain Gem Thresholds",
+    "map_locations": [
+      { "map": "MidnightMountain", "x": 106, "y": 395 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Midnight Mountain: Gems",
+    "map_locations": [
+      { "map": "MidnightMountain", "x": 206, "y": 395 }
+    ],
+    "sections": [
+        { "name": "Midnight Mountain: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Midnight Mountain: Gem 105", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Glide to the island",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 106, "y": 1477 }
+    ],
+    "sections": [
+        { "name": "Egg: Saki", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "At the top of the waterfall",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 1037, "y": 795 }
+    ],
+    "sections": [
+        { "name": "Egg: Saki", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Stomp the floor",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 1705, "y": 863 }
+    ],
+    "sections": [
+        { "name": "Egg: Buddy", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shhh, it's a secret",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 648, "y": 375 }
+    ],
+    "sections": [
+        { "name": "Egg: Billy", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Catch the thief",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 693, "y": 977 }
+    ],
+    "sections": [
+        { "name": "Egg: Maiken", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Defeat the Sorceress?",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 1121, "y": 393 }
+    ],
+    "sections": [
+        { "name": "Egg: George", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Egg for sale",
+    "map_locations": [
+        { "map": "MidnightMountain", "x": 746, "y": 1065 }
+    ],
+    "sections": [
+        { "name": "Egg: Al", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

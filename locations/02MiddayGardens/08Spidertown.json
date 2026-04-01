@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Spider Town Gem Thresholds",
+    "map_locations": [
+      { "map": "SpiderTown", "x": 140, "y": 80 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Spider Town: Gems",
+    "map_locations": [
+      { "map": "SpiderTown", "x": 240, "y": 80 }
+    ],
+    "sections": [
+      { "name": "Spider Town: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Spider Town: Gem 47", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+  {
+    "name": "Go to town",
+    "map_locations": [
+      { "map": "SpiderTown", "x": 214, "y": 414 }
+    ],
+    "sections": [
+      { "name": "Egg: Tootie", "hosted_item": "Egg", "item_count": 1 }
+    ]
+  }
+]

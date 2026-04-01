@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Agent 9's Lab Gem Thresholds",
+    "map_locations": [
+      { "map": "Agent9sLab", "x": 110, "y": 139 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Agent 9's Lab: Gems",
+    "map_locations": [
+      { "map": "Agent9sLab", "x": 210, "y": 139 }
+    ],
+    "sections": [
+        { "name": "Agent 9's Lab: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 106", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},  {
+    "name": "This place has gone to the birds",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 784, "y": 448 }
+    ],
+    "sections": [
+        { "name": "Egg: Beulah", "hosted_item": "Egg", "item_count": 1 }
+    ]    
+  },
+    {
+    "name": "Snipe the boats",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 777, "y": 198 }
+    ],
+    "sections": [
+        { "name": "Egg: Tony", "hosted_item": "Egg", "item_count": 1 }
+    ]    
+  },
+      {
+    "name": "Blow up all palm trees",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 310, "y": 139 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "hosted_item": "Skillpoint", "item_count": 1 }
+    ]    
+  },
+      {
+    "name": "Blast and bomb the rhynocs",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 853, "y": 541 }
+    ],
+    "sections": [
+        { "name": "Egg: Rowan", "hosted_item": "Egg", "item_count": 1 }
+    ]    
+  }
+]

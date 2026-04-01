@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Bugbot Factory Gem Thresholds",
+    "map_locations": [
+      { "map": "BugbotFactory", "x": 607, "y": 74 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Bugbot Factory: Gems",
+    "map_locations": [
+      { "map": "BugbotFactory", "x": 707, "y": 74 }
+    ],
+    "sections": [
+      { "name": "Bugbot Factory: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bugbot Factory: Gem 42", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shut down the factory",
+    "map_locations": [
+        { "map": "BugbotFactory", "x": 423, "y": 812 }
+    ],
+    "sections": [
+        { "name": "Egg: Anabelle", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

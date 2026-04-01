@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Setting: Completion Goal",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "completion_goal",
+    "stages": [
+      { "name": "Sorceress1", "code": "Goal_sorceress1", "img": "images/settings/GameOptions/Goal_Sorceress1.png" },
+      { "name": "Egg For Sale", "code": "Goal_EggForSale", "img": "images/settings/GameOptions/Goal_EggForSale.png" },
+      { "name": "Sorceress2", "code": "Goal_sorceress2", "img": "images/settings/GameOptions/Goal_Sorceress2.png" },
+      { "name": "All Skillpoints", "code": "Goal_AllSkillpoints", "img": "images/settings/GameOptions/Goal_Skillpoints.png" },
+      { "name": "Epilogue", "code": "Goal_Epilogue", "img": "images/settings/GameOptions/Goal_Epilogue.png" },
+      { "name": "Spike", "code": "Goal_Spike", "img": "images/settings/GameOptions/Goal_Spike.png" },
+      { "name": "Scorch", "code": "Goal_Scorch", "img": "images/settings/GameOptions/Goal_Scorch.png" },
+      { "name": "Egg Hunt", "code": "Goal_EggHunt",  "img": "images/settings/GameOptions/Goal_EggHunt.png" }
+    ]
+  },
+  {
+    "name": "Setting: Eggs to Win",
+    "type": "consumable",
+    "img": "images/settings/GameOptions/EggHunt_EggsToWin.png",
+    "min_quantity": 10,
+    "max_quantity": 150,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 10,
+    "overlay_font_size": 20,
+    "codes": "eggs_to_win"
+  },
+  {
+    "name": "Setting: Extra Egg Hunt Eggs Percentage",
+    "type": "consumable",
+    "img": "images/settings/GameOptions/EggHunt_Percent.png",
+    "min_quantity": 0,
+    "max_quantity": 50,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20,
+    "codes": "egg_hunt_eggs_percentage"
+  },
+  {
+    "name": "Enable 25% Gem Checks",
+    "type": "toggle",
+    "codes": "setting_threshold_25",
+    "img": "images/settings/EnabledLocations/Red Gem 25.png"
+  },
+  {
+    "name": "Enable 50% Gem Checks",
+    "type": "toggle",
+    "codes": "setting_threshold_50",
+    "img": "images/settings/EnabledLocations/Red Gem 50.png"
+  },
+  {
+    "name": "Enable 75% Gem Checks",
+    "type": "toggle",
+    "codes": "setting_threshold_75",
+    "img": "images/settings/EnabledLocations/Red Gem 75.png"
+  },
+  {
+    "name": "Enable 100% Gem Checks",
+    "type": "toggle",
+    "codes": "setting_threshold_100",
+    "img": "images/settings/EnabledLocations/Red Gem 100.png"
+  },
+  {
+    "name": "Setting: Total Gem Checks",
+    "type": "toggle",
+    "img": "images/settings/EnabledLocations/Pink Gem.png",
+    "codes": "setting_enable_total_gem_checks"
+  },
+  {
+    "name": "Setting: Max Total Gem Checks",
+    "type": "consumable",
+    "img": "images/settings/EnabledLocations/Pink Gem.png",
+    "min_quantity": 500,
+    "max_quantity": 20000,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 500,
+    "overlay_font_size": 20,
+    "codes": "setting_max_total_gem_checks"
+  },
+  {
+    "name": "Setting: Gemsanity",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_gemsanity",
+    "stages": [
+      { "name": "Gemsanity Off", "code": "Gemsanity_Off", "img": "images/settings/EnabledLocations/Gemsanity_Off.png" },
+      { "name": "Partial", "code": "Gemsanity_Partial", "img": "images/settings/EnabledLocations/Gemsanity_Partial.png" },
+      { "name": "Full Bundles", "code": "Gemsanity_Full_Bundles", "img": "images/settings/EnabledLocations/Gemsanity_Full_Bundles.png" }
+    ]
+  },
+  {
+    "name": "Setting: Skillpoint",
+    "type": "toggle",
+    "codes": "setting_Skillpoint",
+    "img": "images/settings/EnabledLocations/Skillpoint.png"
+  },
+  {
+    "name": "Setting: Life Bottles",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_Lifebottles",
+    "stages": [
+      { "name": "Life Bottles Off", "img": "images/settings/EnabledLocations/LifeBottles_Off.png" },
+      { "name": "Life Bottles Normal", "img": "images/settings/EnabledLocations/LifeBottles_Normal.png" },
+      { "name": "Life Bottles Hard", "img": "images/settings/EnabledLocations/LifeBottles_Hard.png" }
+    ]
+  },
+  {
+    "name": "Setting: Open World",
+    "type": "toggle",
+    "codes": "setting_OpenWorld",
+    "img": "images/settings/GameProgression/OpenWorld.png"
+  },
+  {
+    "name": "Settings: Level Lock Options",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_level_lock",
+    "stages": [
+      { "name": "Level Lock: Vanilla", "img": "images/settings/GameProgression/Level_Lock_Vanilla.png" },
+      { "name": "Level Lock: Keys", "img": "images/settings/GameProgression/Level_Lock_Keys.png" },
+      { "name": "Level Lock: Random", "img": "images/settings/GameProgression/Level_Lock_Random.png" },
+      { "name": "Level Lock: Add Requirements", "img": "images/settings/GameProgression/Level_Lock_Add.png" },
+      { "name": "Level Lock: Add Gem Requirements", "img": "images/settings/GameProgression/Level_Lock_Gems.png" }
+    ]
+  },
+  {
+    "name": "Setting: Starting Levels",
+    "type": "consumable",
+    "img": "images/settings/GameProgression/StartingLevels.png",
+    "min_quantity": 1,
+    "max_quantity": 20,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_font_size": 20,
+    "codes": "setting_starting_levels"
+  },
+  {
+    "name": "Setting: Eggs to Open Sorceress Door",
+    "type": "consumable",
+    "img": "images/settings/GameProgression/SorceressDoor.png",
+    "min_quantity": 1,
+    "max_quantity": 100,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_font_size": 20,
+    "codes": "setting_eggs_to_open_sorceress_door"
+  },
+  {
+    "name": "Setting: Gems to Open SBR",
+    "type": "consumable",
+    "img": "images/settings/GameProgression/GemsOpenSBR.png",
+    "min_quantity": 1,
+    "max_quantity": 15000,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_font_size": 20,
+    "codes": "setting_gems_to_open_sbr"
+  },
+  {
+    "name": "Setting: Eggs to Open SBR",
+    "type": "consumable",
+    "img": "images/settings/GameProgression/EggsOpenSBR.png",
+    "min_quantity": 1,
+    "max_quantity": 149,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_font_size": 20,
+    "codes": "setting_eggs_to_open_sbr"
+  },
+  {
+    "name": "Setting: Moneybagssanity",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_moneybagssanity",
+    "stages": [
+      { "name": "Moneybags Off", "img": "images/settings/GameProgression/Moneybags_off.png" },
+      { "name": "Companionsanity", "img": "images/settings/GameProgression/Moneybags_Companionsanity.png" },
+      { "name": "Moneybagssanity", "img": "images/settings/GameProgression/Moneybagssanity.png" }
+    ]
+  },
+  {
+    "name": "Setting: World Keys",
+    "type": "toggle",
+    "codes": "setting_World_Keys",
+    "img": "images/settings/GameProgression/WorldKeys.png"
+  },
+  {
+    "name": "Settings: Powerups",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_powerup_logic",
+    "stages": [
+      { "name": "Powerup Gates Vanilla", "img": "images/settings/GameProgression/PowerupLock_Off.png" },
+      { "name": "Randomized Type", "img": "images/settings/GameProgression/PowerupLock_Type.png" },
+      { "name": "Individual Randomized", "img": "images/settings/GameProgression/PowerupLock_Individual.png" }
+    ]
+  },
+  {
+    "name": "Setting: Progressive Sparx Health",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_sparx_health",
+    "stages": [
+      { "name": "Off", "img": "images/settings/SparxSettings/Gold Sparx.png" },
+      { "name": "Blue", "img": "images/settings/SparxSettings/Blue Sparx.png" },
+      { "name": "Green", "img": "images/settings/SparxSettings/Green Sparx.png" },
+      { "name": "Sparxless", "img": "images/settings/SparxSettings/Sparxless.png" },
+      { "name": "True Sparxless", "img": "images/settings/SparxSettings/True Sparxless.png" }
+    ]
+  },
+  {
+    "name": "Setting: Sparx Power-sanity",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_sparx_power",
+    "stages": [
+      { "name": "Power-sanity Off", "img": "images/settings/SparxSettings/Powersanity_Off.png" },
+      { "name": "Basket Break", "img": "images/settings/SparxSettings/Powersanity_Basket.png" },
+      { "name": "Jar Break", "img": "images/settings/SparxSettings/Powersanity_Jar.png" }
+    ]
+  },
+  {
+    "name": "Setting: Progressive Sparx Health Logic",
+    "type": "toggle",
+    "codes": "setting_sparx_health_logic",
+    "img": "images/settings/SparxSettings/HealthLogic.png"
+  },
+  {
+    "name": "Sparx for Max Gems",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "codes": "setting_sparx_max_gems",
+    "stages": [
+      { "name": "Sparx Max Gems Off", "img": "images/settings/SparxSettings/SparxMaxGems_Off.png" },
+      { "name": "Green Sparx Required", "img": "images/settings/SparxSettings/SparxMaxGems_SparxRequired.png" },
+      { "name": "Sparx Finder Required", "img": "images/settings/SparxSettings/SparxMaxGems_SparxFinderRequired.png" }
+    ]
+  },
+  {
+    "name": "Trick: Sunny Villa Early Sheila",
+    "type": "toggle",
+    "codes":"LogicSunnySheilaEarly",
+    "img": "images/settings/Tricks/SunriseSpring/SunnyVillaEarlySheila.png"
+  },
+    {
+    "name": "Trick: Cloud Spires Backwards",
+    "type": "toggle",
+    "codes":"LogicCloudBackwards",
+    "img": "images/settings/Tricks/SunriseSpring/CloudSpiresBackwards.png"
+  },
+    {
+    "name": "Trick: Molten Crater Early",
+    "type": "toggle",
+    "codes":"LogicMoltenEarly",
+    "img": "images/settings/Tricks/SunriseSpring/MoltenCraterEarly.png"
+  },
+  {
+    "name": "Trick: Molten Crater Sgt Byrd Early",
+    "type": "toggle",
+    "codes":"LogicMoltenByrdEarly",
+    "img": "images/settings/Tricks/SunriseSpring/MoltenCraterSgtByrdEarly.png"
+  },
+  {
+    "name": "Trick: Molten Crater Thieves No Moneybags",
+    "type": "toggle",
+    "codes":"LogicMoltenThievesNoMoneybags",
+    "img": "images/settings/Tricks/SunriseSpring/MoltenCraterThievesNoMoneybags.png"
+  },
+  {
+    "name": "Trick: Seashell Shore Early",
+    "type": "toggle",
+    "codes":"LogicSeashellEarly",
+    "img": "images/settings/Tricks/SunriseSpring/SeashellShoreEarly.png"
+  },
+  {
+    "name": "Trick: Seashell Shore Sheila Early",
+    "type": "toggle",
+    "codes":"LogicSeashellSheilaEarly",
+    "img": "images/settings/Tricks/SunriseSpring/SeashellShoreSheilaEarly.png"
+  },
+  {
+    "name": "Trick: Mushroom Speedway Early",
+    "type": "toggle",
+    "codes":"LogicMushroomEarly",
+    "img": "images/settings/Tricks/SunriseSpring/MushroomSpeedwayEarly.png"
+  },
+  {
+    "name": "Trick: Sheila's Alp",
+    "type": "toggle",
+    "codes":"LogicSheilaEarly",
+    "img": "images/settings/Tricks/SunriseSpring/SheilasAlpEarly.png"
+  },
+  {
+    "name": "Trick: Spooky Swamp Early",
+    "type": "toggle",
+    "codes":"LogicSpookyEarly",
+    "img": "images/settings/Tricks/MiddayGardens/SpookySwampEarly.png"
+  },
+  {
+    "name": "Trick: Spooky Swamp NoMoneybags",
+    "type": "toggle",
+    "codes": "LogicSpookyNoMoneybags",
+    "img": "images/settings/Tricks/MiddayGardens/SpookySwampNoMoneybags.png"
+  },
+  {
+    "name": "Trick: Bamboo Terrace Early",
+    "type": "toggle",
+    "codes":"LogicBambooEarly",
+    "img": "images/settings/Tricks/MiddayGardens/BambooTerraceEarly.png"
+  },
+  {
+    "name": "Trick: Bamboo Terrace Bentley Early",
+    "type": "toggle",
+    "codes": "LogicBambooBentleyEarly",
+    "img": "images/settings/Tricks/MiddayGardens/BambooTerraceBentleyEarly.png"
+  },
+  {
+    "name": "Trick: Country Speedway Early",
+    "type": "toggle",
+    "codes": "LogicCountryEarly",
+    "img": "images/settings/Tricks/MiddayGardens/CountrySpeedwayEarly.png"
+  },
+  {
+    "name": "Trick: Sgt Byrds Base Early",
+    "type": "toggle",
+    "codes": "LogicByrdEarly",
+    "img": "images/settings/Tricks/MiddayGardens/SgtByrdsBaseEarly.png"
+  },
+  {
+    "name": "Trick: Frozen Altars Bentley Early",
+    "type": "toggle",
+    "codes": "LogicFrozenBentleyEarly",
+    "img": "images/settings/Tricks/EveningLake/FrozenAltarsBentleyEarly.png"
+  },
+  {
+    "name": "Trick: FrozenAltars Cat Hockey No Moneybags",
+    "type": "toggle",
+    "codes": "LogicFrozenCatHockeyNoMoneybags",
+    "img": "images/settings/Tricks/EveningLake/FrozenAltarsCatHockeyNoMoneybags.png"
+  },
+  {
+    "name": "Trick: Fireworks Factory Early",
+    "type": "toggle",
+    "codes": "LogicFireworksEarly",
+    "img": "images/settings/Tricks/EveningLake/FireworksFactoryEarly.png"
+  },
+  {
+    "name": "Trick: Fireworks Factory Agent 9 Early",
+    "type": "toggle",
+    "codes": "LogicFireworksAgent9Early",
+    "img": "images/settings/Tricks/EveningLake/FireworksFactoryAgent9Early.png"
+  },
+  {
+    "name": "Tricks: Charmed Ridge Early",
+    "type": "toggle",
+    "codes": "LogicCharmedEarly",
+    "img": "images/settings/Tricks/EveningLake/CharmedRidgeEarly.png"
+  },
+  {
+    "name": "Trick: Charmed Ridge No Moneybags",
+    "type": "toggle",
+    "codes": "LogicCharmedNoMoneybags",
+    "img": "images/settings/Tricks/EveningLake/CharmedRidgeNoMoneybags.png"
+  },
+  {
+    "name": "Trick: Honey Speedway Early",
+    "type": "toggle",
+    "codes": "LogicHoneyEarly",
+    "img": "images/settings/Tricks/EveningLake/HoneySpeedwayEarly.png"
+  },
+  {
+    "name": "Trick: Bentley Early",
+    "type": "toggle",
+    "codes": "LogicBentleyEarly",
+    "img": "images/settings/Tricks/EveningLake/BentleysOutpostEarly.png"
+  },
+  {
+    "name": "Trick: Crystal Islands No Moneybags",
+    "type": "toggle",
+    "codes": "LogicCrystalNoMoneybags",
+    "img": "images/settings/Tricks/MidnightMountain/CrystalIslandsNoMoneybags.png"
+  },
+  {
+    "name": "Trick: Desert Ruins No Moneybags",
+    "type": "toggle",
+    "codes": "LogicDesertNoMoneybags",
+    "img": "images/settings/Tricks/MidnightMountain/DesertRuinsNoMoneybags.png"
+  },
+  {
+    "name": "Trick: Dino Mines Agent 9 Early",
+    "type": "toggle",
+    "codes": "LogicDinoAgent9Early",
+    "img": "images/settings/Tricks/MidnightMountain/DinoMinesAgent9Early.png"
+  },
+  {
+    "name": "Trick: Sorceress Early",
+    "type": "toggle",
+    "codes": "LogicSorceressEarly",
+    "img": "images/settings/Tricks/MidnightMountain/SorceressEarly.png"
+  }
+]

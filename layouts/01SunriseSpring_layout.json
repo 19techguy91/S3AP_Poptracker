@@ -5,38 +5,10 @@
     "fill_row": true,
     "tabs": [
       { "title": "Hub", "content": { "type": "map", "maps": ["SunriseSpring"] } },
-      { 
-        "title": "Sunny Villa", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["SunnyVilla"] } },
-          { "title": "Sheila", "content": { "type": "map", "maps": ["SheilaSV"] } },
-          { "title": "Skate", "content": { "type": "map", "maps": ["SkateSV"] } }
-        ] }
-      },
-      { 
-        "title": "Cloud Spires", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["CloudSpires"] } },
-          { "title": "Bells", "content": { "type": "map", "maps": ["BellsCS"] } },
-          { "title": "Sun Seed", "content": { "type": "map", "maps": ["SunSeedCS"] } }
-        ] }
-      },
-      { 
-        "title": "Molten Crater", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["MoltenCrater"] } },
-          { "title": "Sgt. Byrd", "content": { "type": "map", "maps": ["SgtByrdMC"] } },
-          { "title": "Thief", "content": { "type": "map", "maps": ["ThiefMC"] } }
-        ] }
-      },
-      { 
-        "title": "Seashell Shore", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["SeashellShore"] } },
-          { "title": "Sheila", "content": { "type": "map", "maps": ["SheilaSS"] } },
-          { "title": "Bluto", "content": { "type": "map", "maps": ["BlutoSS"] } }
-        ] }
-      },
+      { "title": "Sunny Villa", "content": { "type": "map", "maps": ["SunnyVilla"] } },
+      { "title": "Cloud Spires", "content": { "type": "map", "maps": ["CloudSpires"] } },
+      { "title": "Molten Crater", "content": { "type": "map", "maps": ["MoltenCrater"] } },
+      { "title": "Seashell Shore", "content": { "type": "map", "maps": ["SeashellShore"] } },
       { "title": "Sheila's Alp", "content": { "type": "map", "maps": ["SheilasAlp"] } },
       { "title": "Mushroom Speedway", "content": { "type": "map", "maps": ["MushroomSpeedway"] } },
       { "title": "Crawdad Farm", "content": { "type": "map", "maps": ["CrawdadFarm"] } }

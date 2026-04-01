@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Crawdad Farm Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "CrawdadFarm", "x": 849, "y": 94 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Crawdad Farm: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "CrawdadFarm", "x": 949, "y": 94}
+
+    ],
+    "sections": [
+        { "name": "Crawdad Farm: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Crawdad Farm: Gem 47", "hosted_item": "Gem", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Take Sparx to the farm",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "CrawdadFarm", "x": 674, "y": 585 }
+    ],
+    "sections": [
+      { "name": "Egg: Nora", "hosted_item": "Egg", "item_count": 1 }
+    ]
+  }
+  ]

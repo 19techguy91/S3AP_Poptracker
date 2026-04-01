@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Honey Speedway Gem Thresholds",
+    "map_locations": [
+      { "map": "HoneySpeedway", "x": 1350, "y": 183 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Honey Speedway: Gems",
+    "map_locations": [
+      { "map": "HoneySpeedway", "x": 1450, "y": 183 }
+    ],
+    "sections": [
+        { "name": "Honey Speedway: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Honey Speedway: Gem 32", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Time Attack/Race the Bumblebees",
+    "map_locations": [
+        { "map": "HoneySpeedway", "x": 747, "y": 984 }
+    ],
+    "sections": [
+        { "name": "Egg: Chris", "hosted_item": "Egg", "item_count": 1 },
+        { "name": "Egg: Henri", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hunter's narrow escape",
+    "map_locations": [
+        { "map": "HoneySpeedway", "x": 702, "y": 403 }
+    ],
+    "sections": [
+        { "name": "Egg: Nori", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

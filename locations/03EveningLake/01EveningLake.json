@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Evening Lake Gem Thresholds",
+    "map_locations": [
+      { "map": "EveningLake", "x": 1239, "y": 170 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Evening Lake: Gems",
+    "map_locations": [
+      { "map": "EveningLake", "x": 1339, "y": 170 }
+    ],
+    "sections": [
+        { "name": "Evening Lake: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Evening Lake: Gem 75", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "Glide to the tower",
+    "map_locations": [
+        {"map": "EveningLake", "x": 1012, "y": 1127 }
+    ],
+    "sections": [
+        { "name": "Egg: Hannah", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "I'm invincible",
+    "map_locations": [
+        {"map": "EveningLake", "x": 1164, "y": 462 }
+    ],
+    "sections": [
+        { "name": "Egg: Stuart", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle on Upper Path",
+    "map_locations": [
+        {"map": "EveningLake", "x": 1244, "y": 548 }
+    ],
+    "sections": [
+        { "name": "Life Bottle", "hosted_item": "Life Bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "On the bridge",
+    "map_locations": [
+        {"map": "EveningLake", "x": 1125, "y": 749 }
+    ],
+    "sections": [
+        { "name": "Egg: Ted", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Belly of the whale",
+    "map_locations": [
+        {"map": "EveningLake", "x": 325, "y": 1129 }
+    ],
+    "sections": [
+        { "name": "Egg: Jonah", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Break the tower wall",
+    "map_locations": [
+        {"map": "EveningLake", "x": 1045, "y": 1749 }
+    ],
+    "sections": [
+        { "name": "Egg: Stooby", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+      {
+    "name": "Defeat Scorch",
+    "map_locations": [
+        { "map": "EveningLake", "x": 1346, "y": 724 }
+    ],
+    "sections": [
+        { "name": "Egg: James", "hosted_item": "Egg", "item_count": 1 }
+    ]    
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Bentleys Outpost Gem Thresholds",
+    "map_locations": [
+      { "map": "BentleysOutpost", "x": 80, "y": 66 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Bentleys Outpost: Gems",
+    "map_locations": [
+      { "map": "BentleysOutpost", "x": 180, "y": 66 }
+    ],
+    "sections": [
+      { "name": "Bentleys Outpost: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 53", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 54", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 55", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 56", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 57", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 58", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 59", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 60", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 61", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 62", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 63", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 64", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 65", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 66", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 67", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 68", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 69", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 70", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 71", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 72", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 73", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 74", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 75", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 76", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 77", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 78", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 79", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 80", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 81", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 82", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 83", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 84", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 85", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 86", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 87", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 88", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 89", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 90", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 91", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 92", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 93", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 94", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 95", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 96", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 97", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 98", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 99", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 100", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 101", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 102", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 103", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 104", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 105", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 106", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 107", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 108", "hosted_item": "Gem", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 109", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+{
+    "name": "The Gong Show",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 1042, "y": 259 }
+    ],
+    "sections": [
+        { "name": "Egg: Brian", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Push box off the cliff",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 614, "y": 267 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "hosted_item": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "Snowball's chance",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 530, "y": 263 }
+    ],
+    "sections": [
+        { "name": "Egg: Charlie", "hosted_item": "Egg", "item_count": 1 }
+    ]
+},
+{
+    "name": "Help Bartholomew home",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 254, "y": 269 }
+    ],
+    "sections": [
+        { "name": "Egg: Eric", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]

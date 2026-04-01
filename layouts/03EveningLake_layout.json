@@ -6,33 +6,12 @@
     "tabs": [
       { "title": "Hub", "content": { "type": "map", "maps": ["EveningLake"] } },
       { "title": "Frozen Altars", "content": { "type": "map", "maps": ["FrozenAltars"] } },
-      { 
-        "title": "Lost Fleet", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["LostFleet"] } },
-          { "title": "Skate", "content": { "type": "map", "maps": ["SkateLF"] } },
-          { "title": "Submarine", "content": { "type": "map", "maps": ["SubLF"] } }
-        ] }
-      },
-      { 
-        "title": "Fireworks Factory", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["FireworksFactory"] } },
-          { "title": "Agent 9", "content": { "type": "map", "maps": ["Agent9FF"] } },
-          { "title": "Dragons", "content": { "type": "map", "maps": ["DragonsFF"] } },
-          { "title": "Ninja", "content": { "type": "map", "maps": ["NinjaTrainingFF"] } }
-        ] }
-      },
-      { 
-        "title": "Charmed Ridge", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["CharmedRidge"] } },
-          { "title": "Goose", "content": { "type": "map", "maps": ["GoldenGooseCR"] } }
-        ] }
-      },
+      { "title": "Lost Fleet", "content": { "type": "map", "maps": ["LostFleet"] } },
+      { "title": "Fireworks Factory", "content": { "type": "map", "maps": ["FireworksFactory"] } },
+      { "title": "Charmed Ridge", "content": { "type": "map", "maps": ["CharmedRidge"] } },
       { "title": "Bentley's Outpost", "content": { "type": "map", "maps": ["BentleysOutpost"] } },
       { "title": "Honey Speedway", "content": { "type": "map", "maps": ["HoneySpeedway"] } },
-      { "title": "Spider Town", "content": { "type": "map", "maps": ["SpiderTown"] } }
+      { "title": "Starfish Reef", "content": { "type": "map", "maps": ["StarfishReef"] } }
     ]
   }
 }

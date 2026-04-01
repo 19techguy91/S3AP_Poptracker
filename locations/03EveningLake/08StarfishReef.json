@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Starfish Reef Gem Thresholds",
+    "map_locations": [
+      { "map": "StarfishReef", "x": 50, "y": 33 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Starfish Reef: Gems",
+    "map_locations": [
+      { "map": "StarfishReef", "x": 150, "y": 33 }
+    ],
+    "sections": [
+        { "name": "Starfish Reef: Gem 1", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 2", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 3", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 4", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 5", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 6", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 7", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 8", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 9", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 10", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 11", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 12", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 13", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 14", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 15", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 16", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 17", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 18", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 19", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 20", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 21", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 22", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 23", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 24", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 25", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 26", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 27", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 28", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 29", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 30", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 31", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 32", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 33", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 34", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 35", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 36", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 37", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 38", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 39", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 40", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 41", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 42", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 43", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 44", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 45", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 46", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 47", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 48", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 49", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 50", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 51", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 52", "hosted_item": "Gem", "item_count": 1 },
+        { "name": "Starfish Reef: Gem 53", "hosted_item": "Gem", "item_count": 1 }
+    ]
+},
+  {
+    "name": "Beach party!",
+    "map_locations": [
+        { "map": "StarfishReef", "x": 764, "y": 237 }
+    ],
+    "sections": [
+        { "name": "Egg: Ahnashawn", "hosted_item": "Egg", "item_count": 1 }
+    ]    
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Crystal Islands Gem Thresholds",
+    "map_locations": [
+      { "map": "CrystalIslands", "x": 172, "y": 150 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "hosted_item": "Gem Threshold", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "hosted_item": "Gem Threshold", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Woo, a secret egg",
+    "map_locations": [
+        { "map": "SuperBonusRound", "x": 564, "y": 329 }
+    ],
+    "sections": [
+        { "name": "Egg: Yin Yang", "hosted_item": "Egg", "item_count": 1 }
+    ]
+}
+]
