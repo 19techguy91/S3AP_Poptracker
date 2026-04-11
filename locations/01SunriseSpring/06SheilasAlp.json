@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Sheila's Alp Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "SheilasAlp", "x": 37, "y": 63 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Sheila's Alp: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "SheilasAlp", "x": 137, "y": 63 }
+    ],
+    "sections": [
+      { "name": "Sheila's Alp: Gem 1", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 2", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 3", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 4", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 5", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 6", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 7", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 8", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 9", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 10", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 11", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 12", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 13", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 14", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 15", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 16", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 17", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 18", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 19", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 20", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 21", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 22", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 23", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 24", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 25", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 26", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 27", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 28", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 29", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 30", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 31", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 32", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 33", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 34", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 35", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 36", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 37", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 38", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 39", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 40", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 41", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 42", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 43", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 44", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 45", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 46", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 47", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 48", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 49", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 50", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 51", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 52", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 53", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 54", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 55", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 56", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 57", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 58", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 59", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 60", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 61", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 62", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 63", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 64", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 65", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 66", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 67", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 68", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 69", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 70", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 71", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 72", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 73", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 74", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 75", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 76", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 77", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 78", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 79", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 80", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 81", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 82", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 83", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 84", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 85", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 86", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 87", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 88", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 89", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 90", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 91", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 92", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 93", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 94", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 95", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 96", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 97", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 98", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 99", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 100", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 101", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 102", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 103", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 104", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 105", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 106", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 107", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 108", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 109", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 110", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 111", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 112", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 113", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 114", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 115", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 116", "item_count": 1 },
+      { "name": "Sheila's Alp: Gem 117", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Life Bottle by Headbash Crate",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+      { "map": "SheilasAlp", "x": 335, "y": 65 }
+    ],
+    "sections": [
+      { "name": "Life Bottle", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Help Billy get home",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SheilasAlp", "x": 403, "y": 573 }
+    ],
+    "sections": [
+        { "name": "Egg: Ruby", "item_count": 1 }   
+    ]
+  },
+  {
+    "name": "Help Pete get home",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SheilasAlp", "x": 690, "y": 173 }
+    ],
+    "sections": [
+        { "name": "Egg: Jenny", "item_count": 1 }
+    ]
+  },
+    {
+        "name": "Help Bobby get home",
+        "chest_unopened_img": "images/ui/DragonEgg.png", 
+        "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+        "map_locations": [
+            { "map": "SheilasAlp", "x": 246, "y": 271 }
+        ],
+        "sections": [
+            { "name": "Egg: Nan", "item_count": 1 },
+            { "name": "Sheila's Alp: Level Complete",
+            "item_count": 1,
+            "chest_unopened_img": "images/ui/LevelComplete.png",
+            "chest_opened_img": "images/ui/LevelComplete_Checked.png"}
+        ]
+    }
+]

@@ -5,40 +5,14 @@
     "fill_row": true,
     "tabs": [
       { "title": "Hub", "content": { "type": "map", "maps": ["MidnightMountain"] } },
-      { 
-        "title": "Crystal Islands", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["CrystalIslands"] } },
-          { "title": "Bentley", "content": { "type": "map", "maps": ["BentleyCI"] } },
-          { "title": "Slide", "content": { "type": "map", "maps": ["SlideCI"] } }
-        ] }
-      },
-      { 
-        "title": "Desert Ruins", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["DesertRuins"] } },
-          { "title": "Sharks", "content": { "type": "map", "maps": ["SharksDR"] } },
-          { "title": "Sheila", "content": { "type": "map", "maps": ["SheilaDR"] } }
-        ] }
-      },
+      { "title": "Crystal Islands", "content": { "type": "map", "maps": ["CrystalIslands"] } },
+      { "title": "Desert Ruins", "content": { "type": "map", "maps": ["DesertRuins"] } },
       { "title": "Haunted Tomb", "content": { "type": "map", "maps": ["HauntedTomb"] } },
-      { 
-        "title": "Dino Mines", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["DinoMines"] } },
-          { "title": "Agent 9", "content": { "type": "map", "maps": ["Agent9DM"] } }
-        ] }
-      },
+      { "title": "Dino Mines", "content": { "type": "map", "maps": ["DinoMines"] } },
       { "title": "Agent 9's Lab", "content": { "type": "map", "maps": ["Agent9sLab"] } },
       { "title": "Harbor Speedway", "content": { "type": "map", "maps": ["HarborSpeedway"] } },
       { "title": "Bugbot Factory", "content": { "type": "map", "maps": ["BugbotFactory"] } },
-      { 
-        "title": "Super Bonus", 
-        "content": { "type": "tabbed", "fill_column": true, "fill_row": true, "tabs": [
-          { "title": "Main", "content": { "type": "map", "maps": ["SuperBonusRound"] } },
-          { "title": "Skate", "content": { "type": "map", "maps": ["SkateSBR"] } }
-        ] }
-      }
+      { "title": "Super Bonus Round", "content": { "type": "map", "maps": ["SuperBonusRound"] } }
     ]
   }
 }

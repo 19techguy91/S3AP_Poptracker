@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Seashell Shore Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 995, "y": 254 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+{
+    "name": "Seashell Shore: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 1095, "y": 254 }
+    ],
+    "sections": [
+      { "name": "Seashell Shore: Gem 1", "item_count": 1, "code": "ss_gem_1" },
+      { "name": "Seashell Shore: Gem 2", "item_count": 1, "code": "ss_gem_2" },
+      { "name": "Seashell Shore: Gem 3", "item_count": 1, "code": "ss_gem_3" },
+      { "name": "Seashell Shore: Gem 4", "item_count": 1, "code": "ss_gem_4" },
+      { "name": "Seashell Shore: Gem 5", "item_count": 1, "code": "ss_gem_5" },
+      { "name": "Seashell Shore: Gem 6", "item_count": 1, "code": "ss_gem_6" },
+      { "name": "Seashell Shore: Gem 7", "item_count": 1, "code": "ss_gem_7" },
+      { "name": "Seashell Shore: Gem 8", "item_count": 1, "code": "ss_gem_8" },
+      { "name": "Seashell Shore: Gem 9", "item_count": 1, "code": "ss_gem_9" },
+      { "name": "Seashell Shore: Gem 10", "item_count": 1, "code": "ss_gem_10" },
+      { "name": "Seashell Shore: Gem 11", "item_count": 1, "code": "ss_gem_11" },
+      { "name": "Seashell Shore: Gem 12", "item_count": 1, "code": "ss_gem_12" },
+      { "name": "Seashell Shore: Gem 13", "item_count": 1, "code": "ss_gem_13" },
+      { "name": "Seashell Shore: Gem 14", "item_count": 1, "code": "ss_gem_14" },
+      { "name": "Seashell Shore: Gem 15", "item_count": 1, "code": "ss_gem_15" },
+      { "name": "Seashell Shore: Gem 16", "item_count": 1, "code": "ss_gem_16" },
+      { "name": "Seashell Shore: Gem 17", "item_count": 1, "code": "ss_gem_17" },
+      { "name": "Seashell Shore: Gem 18", "item_count": 1, "code": "ss_gem_18" },
+      { "name": "Seashell Shore: Gem 19", "item_count": 1, "code": "ss_gem_19" },
+      { "name": "Seashell Shore: Gem 20", "item_count": 1, "code": "ss_gem_20" },
+      { "name": "Seashell Shore: Gem 21", "item_count": 1, "code": "ss_gem_21" },
+      { "name": "Seashell Shore: Gem 22", "item_count": 1, "code": "ss_gem_22" },
+      { "name": "Seashell Shore: Gem 23", "item_count": 1, "code": "ss_gem_23" },
+      { "name": "Seashell Shore: Gem 24", "item_count": 1, "code": "ss_gem_24" },
+      { "name": "Seashell Shore: Gem 25", "item_count": 1, "code": "ss_gem_25" },
+      { "name": "Seashell Shore: Gem 26", "item_count": 1, "code": "ss_gem_26" },
+      { "name": "Seashell Shore: Gem 27", "item_count": 1, "code": "ss_gem_27" },
+      { "name": "Seashell Shore: Gem 28", "item_count": 1, "code": "ss_gem_28" },
+      { "name": "Seashell Shore: Gem 29", "item_count": 1, "code": "ss_gem_29" },
+      { "name": "Seashell Shore: Gem 30", "item_count": 1, "code": "ss_gem_30" },
+      { "name": "Seashell Shore: Gem 31", "item_count": 1, "code": "ss_gem_31" },
+      { "name": "Seashell Shore: Gem 32", "item_count": 1, "code": "ss_gem_32" },
+      { "name": "Seashell Shore: Gem 33", "item_count": 1, "code": "ss_gem_33" },
+      { "name": "Seashell Shore: Gem 34", "item_count": 1, "code": "ss_gem_34" },
+      { "name": "Seashell Shore: Gem 35", "item_count": 1, "code": "ss_gem_35" },
+      { "name": "Seashell Shore: Gem 36", "item_count": 1, "code": "ss_gem_36" },
+      { "name": "Seashell Shore: Gem 37", "item_count": 1, "code": "ss_gem_37" },
+      { "name": "Seashell Shore: Gem 38", "item_count": 1, "code": "ss_gem_38" },
+      { "name": "Seashell Shore: Gem 39", "item_count": 1, "code": "ss_gem_39" },
+      { "name": "Seashell Shore: Gem 40", "item_count": 1, "code": "ss_gem_40" },
+      { "name": "Seashell Shore: Gem 41", "item_count": 1, "code": "ss_gem_41" },
+      { "name": "Seashell Shore: Gem 42", "item_count": 1, "code": "ss_gem_42" },
+      { "name": "Seashell Shore: Gem 43", "item_count": 1, "code": "ss_gem_43" },
+      { "name": "Seashell Shore: Gem 44", "item_count": 1, "code": "ss_gem_44" },
+      { "name": "Seashell Shore: Gem 45", "item_count": 1, "code": "ss_gem_45" },
+      { "name": "Seashell Shore: Gem 46", "item_count": 1, "code": "ss_gem_46" },
+      { "name": "Seashell Shore: Gem 47", "item_count": 1, "code": "ss_gem_47" },
+      { "name": "Seashell Shore: Gem 48", "item_count": 1, "code": "ss_gem_48" },
+      { "name": "Seashell Shore: Gem 49", "item_count": 1, "code": "ss_gem_49" },
+      { "name": "Seashell Shore: Gem 50", "item_count": 1, "code": "ss_gem_50" },
+      { "name": "Seashell Shore: Gem 51", "item_count": 1, "code": "ss_gem_51" },
+      { "name": "Seashell Shore: Gem 52", "item_count": 1, "code": "ss_gem_52" },
+      { "name": "Seashell Shore: Gem 53", "item_count": 1, "code": "ss_gem_53" },
+      { "name": "Seashell Shore: Gem 54", "item_count": 1, "code": "ss_gem_54" },
+      { "name": "Seashell Shore: Gem 55", "item_count": 1, "code": "ss_gem_55" },
+      { "name": "Seashell Shore: Gem 56", "item_count": 1, "code": "ss_gem_56" },
+      { "name": "Seashell Shore: Gem 57", "item_count": 1, "code": "ss_gem_57" },
+      { "name": "Seashell Shore: Gem 58", "item_count": 1, "code": "ss_gem_58" },
+      { "name": "Seashell Shore: Gem 59", "item_count": 1, "code": "ss_gem_59" },
+      { "name": "Seashell Shore: Gem 60", "item_count": 1, "code": "ss_gem_60" },
+      { "name": "Seashell Shore: Gem 61", "item_count": 1, "code": "ss_gem_61" },
+      { "name": "Seashell Shore: Gem 62", "item_count": 1, "code": "ss_gem_62" },
+      { "name": "Seashell Shore: Gem 63", "item_count": 1, "code": "ss_gem_63" },
+      { "name": "Seashell Shore: Gem 64", "item_count": 1, "code": "ss_gem_64" },
+      { "name": "Seashell Shore: Gem 65", "item_count": 1, "code": "ss_gem_65" },
+      { "name": "Seashell Shore: Gem 66", "item_count": 1, "code": "ss_gem_66" },
+      { "name": "Seashell Shore: Gem 67", "item_count": 1, "code": "ss_gem_67" },
+      { "name": "Seashell Shore: Gem 68", "item_count": 1, "code": "ss_gem_68" },
+      { "name": "Seashell Shore: Gem 69", "item_count": 1, "code": "ss_gem_69" },
+      { "name": "Seashell Shore: Gem 70", "item_count": 1, "code": "ss_gem_70" },
+      { "name": "Seashell Shore: Gem 71", "item_count": 1, "code": "ss_gem_71" },
+      { "name": "Seashell Shore: Gem 72", "item_count": 1, "code": "ss_gem_72" },
+      { "name": "Seashell Shore: Gem 73", "item_count": 1, "code": "ss_gem_73" },
+      { "name": "Seashell Shore: Gem 74", "item_count": 1, "code": "ss_gem_74" },
+      { "name": "Seashell Shore: Gem 75", "item_count": 1, "code": "ss_gem_75" },
+      { "name": "Seashell Shore: Gem 76", "item_count": 1, "code": "ss_gem_76" },
+      { "name": "Seashell Shore: Gem 77", "item_count": 1, "code": "ss_gem_77" },
+      { "name": "Seashell Shore: Gem 78", "item_count": 1, "code": "ss_gem_78" },
+      { "name": "Seashell Shore: Gem 79", "item_count": 1, "code": "ss_gem_79" },
+      { "name": "Seashell Shore: Gem 80", "item_count": 1, "code": "ss_gem_80" },
+      { "name": "Seashell Shore: Gem 81", "item_count": 1, "code": "ss_gem_81" },
+      { "name": "Seashell Shore: Gem 82", "item_count": 1, "code": "ss_gem_82" },
+      { "name": "Seashell Shore: Gem 83", "item_count": 1, "code": "ss_gem_83" },
+      { "name": "Seashell Shore: Gem 84", "item_count": 1, "code": "ss_gem_84" },
+      { "name": "Seashell Shore: Gem 85", "item_count": 1, "code": "ss_gem_85" },
+      { "name": "Seashell Shore: Gem 86", "item_count": 1, "code": "ss_gem_86" },
+      { "name": "Seashell Shore: Gem 87", "item_count": 1, "code": "ss_gem_87" },
+      { "name": "Seashell Shore: Gem 88", "item_count": 1, "code": "ss_gem_88" },
+      { "name": "Seashell Shore: Gem 89", "item_count": 1, "code": "ss_gem_89" },
+      { "name": "Seashell Shore: Gem 90", "item_count": 1, "code": "ss_gem_90" },
+      { "name": "Seashell Shore: Gem 91", "item_count": 1, "code": "ss_gem_91" },
+      { "name": "Seashell Shore: Gem 92", "item_count": 1, "code": "ss_gem_92" },
+      { "name": "Seashell Shore: Gem 93", "item_count": 1, "code": "ss_gem_93" },
+      { "name": "Seashell Shore: Gem 94", "item_count": 1, "code": "ss_gem_94" },
+      { "name": "Seashell Shore: Gem 95", "item_count": 1, "code": "ss_gem_95" },
+      { "name": "Seashell Shore: Gem 96", "item_count": 1, "code": "ss_gem_96" },
+      { "name": "Seashell Shore: Gem 97", "item_count": 1, "code": "ss_gem_97" },
+      { "name": "Seashell Shore: Gem 98", "item_count": 1, "code": "ss_gem_98" },
+      { "name": "Seashell Shore: Gem 99", "item_count": 1, "code": "ss_gem_99" },
+      { "name": "Seashell Shore: Gem 100", "item_count": 1, "code": "ss_gem_100" },
+      { "name": "Seashell Shore: Gem 101", "item_count": 1, "code": "ss_gem_101" },
+      { "name": "Seashell Shore: Gem 102", "item_count": 1, "code": "ss_gem_102" },
+      { "name": "Seashell Shore: Gem 103", "item_count": 1, "code": "ss_gem_103" },
+      { "name": "Seashell Shore: Gem 104", "item_count": 1, "code": "ss_gem_104" },
+      { "name": "Seashell Shore: Gem 105", "item_count": 1, "code": "ss_gem_105" },
+      { "name": "Seashell Shore: Gem 106", "item_count": 1, "code": "ss_gem_106" },
+      { "name": "Seashell Shore: Gem 107", "item_count": 1, "code": "ss_gem_107" },
+      { "name": "Seashell Shore: Gem 108", "item_count": 1, "code": "ss_gem_108" },
+      { "name": "Seashell Shore: Gem 109", "item_count": 1, "code": "ss_gem_109" },
+      { "name": "Seashell Shore: Gem 110", "item_count": 1, "code": "ss_gem_110" },
+      { "name": "Seashell Shore: Gem 111", "item_count": 1, "code": "ss_gem_111" },
+      { "name": "Seashell Shore: Gem 112", "item_count": 1, "code": "ss_gem_112" },
+      { "name": "Seashell Shore: Gem 113", "item_count": 1, "code": "ss_gem_113" },
+      { "name": "Seashell Shore: Gem 114", "item_count": 1, "code": "ss_gem_114" },
+      { "name": "Seashell Shore: Gem 115", "item_count": 1, "code": "ss_gem_115" },
+      { "name": "Seashell Shore: Gem 116", "item_count": 1, "code": "ss_gem_116" },
+      { "name": "Seashell Shore: Gem 117", "item_count": 1, "code": "ss_gem_117" },
+      { "name": "Seashell Shore: Gem 118", "item_count": 1, "code": "ss_gem_118" },
+      { "name": "Seashell Shore: Gem 119", "item_count": 1, "code": "ss_gem_119" },
+      { "name": "Seashell Shore: Gem 120", "item_count": 1, "code": "ss_gem_120" },
+      { "name": "Seashell Shore: Gem 121", "item_count": 1, "code": "ss_gem_121" },
+      { "name": "Seashell Shore: Gem 122", "item_count": 1, "code": "ss_gem_122" },
+      { "name": "Seashell Shore: Gem 123", "item_count": 1, "code": "ss_gem_123" },
+      { "name": "Seashell Shore: Gem 150", "item_count": 1, "code": "ss_gem_150" },
+      { "name": "Seashell Shore: Gem 151", "item_count": 1, "code": "ss_gem_151" },
+      { "name": "Seashell Shore: Gem 152", "item_count": 1, "code": "ss_gem_152" },
+      { "name": "Seashell Shore: Gem 153", "item_count": 1, "code": "ss_gem_153" },
+      { "name": "Seashell Shore: Gem 154", "item_count": 1, "code": "ss_gem_154" },
+      { "name": "Seashell Shore: Gem 155", "item_count": 1, "code": "ss_gem_155" },
+      { "name": "Seashell Shore: Gem 156", "item_count": 1, "code": "ss_gem_156" },
+      { "name": "Seashell Shore: Gem 157", "item_count": 1, "code": "ss_gem_157" },
+      { "name": "Seashell Shore: Gem 158", "item_count": 1, "code": "ss_gem_158" },
+      { "name": "Seashell Shore: Gem 159", "item_count": 1, "code": "ss_gem_159" },
+      { "name": "Seashell Shore: Gem 160", "item_count": 1, "code": "ss_gem_160" },
+      { "name": "Seashell Shore: Gem 161", "item_count": 1, "code": "ss_gem_161" },
+      { "name": "Seashell Shore: Gem 162", "item_count": 1, "code": "ss_gem_162" },
+      { "name": "Seashell Shore: Gem 163", "item_count": 1, "code": "ss_gem_163" },
+      { "name": "Seashell Shore: Gem 164", "item_count": 1, "code": "ss_gem_164" },
+      { "name": "Seashell Shore: Gem 165", "item_count": 1, "code": "ss_gem_165" },
+      { "name": "Seashell Shore: Gem 166", "item_count": 1, "code": "ss_gem_166" },
+      { "name": "Seashell Shore: Gem 167", "item_count": 1, "code": "ss_gem_167" },
+      { "name": "Seashell Shore: Gem 168", "item_count": 1, "code": "ss_gem_168" },
+      { "name": "Seashell Shore: Gem 169", "item_count": 1, "code": "ss_gem_169" }
+    ]
+},
+  {
+  "name": "Seashell Shore: Gems (Sheila's Area)",
+  "chest_unopened_img": "images/ui/Gems.png", 
+  "chest_opened_img": "images/ui/Gems_Checked.png",
+  "map_locations": [
+    { "map": "SeashellShore", "x": 1095, "y": 354 }
+  ],
+  "sections": [
+      { "name": "Seashell Shore: Gem 124", "item_count": 1, "code": "ss_gem_124" },
+      { "name": "Seashell Shore: Gem 125", "item_count": 1, "code": "ss_gem_125" },
+      { "name": "Seashell Shore: Gem 126", "item_count": 1, "code": "ss_gem_126" },
+      { "name": "Seashell Shore: Gem 127", "item_count": 1, "code": "ss_gem_127" },
+      { "name": "Seashell Shore: Gem 128", "item_count": 1, "code": "ss_gem_128" },
+      { "name": "Seashell Shore: Gem 129", "item_count": 1, "code": "ss_gem_129" },
+      { "name": "Seashell Shore: Gem 130", "item_count": 1, "code": "ss_gem_130" },
+      { "name": "Seashell Shore: Gem 131", "item_count": 1, "code": "ss_gem_131" },
+      { "name": "Seashell Shore: Gem 132", "item_count": 1, "code": "ss_gem_132" },
+      { "name": "Seashell Shore: Gem 133", "item_count": 1, "code": "ss_gem_133" },
+      { "name": "Seashell Shore: Gem 134", "item_count": 1, "code": "ss_gem_134" },
+      { "name": "Seashell Shore: Gem 135", "item_count": 1, "code": "ss_gem_135" },
+      { "name": "Seashell Shore: Gem 136", "item_count": 1, "code": "ss_gem_136" },
+      { "name": "Seashell Shore: Gem 137", "item_count": 1, "code": "ss_gem_137" },
+      { "name": "Seashell Shore: Gem 138", "item_count": 1, "code": "ss_gem_138" },
+      { "name": "Seashell Shore: Gem 139", "item_count": 1, "code": "ss_gem_139" },
+      { "name": "Seashell Shore: Gem 140", "item_count": 1, "code": "ss_gem_140" },
+      { "name": "Seashell Shore: Gem 141", "item_count": 1, "code": "ss_gem_141" },
+      { "name": "Seashell Shore: Gem 142", "item_count": 1, "code": "ss_gem_142" },
+      { "name": "Seashell Shore: Gem 143", "item_count": 1, "code": "ss_gem_143" },
+      { "name": "Seashell Shore: Gem 144", "item_count": 1, "code": "ss_gem_144" },
+      { "name": "Seashell Shore: Gem 145", "item_count": 1, "code": "ss_gem_145" },
+      { "name": "Seashell Shore: Gem 146", "item_count": 1, "code": "ss_gem_146" },
+      { "name": "Seashell Shore: Gem 147", "item_count": 1, "code": "ss_gem_147" },
+      { "name": "Seashell Shore: Gem 148", "item_count": 1, "code": "ss_gem_148" },
+      { "name": "Seashell Shore: Gem 149", "item_count": 1, "code": "ss_gem_149" }
+  ]
+},
+{
+    "name": "Catch the funky chicken Skill Point",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 895, "y": 254 }
+    ],
+    "sections": [
+      { "name": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle in Nook in Second Room",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 564, "y": 1610 }
+    ],
+    "sections": [
+      { "name": "Life Bottle in Nook in Second Room", "item_count": 1 }
+    ]
+},
+{
+    "name": "Under the Docks",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 1422, "y": 1644 }
+    ],
+    "sections": [
+      { "name": "Egg: Jason", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hop to the Secret Cave",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 1473, "y": 907 }
+    ],
+    "sections": [
+      { "name": "Egg: Jared", "item_count": 1 }
+    ]
+},
+{
+    "name": "Destroy the sand castle",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 1545, "y": 385 }
+    ],
+    "sections": [
+      { "name": "Egg: Mollie", "item_count": 1 }
+    ]
+},
+{
+    "name": "Clear out the pipe",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 645, "y": 1937 }
+    ],
+    "sections": [
+      { "name": "Egg: Duke", "item_count": 1 }
+    ]
+},
+{
+    "name": "Defeat the shark sub",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 407, "y": 962 }
+    ],
+    "sections": [
+      { "name": "Egg: Jackie", "item_count": 1 }
+    ]
+},
+{
+    "name": "Free the Seals",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SeashellShore", "x": 713, "y": 1127 }
+    ],
+    "sections": [
+      { "name": "Egg: Dizzy", "item_count": 1 },
+        { 
+          "name": "Seashell Shore: Level Complete", "item_count": 1 ,
+          "chest_unopened_img": "images/ui/LevelComplete.png",
+          "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+}
+]

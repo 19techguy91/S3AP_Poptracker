@@ -212,12 +212,8 @@ function onClear(slot_data)
                     item_obj.Active = false
                 elseif item_obj.Type == "progressive" then
                     item_obj.CurrentStage = 0
-                elseif item_obj.Type == "consumable" then
-                    if item_obj.MinCount then
-                        item_obj.AcquiredCount = item_obj.MinCount
-                    else
-                        item_obj.AcquiredCount = 0
-                    end
+                elseif item_obj.Type == "consumable" or item_obj.Type == "number" then
+                    item_obj.AcquiredCount = item_obj.MinCount or 0
                 elseif item_obj.Type == "progressive_toggle" then
                     item_obj.CurrentStage = 0
                     item_obj.Active = false
@@ -228,9 +224,7 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
+    autoFill(slot_data)
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -278,7 +272,7 @@ function onItem(index, item_id, item_name, player_number)
                 else
                     item_obj.Active = true
                 end
-            elseif item_obj.Type == "consumable" then
+            elseif item_obj.Type == "consumable" or item_obj.Type == "number" then
                 -- print("consumable")
                 item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(item_pair[3]) or 1)
             elseif item_obj.Type == "progressive_toggle" then
@@ -320,39 +314,22 @@ function onLocation(location_id, location_name)
     MANUAL_CHECKED = true
 end
 
--- this Autofill function is meant as an example on how to do the reading from slotdata and mapping the values to 
--- your own settings
--- function autoFill()
---     if SLOT_DATA == nil  then
---         print("its fucked")
---         return
---     end
---     -- print(dump_table(SLOT_DATA))
+function autoFill(slot_data)
+    if slot_data == nil then return end
 
---     mapToggle={[0]=0,[1]=1,[2]=1,[3]=1,[4]=1}
---     mapToggleReverse={[0]=1,[1]=0,[2]=0,[3]=0,[4]=0}
---     mapTripleReverse={[0]=2,[1]=1,[2]=0}
+    -- Sync the Total Gem Checks max milestone
+    if slot_data["total_gem_checks"] then
+        local toggle = Tracker:FindObjectForCode("setting_enable_total_gem_checks")
+        if toggle then
+            toggle.Active = true
+        end
 
---     slotCodes = {
---         map_name = {code="", mapping=mapToggle...}
---     }
---     -- print(dump_table(SLOT_DATA))
---     -- print(Tracker:FindObjectForCode("autofill_settings").Active)
---     if Tracker:FindObjectForCode("autofill_settings").Active == true then
---         for settings_name , settings_value in pairs(SLOT_DATA) do
---             -- print(k, v)
---             if slotCodes[settings_name] then
---                 item = Tracker:FindObjectForCode(slotCodes[settings_name].code)
---                 if item.Type == "toggle" then
---                     item.Active = slotCodes[settings_name].mapping[settings_value]
---                 else 
---                     -- print(k,v,Tracker:FindObjectForCode(slotCodes[k].code).CurrentStage, slotCodes[k].mapping[v])
---                     item.CurrentStage = slotCodes[settings_name].mapping[settings_value]
---                 end
---             end
---         end
---     end
--- end
+        local obj = Tracker:FindObjectForCode("setting_max_total_gem_checks")
+        if obj then
+            obj.AcquiredCount = tonumber(slot_data["total_gem_checks"])
+        end
+    end
+end
 
 function OnNotify(key, value, old_value)
     print("OnNotify", key, value, old_value)

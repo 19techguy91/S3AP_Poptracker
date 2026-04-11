@@ -1,0 +1,14 @@
+{
+"setting_icon_big": {
+    "max_width": 48,
+    "max_height": 48,
+    "item_margin": 4,
+    "h_alignment": "center",
+    "v_alignment": "center"
+},
+  "setting_icon_small": {
+  "item_margin": "1, 1",
+  "h_alignment": "center",
+  "v_alignment": "middle"
+}
+}

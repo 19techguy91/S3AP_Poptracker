@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Bentleys Outpost Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "BentleysOutpost", "x": 180, "y": 66 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Bentleys Outpost: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",    
+    "map_locations": [
+      { "map": "BentleysOutpost", "x": 280, "y": 66 }
+    ],
+    "sections": [
+      { "name": "Bentleys Outpost: Gem 1", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 2", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 3", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 4", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 5", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 6", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 7", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 8", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 9", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 10", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 11", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 12", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 13", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 14", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 15", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 16", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 17", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 18", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 19", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 20", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 21", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 22", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 23", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 24", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 25", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 26", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 27", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 28", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 29", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 30", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 31", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 32", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 33", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 34", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 35", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 36", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 37", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 38", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 39", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 40", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 41", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 42", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 43", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 44", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 45", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 46", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 47", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 48", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 49", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 50", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 51", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 52", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 53", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 54", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 55", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 56", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 57", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 58", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 59", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 60", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 61", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 62", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 63", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 64", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 65", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 66", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 67", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 68", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 69", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 70", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 71", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 72", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 73", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 74", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 75", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 76", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 77", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 78", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 79", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 80", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 81", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 82", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 83", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 84", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 85", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 86", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 87", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 88", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 89", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 90", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 91", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 92", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 93", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 94", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 95", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 96", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 97", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 98", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 99", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 100", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 101", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 102", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 103", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 104", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 105", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 106", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 107", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 108", "item_count": 1 },
+      { "name": "Bentleys Outpost: Gem 109", "item_count": 1 }
+    ]
+},
+{
+    "name": "Push box off the cliff",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 80, "y": 66 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "The Gong Show",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 1042, "y": 259 }
+    ],
+    "sections": [
+        { "name": "Egg: Brian", "item_count": 1 }
+    ]
+},
+{
+    "name": "Snowball's chance",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 530, "y": 263 }
+    ],
+    "sections": [
+        { "name": "Egg: Charlie", "item_count": 1 }
+    ]
+},
+{
+    "name": "Help Bartholomew home",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        {"map": "BentleysOutpost", "x": 254, "y": 269 }
+    ],
+    "sections": [
+        { "name": "Egg: Eric", "item_count": 1 },
+    { 
+    "name": "Bentley's Outpost: Level Complete", 
+    "item_count": 1,
+    "chest_unopened_img": "images/ui/LevelComplete.png", 
+    "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+}
+]

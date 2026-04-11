@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Dino Mines Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "DinoMines", "x": 1316, "y": 315 }, 
+      { "map": "Agent9DM", "x": 142, "y": 142 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Dino Mines: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "DinoMines", "x": 1416, "y": 315 }, 
+      { "map": "Agent9DM", "x": 242, "y": 142 }
+    ],
+    "sections": [
+      { "name": "Dino Mines: Gem 1", "item_count": 1 },
+      { "name": "Dino Mines: Gem 2", "item_count": 1 },
+      { "name": "Dino Mines: Gem 3", "item_count": 1 },
+      { "name": "Dino Mines: Gem 4", "item_count": 1 },
+      { "name": "Dino Mines: Gem 5", "item_count": 1 },
+      { "name": "Dino Mines: Gem 6", "item_count": 1 },
+      { "name": "Dino Mines: Gem 7", "item_count": 1 },
+      { "name": "Dino Mines: Gem 8", "item_count": 1 },
+      { "name": "Dino Mines: Gem 9", "item_count": 1 },
+      { "name": "Dino Mines: Gem 10", "item_count": 1 },
+      { "name": "Dino Mines: Gem 11", "item_count": 1 },
+      { "name": "Dino Mines: Gem 12", "item_count": 1 },
+      { "name": "Dino Mines: Gem 13", "item_count": 1 },
+      { "name": "Dino Mines: Gem 14", "item_count": 1 },
+      { "name": "Dino Mines: Gem 15", "item_count": 1 },
+      { "name": "Dino Mines: Gem 16", "item_count": 1 },
+      { "name": "Dino Mines: Gem 17", "item_count": 1 },
+      { "name": "Dino Mines: Gem 18", "item_count": 1 },
+      { "name": "Dino Mines: Gem 19", "item_count": 1 },
+      { "name": "Dino Mines: Gem 20", "item_count": 1 },
+      { "name": "Dino Mines: Gem 21", "item_count": 1 },
+      { "name": "Dino Mines: Gem 22", "item_count": 1 },
+      { "name": "Dino Mines: Gem 23", "item_count": 1 },
+      { "name": "Dino Mines: Gem 24", "item_count": 1 },
+      { "name": "Dino Mines: Gem 25", "item_count": 1 },
+      { "name": "Dino Mines: Gem 26", "item_count": 1 },
+      { "name": "Dino Mines: Gem 27", "item_count": 1 },
+      { "name": "Dino Mines: Gem 28", "item_count": 1 },
+      { "name": "Dino Mines: Gem 29", "item_count": 1 },
+      { "name": "Dino Mines: Gem 30", "item_count": 1 },
+      { "name": "Dino Mines: Gem 31", "item_count": 1 },
+      { "name": "Dino Mines: Gem 32", "item_count": 1 },
+      { "name": "Dino Mines: Gem 33", "item_count": 1 },
+      { "name": "Dino Mines: Gem 34", "item_count": 1 },
+      { "name": "Dino Mines: Gem 35", "item_count": 1 },
+      { "name": "Dino Mines: Gem 36", "item_count": 1 },
+      { "name": "Dino Mines: Gem 37", "item_count": 1 },
+      { "name": "Dino Mines: Gem 38", "item_count": 1 },
+      { "name": "Dino Mines: Gem 39", "item_count": 1 },
+      { "name": "Dino Mines: Gem 40", "item_count": 1 },
+      { "name": "Dino Mines: Gem 41", "item_count": 1 },
+      { "name": "Dino Mines: Gem 42", "item_count": 1 },
+      { "name": "Dino Mines: Gem 43", "item_count": 1 },
+      { "name": "Dino Mines: Gem 44", "item_count": 1 },
+      { "name": "Dino Mines: Gem 45", "item_count": 1 },
+      { "name": "Dino Mines: Gem 46", "item_count": 1 },
+      { "name": "Dino Mines: Gem 47", "item_count": 1 },
+      { "name": "Dino Mines: Gem 48", "item_count": 1 },
+      { "name": "Dino Mines: Gem 49", "item_count": 1 },
+      { "name": "Dino Mines: Gem 50", "item_count": 1 },
+      { "name": "Dino Mines: Gem 51", "item_count": 1 },
+      { "name": "Dino Mines: Gem 52", "item_count": 1 },
+      { "name": "Dino Mines: Gem 53", "item_count": 1 },
+      { "name": "Dino Mines: Gem 54", "item_count": 1 },
+      { "name": "Dino Mines: Gem 55", "item_count": 1 },
+      { "name": "Dino Mines: Gem 56", "item_count": 1 },
+      { "name": "Dino Mines: Gem 57", "item_count": 1 },
+      { "name": "Dino Mines: Gem 58", "item_count": 1 },
+      { "name": "Dino Mines: Gem 59", "item_count": 1 },
+      { "name": "Dino Mines: Gem 60", "item_count": 1 },
+      { "name": "Dino Mines: Gem 61", "item_count": 1 },
+      { "name": "Dino Mines: Gem 62", "item_count": 1 },
+      { "name": "Dino Mines: Gem 63", "item_count": 1 },
+      { "name": "Dino Mines: Gem 64", "item_count": 1 },
+      { "name": "Dino Mines: Gem 65", "item_count": 1 },
+      { "name": "Dino Mines: Gem 66", "item_count": 1 },
+      { "name": "Dino Mines: Gem 67", "item_count": 1 },
+      { "name": "Dino Mines: Gem 68", "item_count": 1 },
+      { "name": "Dino Mines: Gem 69", "item_count": 1 },
+      { "name": "Dino Mines: Gem 70", "item_count": 1 },
+      { "name": "Dino Mines: Gem 71", "item_count": 1 },
+      { "name": "Dino Mines: Gem 72", "item_count": 1 },
+      { "name": "Dino Mines: Gem 73", "item_count": 1 },
+      { "name": "Dino Mines: Gem 74", "item_count": 1 },
+      { "name": "Dino Mines: Gem 75", "item_count": 1 },
+      { "name": "Dino Mines: Gem 76", "item_count": 1 },
+      { "name": "Dino Mines: Gem 77", "item_count": 1 },
+      { "name": "Dino Mines: Gem 78", "item_count": 1 },
+      { "name": "Dino Mines: Gem 79", "item_count": 1 },
+      { "name": "Dino Mines: Gem 80", "item_count": 1 },
+      { "name": "Dino Mines: Gem 81", "item_count": 1 },
+      { "name": "Dino Mines: Gem 82", "item_count": 1 },
+      { "name": "Dino Mines: Gem 83", "item_count": 1 },
+      { "name": "Dino Mines: Gem 84", "item_count": 1 },
+      { "name": "Dino Mines: Gem 85", "item_count": 1 },
+      { "name": "Dino Mines: Gem 86", "item_count": 1 },
+      { "name": "Dino Mines: Gem 87", "item_count": 1 },
+      { "name": "Dino Mines: Gem 88", "item_count": 1 },
+      { "name": "Dino Mines: Gem 89", "item_count": 1 },
+      { "name": "Dino Mines: Gem 90", "item_count": 1 },
+      { "name": "Dino Mines: Gem 91", "item_count": 1 },
+      { "name": "Dino Mines: Gem 92", "item_count": 1 },
+      { "name": "Dino Mines: Gem 93", "item_count": 1 },
+      { "name": "Dino Mines: Gem 94", "item_count": 1 },
+      { "name": "Dino Mines: Gem 95", "item_count": 1 },
+      { "name": "Dino Mines: Gem 96", "item_count": 1 },
+      { "name": "Dino Mines: Gem 97", "item_count": 1 },
+      { "name": "Dino Mines: Gem 98", "item_count": 1 },
+      { "name": "Dino Mines: Gem 99", "item_count": 1 },
+      { "name": "Dino Mines: Gem 100", "item_count": 1 },
+      { "name": "Dino Mines: Gem 101", "item_count": 1 },
+      { "name": "Dino Mines: Gem 102", "item_count": 1 },
+      { "name": "Dino Mines: Gem 103", "item_count": 1 },
+      { "name": "Dino Mines: Gem 104", "item_count": 1 },
+      { "name": "Dino Mines: Gem 105", "item_count": 1 },
+      { "name": "Dino Mines: Gem 106", "item_count": 1 },
+      { "name": "Dino Mines: Gem 107", "item_count": 1 },
+      { "name": "Dino Mines: Gem 108", "item_count": 1 },
+      { "name": "Dino Mines: Gem 109", "item_count": 1 },
+      { "name": "Dino Mines: Gem 110", "item_count": 1 },
+      { "name": "Dino Mines: Gem 111", "item_count": 1 },
+      { "name": "Dino Mines: Gem 112", "item_count": 1 },
+      { "name": "Dino Mines: Gem 113", "item_count": 1 },
+      { "name": "Dino Mines: Gem 114", "item_count": 1 },
+      { "name": "Dino Mines: Gem 115", "item_count": 1 },
+      { "name": "Dino Mines: Gem 116", "item_count": 1 },
+      { "name": "Dino Mines: Gem 117", "item_count": 1 },
+      { "name": "Dino Mines: Gem 118", "item_count": 1 },
+      { "name": "Dino Mines: Gem 119", "item_count": 1 },
+      { "name": "Dino Mines: Gem 120", "item_count": 1 },
+      { "name": "Dino Mines: Gem 121", "item_count": 1 },
+      { "name": "Dino Mines: Gem 122", "item_count": 1 },
+      { "name": "Dino Mines: Gem 123", "item_count": 1 },
+      { "name": "Dino Mines: Gem 124", "item_count": 1 },
+      { "name": "Dino Mines: Gem 125", "item_count": 1 },
+      { "name": "Dino Mines: Gem 126", "item_count": 1 },
+      { "name": "Dino Mines: Gem 127", "item_count": 1 },
+      { "name": "Dino Mines: Gem 128", "item_count": 1 },
+      { "name": "Dino Mines: Gem 129", "item_count": 1 },
+      { "name": "Dino Mines: Gem 130", "item_count": 1 },
+      { "name": "Dino Mines: Gem 131", "item_count": 1 },
+      { "name": "Dino Mines: Gem 132", "item_count": 1 },
+      { "name": "Dino Mines: Gem 133", "item_count": 1 },
+      { "name": "Dino Mines: Gem 134", "item_count": 1 },
+      { "name": "Dino Mines: Gem 135", "item_count": 1 },
+      { "name": "Dino Mines: Gem 136", "item_count": 1 },
+      { "name": "Dino Mines: Gem 137", "item_count": 1 },
+      { "name": "Dino Mines: Gem 138", "item_count": 1 },
+      { "name": "Dino Mines: Gem 139", "item_count": 1 },
+      { "name": "Dino Mines: Gem 140", "item_count": 1 },
+      { "name": "Dino Mines: Gem 141", "item_count": 1 },
+      { "name": "Dino Mines: Gem 142", "item_count": 1 },
+      { "name": "Dino Mines: Gem 143", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hit all the seahorses",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 1216, "y": 315 }
+    ],
+    "sections": [
+        { "name": "Skillpoint 1", "item_count": 1 }
+    ]
+},
+{
+    "name": "Hit the secret dino",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 1216, "y": 415 }
+    ],
+    "sections": [
+        { "name": "Skillpoint 2", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle in Fireplace",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 1026, "y": 880 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 1", "item_count": 1 }
+    ]
+},
+{
+    "name": "Leap of faith",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 963, "y": 481 }
+    ],
+    "sections": [
+        { "name": "Egg: Dan", "item_count": 1 }
+    ]
+},
+
+{
+    "name": "Swim through the wall",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 852, "y": 1204 }
+    ],
+    "sections": [
+        { "name": "Egg: Romey", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shafted",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 797, "y": 2144 }
+    ],
+    "sections": [
+        { "name": "Egg: Elliot", "item_count": 1 }
+    ]
+},
+{
+    "name": "Gunfight at the Jurassic Corral",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 2466, "y": 510 }
+    ],
+    "sections": [
+        { "name": "Egg: Sharon", "item_count": 1 }
+    ]
+},
+{
+    "name": "Take it to the bank",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 2308, "y": 290 }
+    ],
+    "sections": [
+        { "name": "Egg: Sergio", "item_count": 1 }
+    ]
+},
+{
+    "name": "Jail break!",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "DinoMines", "x": 547, "y": 510 }
+    ],
+    "sections": [
+        { "name": "Egg: Kiki", "item_count": 1 },
+    { 
+    "name": "Dino Mines: Level Complete", 
+    "item_count": 1,
+    "chest_unopened_img": "images/ui/LevelComplete.png", 
+    "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+}
+]

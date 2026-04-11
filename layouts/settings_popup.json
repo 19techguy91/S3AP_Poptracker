@@ -1,1 +1,158 @@
-{}
+{
+  "settings_popup": {
+    "type": "container",
+    "background": "#150082",
+    "content": {
+      "type": "tabbed",
+      "tabs": [
+        {
+          "title": "Game Options",
+          "content": {
+            "type": "itemgrid",
+            "class": "setting_icon_big",
+            "item_size": 7,
+            "rows": [
+              [ "completion_goal", "eggs_to_win", "egg_hunt_eggs_percentage" ]
+            ]
+          }
+        },
+        {
+          "title": "Locations",
+          "content": {
+            "type": "itemgrid",
+            "class": "setting_icon_big",
+            "item_size": 7,
+            "rows": [
+              [ "setting_threshold_25", "setting_threshold_50", "setting_enable_total_gem_checks" ],
+              [ "setting_threshold_75", "setting_threshold_100", "setting_max_total_gem_checks" ],
+              [ "setting_gemsanity", "setting_Skillpoint", "setting_Lifebottles" ]
+            ]
+          }
+        },
+        {
+          "title": "Progression",
+          "content": {
+            "type": "itemgrid",
+            "class": "setting_icon_big",
+            "item_size": 7,
+            "rows": [
+              [ "setting_OpenWorld", "setting_level_lock", "setting_starting_levels" ],
+              [ "setting_eggs_to_open_sorceress_door", "setting_gems_to_open_sbr", "setting_eggs_to_open_sbr" ],
+              [ "setting_moneybagssanity", "setting_powerup_logic", "setting_World_Keys" ]
+            ]
+          }
+        },
+        {
+          "title": "Sparx",
+          "content": {
+            "type": "itemgrid",
+            "class": "setting_icon_big",
+            "item_size": 7,
+            "rows": [
+              [ "setting_sparx_health", "setting_sparx_power", "setting_sparx_health_logic", "setting_sparx_max_gems" ]
+            ]
+          }
+        },
+        {
+          "title": "Tricks",
+          "content": {
+            "type": "itemgrid",
+            "class": "setting_icon_big",
+            "item_size": 7,
+            "rows": [
+              [ "LogicSunnySheilaEarly", "LogicCloudBackwards", "LogicMoltenEarly", "LogicMoltenByrdEarly", "LogicMoltenThievesNoMoneybags", "LogicSeashellEarly" ],
+              [ "LogicSeashellSheilaEarly", "LogicMushroomEarly", "LogicSheilaEarly", "LogicSpookyEarly", "LogicSpookyNoMoneybags", "LogicBambooEarly" ],
+              [ "LogicBambooBentleyEarly", "LogicCountryEarly", "LogicByrdEarly", "LogicFrozenBentleyEarly", "LogicFrozenCatHockeyNoMoneybags", "LogicFireworksEarly" ],
+              [ "LogicFireworksAgent9Early", "LogicCharmedEarly", "LogicCharmedNoMoneybags", "LogicHoneyEarly", "LogicBentleyEarly", "LogicCrystalNoMoneybags" ],
+              [ "LogicDesertNoMoneybags", "LogicDinoAgent9Early", "LogicSorceressEarly" ]
+            ]
+          }
+        },
+{
+  "title": "Gem Inventory",
+  "content": {
+    "type": "array",
+    "orientation": "vertical",
+    "content": [
+      {
+        "type": "group",
+        "header": "Sunrise Spring",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 7,
+          "rows": [ 
+            ["SunriseGems", "SunnyGems", "CloudGems", "MoltenGems", "SeashellGems", "SheilaGems"] 
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Midday Garden",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 7,
+          "rows": [ 
+            ["MiddayGems", "IcyGems", "EnchantedGems", "SpookyGems", "BambooGems", "ByrdGems"] 
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Evening Lake",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 7,
+          "rows": [ 
+            ["EveningGems", "FrozenGems", "LostGems", "FireworksGems", "CharmedGems", "BentleyGems"] 
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Midnight Mountain",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 7,
+          "rows": [ 
+            ["MidnightGems", "CrystalGems", "DesertGems", "HauntedGems", "DinoGems", "Agent9Gems"] 
+          ]
+        }
+      }
+    ]
+  }
+},
+        {
+          "title": "Bonus Gems",
+          "content": {
+            "type": "array",
+            "orientation": "vertical",
+            "content": [
+              {
+                "type": "group",
+                "header": "Speedway",
+                "content": {
+                  "type": "itemgrid",
+                  "item_size": 7,
+                  "rows": [
+                    ["MushroomGems", "CountryGems", "HoneyGems", "HarborGems"]
+                  ]
+                }
+              },
+              {
+                "type": "group",
+                "header": "Sparx World",
+                "content": {
+                  "type": "itemgrid",
+                  "item_size": 7,
+                  "rows": [
+                    ["CrawdadGems", "SpiderGems", "StarfishGems", "BugbotGems"]
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,12 +1,135 @@
 [
   {
-    "name": "Dragon Egg",
-    "type": "static",
-    "img": "images/egg.png"
+    "name": "Egg Count",
+    "type": "consumable",
+    "overlay_font_size": 20,
+    "overlay_align": "center",
+    "codes": "Egg",
+    "overlay_background": "#A5268788",
+    "img": "images/items/DragonEgg.png",
+    "max_quantity": 150
+  },
+{
+    "name": "Gem Count",
+    "type": "consumable",
+    "overlay_font_size": 20,
+    "overlay_align": "center", 
+    "codes": "Gem",
+    "overlay_background": "#A5268788",
+    "img": "images/items/Gem.png",
+    "max_quantity": 20000
+  },
+  {"name": "Completed Levels",
+"type": "consumable",
+"overlay_font_size": 20,
+"overlay_align": "center",
+"codes": "CompletedLevels",
+"overlay_background": "#A5268788",
+"img": "images/items/CompletedLevels.png",
+"max_quantity": 25
+},
+  {
+    "name": "Progressive Sparx",
+    "type": "progressive",
+    "codes": "ProgressiveSparx",
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "stages": [
+      { "name": "Sparxless", "img": "images/items/Sparxless.png" },
+      { "name": "Green Sparx", "img": "images/items/GreenSparx.png" },
+      { "name": "Blue Sparx", "img": "images/items/BlueSparx.png" },
+      { "name": "Gold Sparx", "img": "images/items/GoldSparx.png" }
+    ]
   },
   {
-    "name": "Swim",
-    "type": "toggle",
-    "img": "images/swim.png"
-  }
+    "name": "Progressive Powersanity Basket/Jar",
+    "type": "progressive",
+    "codes": "ProgressiveBasket",
+    "initial_stage_idx": 0,
+    "allow_disabled": true,
+    "stages": [
+      { "name": "Basket Break", "img": "images/items/Powersanity_Basket.png" },
+      { "name": "Jar Break+Atlas Warp", "img": "images/items/Powersanity_Jar.png" }
+    ]
+  },
+  {
+    "name": "World Key",
+    "type": "progressive",
+    "codes": "world_key",
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "stages": [
+      { "name": "Sunrise Spring", "img": "images/items/SSKeys/SSWorldKey.png" },
+      { "name": "Midday Gardens", "img": "images/items/MGKeys/MGWorldKey.png" },
+      { "name": "Evening Lake", "img": "images/items/ELKeys/ELWorldKey.png" },
+      { "name": "Midnight Mountain", "img": "images/items/MMKeys/MMWorldKey.png" }
+    ]
+  },
+  { "name": "Sunny Villa Key", "type": "toggle", "codes": "key_sunny_villa", "img": "images/items/SSKeys/SVLevelKey.png" },
+  { "name": "Cloud Spires Key", "type": "toggle", "codes": "key_cloud_spires", "img": "images/items/SSKeys/CSLevelKey.png" },
+  { "name": "Molten Crater Key", "type": "toggle", "codes": "key_molten_crater", "img": "images/items/SSKeys/MCLevelKey.png" },
+  { "name": "Seashell Shore Key", "type": "toggle", "codes": "key_seashell_shore", "img": "images/items/SSKeys/SSLevelKey.png" },
+  { "name": "Mushroom Speedway Key", "type": "toggle", "codes": "key_mushroom_speedway", "img": "images/items/SSKeys/MSLevelKey.png" },
+
+  { "name": "Icy Peak Key", "type": "toggle", "codes": "key_icy_peak", "img": "images/items/MGKeys/IPLevelKey.png" },
+  { "name": "Enchanted Towers Key", "type": "toggle", "codes": "key_enchanted_towers", "img": "images/items/MGKeys/ETLevelKey.png" },
+  { "name": "Spooky Swamp Key", "type": "toggle", "codes": "key_spooky_swamp", "img": "images/items/MGKeys/SSLevelKey.png" },
+  { "name": "Bamboo Terrace Key", "type": "toggle", "codes": "key_bamboo_terrace", "img": "images/items/MGKeys/BTLevelKey.png" },
+  { "name": "Country Speedway Key", "type": "toggle", "codes": "key_country_speedway", "img": "images/items/MGKeys/CSLevelKey.png" },
+
+  { "name": "Frozen Altars Key", "type": "toggle", "codes": "key_frozen_altars", "img": "images/items/ELKeys/FALevelKey.png" },
+  { "name": "Lost Fleet Key", "type": "toggle", "codes": "key_lost_fleet", "img": "images/items/ELKeys/LFLevelKey.png" },
+  { "name": "Fireworks Factory Key", "type": "toggle", "codes": "key_fireworks_factory", "img": "images/items/ELKeys/FFLevelKey.png" },
+  { "name": "Charmed Ridge Key", "type": "toggle", "codes": "key_charmed_ridge", "img": "images/items/ELKeys/CRLevelKey.png" },
+  { "name": "Honey Speedway Key", "type": "toggle", "codes": "key_honey_speedway", "img": "images/items/ELKeys/HSLevelKey.png" },
+
+  { "name": "Crystal Islands Key", "type": "toggle", "codes": "key_crystal_islands", "img": "images/items/MMKeys/CILevelKey.png" },
+  { "name": "Desert Ruins Key", "type": "toggle", "codes": "key_desert_ruins", "img": "images/items/MMKeys/DRLevelKey.png" },
+  { "name": "Haunted Tomb Key", "type": "toggle", "codes": "key_haunted_tomb", "img": "images/items/MMKeys/HTLevelKey.png" },
+  { "name": "Dino Mines Key", "type": "toggle", "codes": "key_dino_mines", "img": "images/items/MMKeys/DMLevelKey.png" },
+  { "name": "Harbor Speedway Key", "type": "toggle", "codes": "key_harbor_speedway", "img": "images/items/MMKeys/HSLevelKey.png" },
+
+  { "name": "Superfly Gate", "type": "toggle", "codes": "gate_type_fly", "img": "images/items/PowerupGates/SuperflyGate.png" },
+  { "name": "Superflame Gate", "type": "toggle", "codes": "gate_type_flame", "img": "images/items/PowerupGates/SuperflameGate.png" },
+  { "name": "Shield Gate", "type": "toggle", "codes": "gate_type_sheild", "img": "images/items/PowerupGates/SheildGate.png" },
+
+  { "name": "Superfly Sunrise", "type": "toggle", "codes": "gate_sf_ss", "img": "images/items/PowerupGates/SuperflyGateSunriseSpring.png" },
+  { "name": "Superfly Cloud Spires", "type": "toggle", "codes": "gate_sf_cs", "img": "images/items/PowerupGates/SuperflyGateCloudSpires.png" },
+  { "name": "Superflame Midday", "type": "toggle", "codes": "gate_sfl_mg", "img": "images/items/PowerupGates/SuperflameGateMiddayGardens.png" },
+  { "name": "Superflame Bamboo", "type": "toggle", "codes": "gate_sfl_bt", "img": "images/items/PowerupGates/SuperflameGateBambooTerrace.png" },
+  { "name": "Shield Evening Lake", "type": "toggle", "codes": "gate_sh_el", "img": "images/items/PowerupGates/SheildGateEveningLake.png" },
+  { "name": "Shield Lost Fleet", "type": "toggle", "codes": "gate_sh_lf", "img": "images/items/PowerupGates/SheildGateLostFleet.png" },
+  { "name": "Combo Fireworks", "type": "toggle", "codes": "gate_combo_ff", "img": "images/items/PowerupGates/ComboGateFireworksFactory.png" },
+  { "name": "Superflame Charmed Ridge", "type": "toggle", "codes": "gate_sfl_cr", "img": "images/items/PowerupGates/SuperflameGateCharmedRidge.png" },
+  { "name": "Superfly Crystal Islands", "type": "toggle", "codes": "gate_sf_ci", "img": "images/items/PowerupGates/SuperflyGateCrystalIslands.png" },
+  { "name": "Combo Super Bonus", "type": "toggle", "codes": "gate_combo_sbr", "img": "images/items/PowerupGates/ComboGateSuperBonusRound.png" },
+
+  { "name": "MB Unlock Sheila", "type": "toggle", "codes": "MB: Sheila", "img": "images/items/Moneybags/Sheila.png"},
+  { "name": "MB Unlock Sgt Byrd", "type": "toggle", "codes": "MB: Sgt Byrd", "img": "images/items/Moneybags/SgtByrd.png"},
+  { "name": "MB Unlock Bentley", "type": "toggle", "codes": "MB: Bentley", "img": "images/items/Moneybags/Bentley.png"},
+  { "name": "MB Unlock Agent 9", "type": "toggle", "codes": "MB: Agent 9", "img": "images/items/Moneybags/Agent9.png"},
+
+  { "name": "MB Unlock CS Bellows", "type": "toggle", "codes": "MB: CS Bellows", "img": "images/items/Moneybags/CSBellows.png"},
+  { "name": "MB Unlock SSw Door", "type": "toggle", "codes": "MB: SSw Door", "img": "images/items/Moneybags/SSwDoor.png"},
+  { "name": "MB Unlock IP Nancy Door", "type": "toggle", "codes": "MB: IP Nancy Door", "img": "images/items/Moneybags/IPNancyDoor.png"},
+  { "name": "MB Unlock MC Theives Door", "type": "toggle", "codes": "MB: MC Theives Door", "img": "images/items/Moneybags/MCTheivesDoor.png"},
+  { "name": "MB Unlock CR Stairs", "type": "toggle", "codes": "MB: CR Stairs", "img": "images/items/Moneybags/CRStairs.png"},
+  { "name": "MB Unlock DR Door", "type": "toggle", "codes": "MB: DR Door", "img": "images/items/Moneybags/DRDoor.png"},
+  { "name": "MB Unlock FA Cat Hockey Door", "type": "toggle", "codes": "MB: FA Cat Hockey Door", "img": "images/items/Moneybags/FACatHockeyDoor.png"},
+  { "name": "MB Unlock CI Bridge", "type": "toggle", "codes": "MB: CI Bridge", "img": "images/items/Moneybags/CIBridge.png"},
+
+  { "name": "Sheila", "type": "toggle", "codes": "Sheila", "img": "images/items/Sheila.png" },
+  { "name": "Sgt Byrd", "type": "toggle", "codes": "Sgt Byrd", "img": "images/items/SgtByrd.png" },
+  { "name": "Bentley", "type": "toggle", "codes": "Bentley", "img": "images/items/Bentley.png" },
+  { "name": "Agent 9", "type": "toggle", "codes": "Agent 9", "img": "images/items/Agent9.png" },
+
+  { "name": "Buzz Defeated", "type": "toggle", "codes": "BuzzDefeated", "img": "images/items/Buzz.png" },
+  { "name": "Spike Defeated", "type": "toggle", "codes": "SpikeDefeated", "img": "images/items/Spike.png" },
+  { "name": "Scorch Defeated", "type": "toggle", "codes": "ScorchDefeated", "img": "images/items/Scorch.png" },
+  { "name": "Sorceress Defeated", "type": "toggle", "codes": "SorceressDefeated", "img": "images/items/Sorceress1.png" },
+  { "name": "Sorceress 2 Defeated", "type":"toggle", "codes": "Sorceress2Defeated", "img": "images/items/Sorceress2.png" },
+
+  { "name": "Extra Hit Point", "type": "toggle", "codes": "ExtraHitPoint", "img": "images/items/Powersanity_ExtraHP.png" },
+  { "name": "Sparx Pointer", "type": "toggle", "codes": "SparxPointer", "img": "images/items/Powersanity_SparxPointer.png" },
+  { "name": "Extended Range", "type": "toggle", "codes": "ExtendedRange", "img": "images/items/Powersanity_ExtendedRange.png"}
 ]

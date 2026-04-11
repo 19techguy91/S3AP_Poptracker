@@ -10,4 +10,27 @@
 --     <indentations are just for readability>
 -- end
 --
-                
+
+function IsMilestoneActive(threshold)
+    local master_toggle = Tracker:ProviderCountForCode("setting_enable_total_gem_checks")
+    local max_gems = Tracker:ProviderCountForCode("setting_max_total_gem_checks")
+    
+    -- If Master Toggle is OFF, the milestone is never active
+    if master_toggle == 0 then 
+        return false 
+    end
+
+    -- Otherwise, do your normal math (e.g., check if current gems >= max_gems * threshold)
+    local current_gems = Tracker:ProviderCountForCode("gems")
+    return current_gems >= (max_gems * (threshold / 100))
+end
+
+function HasGemsanity()
+    -- Returns true if stage is 1 (Partial) or 2 (Full Bundles)
+    return Tracker:ProviderCountForCode("setting_gemsanity") >= 1
+end
+
+function HasKeysEnabled()
+    -- Returns true if World Keys is on OR Level Lock is not Vanilla (Index 0)
+    return Tracker:ProviderCountForCode("setting_World_Keys") > 0 or Tracker:ProviderCountForCode("setting_level_lock") > 0
+end

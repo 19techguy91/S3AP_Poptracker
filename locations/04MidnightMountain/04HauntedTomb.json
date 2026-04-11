@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Haunted Tomb Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "HauntedTomb", "x": 987, "y": 313 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Haunted Tomb: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "HauntedTomb", "x": 1087, "y": 313 }
+    ],
+    "sections": [
+      { "name": "Haunted Tomb: Gem 1", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 2", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 3", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 4", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 5", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 6", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 7", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 8", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 9", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 10", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 11", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 12", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 13", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 14", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 15", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 16", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 17", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 18", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 19", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 20", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 21", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 22", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 23", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 24", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 25", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 26", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 27", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 28", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 29", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 30", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 31", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 32", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 33", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 34", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 35", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 36", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 37", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 38", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 39", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 40", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 41", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 42", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 43", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 44", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 45", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 46", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 47", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 48", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 49", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 50", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 51", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 52", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 53", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 54", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 55", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 56", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 57", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 58", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 59", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 60", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 61", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 62", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 63", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 64", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 65", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 66", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 67", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 68", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 69", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 70", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 71", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 72", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 73", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 74", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 75", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 76", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 77", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 78", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 79", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 80", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 81", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 82", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 83", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 84", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 85", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 86", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 87", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 88", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 89", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 90", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 91", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 92", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 93", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 94", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 95", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 96", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 97", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 98", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 99", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 100", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 101", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 102", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 103", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 104", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 105", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 106", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 107", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 108", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 109", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 110", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 111", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 112", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 113", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 114", "item_count": 1 },
+      { "name": "Haunted Tomb: Gem 115", "item_count": 1 }
+    ]
+},
+{
+    "name": "Swim into the dark hole",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 887, "y": 313 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle by Upper Falling Rocks Area",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 1114, "y": 757 }
+    ],
+    "sections": [
+        { "name": "Life Bottle", "item_count": 1 }
+    ]
+},
+{
+    "name": "Climb the wall",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 65, "y": 1468 }
+    ],
+    "sections": [
+        { "name": "Egg: Christine", "item_count": 1 }
+    ]
+},
+{
+    "name": "Snake Slide",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 524, "y": 1098 }
+    ],
+    "sections": [
+        { "name": "Egg: Malcom", "item_count": 1 }
+    ]
+},
+{
+    "name": "Tank blast I/Tank blast II",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 1403, "y": 1424 }
+    ],
+    "sections": [
+        { "name": "Egg: MJ", "item_count": 1 },
+        { "name": "Egg: TJ", "item_count": 1 }
+    ]
+},
+{
+    "name": "Clear the caves",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 1328, "y": 220 }
+    ],
+    "sections": [
+        { "name": "Egg: Roxy", "item_count": 1 }
+    ]
+},
+{
+    "name": "Release the temple dweller",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "HauntedTomb", "x": 1005, "y": 1102 }
+    ],
+    "sections": [
+        { "name": "Egg: Will", "item_count": 1 },
+    { 
+    "name": "Haunted Tomb: Level Complete", 
+    "item_count": 1,
+    "chest_unopened_img": "images/ui/LevelComplete.png", 
+    "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+}
+]

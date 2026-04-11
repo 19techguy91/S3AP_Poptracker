@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Spider Town Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "SpiderTown", "x": 140, "y": 80 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Spider Town: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",    
+    "map_locations": [
+      { "map": "SpiderTown", "x": 240, "y": 80 }
+    ],
+    "sections": [
+      { "name": "Spider Town: Gem 1", "item_count": 1 },
+      { "name": "Spider Town: Gem 2", "item_count": 1 },
+      { "name": "Spider Town: Gem 3", "item_count": 1 },
+      { "name": "Spider Town: Gem 4", "item_count": 1 },
+      { "name": "Spider Town: Gem 5", "item_count": 1 },
+      { "name": "Spider Town: Gem 6", "item_count": 1 },
+      { "name": "Spider Town: Gem 7", "item_count": 1 },
+      { "name": "Spider Town: Gem 8", "item_count": 1 },
+      { "name": "Spider Town: Gem 9", "item_count": 1 },
+      { "name": "Spider Town: Gem 10", "item_count": 1 },
+      { "name": "Spider Town: Gem 11", "item_count": 1 },
+      { "name": "Spider Town: Gem 12", "item_count": 1 },
+      { "name": "Spider Town: Gem 13", "item_count": 1 },
+      { "name": "Spider Town: Gem 14", "item_count": 1 },
+      { "name": "Spider Town: Gem 15", "item_count": 1 },
+      { "name": "Spider Town: Gem 16", "item_count": 1 },
+      { "name": "Spider Town: Gem 17", "item_count": 1 },
+      { "name": "Spider Town: Gem 18", "item_count": 1 },
+      { "name": "Spider Town: Gem 19", "item_count": 1 },
+      { "name": "Spider Town: Gem 20", "item_count": 1 },
+      { "name": "Spider Town: Gem 21", "item_count": 1 },
+      { "name": "Spider Town: Gem 22", "item_count": 1 },
+      { "name": "Spider Town: Gem 23", "item_count": 1 },
+      { "name": "Spider Town: Gem 24", "item_count": 1 },
+      { "name": "Spider Town: Gem 25", "item_count": 1 },
+      { "name": "Spider Town: Gem 26", "item_count": 1 },
+      { "name": "Spider Town: Gem 27", "item_count": 1 },
+      { "name": "Spider Town: Gem 28", "item_count": 1 },
+      { "name": "Spider Town: Gem 29", "item_count": 1 },
+      { "name": "Spider Town: Gem 30", "item_count": 1 },
+      { "name": "Spider Town: Gem 31", "item_count": 1 },
+      { "name": "Spider Town: Gem 32", "item_count": 1 },
+      { "name": "Spider Town: Gem 33", "item_count": 1 },
+      { "name": "Spider Town: Gem 34", "item_count": 1 },
+      { "name": "Spider Town: Gem 35", "item_count": 1 },
+      { "name": "Spider Town: Gem 36", "item_count": 1 },
+      { "name": "Spider Town: Gem 37", "item_count": 1 },
+      { "name": "Spider Town: Gem 38", "item_count": 1 },
+      { "name": "Spider Town: Gem 39", "item_count": 1 },
+      { "name": "Spider Town: Gem 40", "item_count": 1 },
+      { "name": "Spider Town: Gem 41", "item_count": 1 },
+      { "name": "Spider Town: Gem 42", "item_count": 1 },
+      { "name": "Spider Town: Gem 43", "item_count": 1 },
+      { "name": "Spider Town: Gem 44", "item_count": 1 },
+      { "name": "Spider Town: Gem 45", "item_count": 1 },
+      { "name": "Spider Town: Gem 46", "item_count": 1 },
+      { "name": "Spider Town: Gem 47", "item_count": 1 }
+    ]
+},
+  {
+    "name": "Go to town",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "SpiderTown", "x": 214, "y": 414 }
+    ],
+    "sections": [
+      { "name": "Egg: Tootie", "item_count": 1 },
+    { 
+    "name": "ST: Level Complete",
+    "item_count": 1,
+    "chest_unopened_img": "images/ui/LevelComplete.png", 
+    "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "name": "Bamboo Terrace Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "BambooTerrace", "x": 252, "y": 446 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Bamboo Terrace: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "BambooTerrace", "x": 352, "y": 446 }
+    ],
+    "sections": [
+      { "name": "Bamboo Terrace: Gem 1", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 2", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 3", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 4", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 5", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 6", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 7", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 8", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 9", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 10", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 11", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 12", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 13", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 14", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 15", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 16", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 17", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 18", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 19", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 20", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 21", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 22", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 23", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 24", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 25", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 26", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 27", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 28", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 29", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 30", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 31", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 32", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 33", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 34", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 35", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 36", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 37", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 38", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 39", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 40", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 41", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 42", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 43", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 44", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 45", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 46", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 47", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 48", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 49", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 50", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 51", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 52", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 53", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 54", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 55", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 56", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 57", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 58", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 59", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 60", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 61", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 62", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 63", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 64", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 65", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 66", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 67", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 68", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 69", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 70", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 71", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 72", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 73", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 74", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 75", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 76", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 77", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 78", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 79", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 80", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 81", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 82", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 83", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 84", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 85", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 86", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 87", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 88", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 89", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 90", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 91", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 92", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 93", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 94", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 95", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 96", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 97", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 98", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 99", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 100", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 101", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 102", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 103", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 104", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 105", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 106", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 107", "item_count": 1 }
+    ]
+},
+{
+    "name": "Bamboo Terrace: Bentley Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 352, "y": 556 }
+    ],
+    "sections": [
+      { "name": "Bamboo Terrace: Gem 108", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 109", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 110", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 111", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 112", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 113", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 114", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 115", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 116", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 117", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 118", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 119", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 120", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 121", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 122", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 123", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 124", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 125", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 126", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 127", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 128", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 129", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 130", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 131", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 132", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 133", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 134", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 135", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 136", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 137", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 138", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 139", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 140", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 141", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 142", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 143", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 144", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 145", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 146", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 147", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 148", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 149", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 150", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 151", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 152", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 153", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 154", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 155", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 156", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 157", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 158", "item_count": 1 },
+      { "name": "Bamboo Terrace: Gem 159", "item_count": 1 }
+    ]
+},
+{
+    "name": "Glide to the small island",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 273, "y": 981 }
+    ],
+    "sections": [
+        { "name": "Egg: Dwight", "item_count": 1 }
+    ]
+},
+{
+    "name": "Glide to the hidden cave",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 169, "y": 1264 }
+    ],
+    "sections": [
+        { "name": "Egg: Madison", "item_count": 1 }
+    ]
+},
+{
+    "name": "Underwater Life Bottle Breakable Wall x4",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 634, "y": 1350 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 1", "item_count": 1 },
+        { "name": "Life Bottle 2", "item_count": 1 },
+        { "name": "Life Bottle 3", "item_count": 1 },
+        { "name": "Life Bottle 4", "item_count": 1 }
+    ]
+},
+{
+    "name": "Clear the pandas' path",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1517, "y": 1461 }
+    ],
+    "sections": [
+        { "name": "Egg: Tom", "item_count": 1 },
+    { 
+    "name": "BT: Level Complete", 
+    "item_count": 1,
+    "chest_unopened_img": "images/ui/LevelComplete.png", 
+    "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+},
+{
+    "name": "BT: Catch the thief",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1261, "y": 1430 }
+    ],
+    "sections": [
+        { "name": "Egg: Pee-wee", "item_count": 1 }
+    ]
+},
+{
+    "name": "Life Bottle in Bentley Sub-Area",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1511, "y": 707 }
+    ],
+    "sections": [
+        { "name": "Life Bottle 5", "item_count": 1 }
+    ]
+},
+{
+    "name": "Smash to the mountain top",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1649, "y": 433 }
+    ],
+    "sections": [
+        { "name": "Egg: Brubeck", "item_count": 1 }
+    ]
+},
+{
+    "name": "Shoot from the Boat",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "BambooTerrace", "x": 1228, "y": 923 }
+    ],
+    "sections": [
+        { "name": "Egg: Rusty", "item_count": 1 }
+    ]
+}
+]

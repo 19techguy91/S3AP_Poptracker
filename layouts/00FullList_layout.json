@@ -1,0 +1,9 @@
+{
+  "00FullList": {
+    "type": "container",
+    "content": {
+      "type": "map",
+      "maps": ["FullList"]
+    }
+  }
+}

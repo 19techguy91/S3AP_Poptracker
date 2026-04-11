@@ -1,1 +1,115 @@
-{}
+{
+  "my_item_sidebar": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "group",
+        "header": "Playable Characters",
+        "dock": "top",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "class": "setting_icon_big",
+          "rows": [
+            ["Sheila", "Sgt Byrd", "Bentley", "Agent 9"]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Bosses Defeated",
+        "dock": "top",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "class": "setting_icon_big",
+          "rows": [
+            ["BuzzDefeated", "SpikeDefeated", "ScorchDefeated", "SorceressDefeated", "Sorceress2Defeated"]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Keys",
+        "dock": "top",
+        "h_alignment": "center",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "item_margin": 0,
+          "rows": [
+            ["spacer", "spacer", "world_key", "spacer", "spacer"],
+            ["key_sunny_villa", "key_cloud_spires", "key_molten_crater", "key_seashell_shore", "key_mushroom_speedway"],
+            ["key_icy_peak", "key_enchanted_towers", "key_spooky_swamp", "key_bamboo_terrace", "key_country_speedway"],
+            ["key_frozen_altars", "key_lost_fleet", "key_fireworks_factory", "key_charmed_ridge", "key_honey_speedway"],
+            ["key_crystal_islands", "key_desert_ruins", "key_haunted_tomb", "key_dino_mines", "key_harbor_speedway"],
+            ["key_sheila_alp", "key_byrd_base", "key_bentley_outpost", "key_agent9_lab", "spacer"]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Gem, Completed Levels and Egg Count",
+        "dock": "top",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "class": "setting_icon_big",
+          "rows": [
+            [ "Gem", "spacer", "CompletedLevels", "spacer", "Egg" ] 
+          ]
+        }
+      }
+    ]
+  },
+  "my_item_sidebar_right": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "group",
+        "header": "Powerups",
+        "dock": "top",
+        "h_alignment": "center",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "item_margin": 0,
+          "rows": [
+            ["spacer", "gate_type_fly", "gate_type_flame", "gate_type_sheild", "spacer"],
+            ["gate_sf_ss", "gate_sf_cs", "gate_sfl_mg", "gate_sfl_bt", "gate_sh_el"],
+            ["gate_sh_lf", "gate_combo_ff", "gate_sfl_cr", "gate_sf_ci", "gate_combo_sbr"]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Moneybags Unlocks",
+        "dock": "top",
+        "h_alignment": "center",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "item_margin": 0,
+          "rows": [
+            ["MB: Sheila", "MB: Sgt Byrd", "MB: Bentley", "MB: Agent 9", "spacer"],
+            ["MB: CS Bellows", "MB: SSw Door", "MB: IP Nancy Door", "MB: MC Theives Door", "spacer"],
+            ["MB: CR Stairs", "MB: DR Door", "MB: FA Cat Hockey Door", "MB: CI Bridge", "spacer"]
+          ]
+        }
+      },
+     {
+        "type": "group",
+        "header": "Sparx Upgrades",
+        "dock": "top",
+        "content": {
+          "type": "itemgrid",
+          "item_size": 5,
+          "class": "setting_icon_big",
+          "rows": [
+            ["ProgressiveSparx", "ExtraHitPoint", "SparxPointer", "ExtendedRange", "ProgressiveBasket"]
+          ]
+        }
+      }
+    ]
+  }
+}

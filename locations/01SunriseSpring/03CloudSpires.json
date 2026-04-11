@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Cloud Spires Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 97, "y": 374 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+{
+  "name": "Cloud Spires: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",  "map_locations": [
+    { "map": "CloudSpires", "x": 197, "y": 374 }
+  ],
+  "sections": [
+    { "name": "Cloud Spires: Gem 3", "item_count": 1, "code": "cs_gem_3" },  
+    { "name": "Cloud Spires: Gem 5", "item_count": 1, "code": "cs_gem_5" }, 
+    { "name": "Cloud Spires: Gem 6", "item_count": 1, "code": "cs_gem_6" },
+    { "name": "Cloud Spires: Gem 7", "item_count": 1, "code": "cs_gem_7" },
+    { "name": "Cloud Spires: Gem 17", "item_count": 1, "code": "cs_gem_17" },
+    { "name": "Cloud Spires: Gem 18", "item_count": 1, "code": "cs_gem_18" },
+    { "name": "Cloud Spires: Gem 19", "item_count": 1, "code": "cs_gem_19" },
+    { "name": "Cloud Spires: Gem 20", "item_count": 1, "code": "cs_gem_20" },
+    { "name": "Cloud Spires: Gem 21", "item_count": 1, "code": "cs_gem_21" },
+    { "name": "Cloud Spires: Gem 22", "item_count": 1, "code": "cs_gem_22" },
+    { "name": "Cloud Spires: Gem 23", "item_count": 1, "code": "cs_gem_23" },
+    { "name": "Cloud Spires: Gem 24", "item_count": 1, "code": "cs_gem_24" },
+    { "name": "Cloud Spires: Gem 25", "item_count": 1, "code": "cs_gem_25" },
+    { "name": "Cloud Spires: Gem 26", "item_count": 1, "code": "cs_gem_26" },
+    { "name": "Cloud Spires: Gem 27", "item_count": 1, "code": "cs_gem_27" },
+    { "name": "Cloud Spires: Gem 28", "item_count": 1, "code": "cs_gem_28" },
+    { "name": "Cloud Spires: Gem 29", "item_count": 1, "code": "cs_gem_29" },
+    { "name": "Cloud Spires: Gem 30", "item_count": 1, "code": "cs_gem_30" },
+    { "name": "Cloud Spires: Gem 31", "item_count": 1, "code": "cs_gem_31" },
+    { "name": "Cloud Spires: Gem 32", "item_count": 1, "code": "cs_gem_32" },
+    { "name": "Cloud Spires: Gem 33", "item_count": 1, "code": "cs_gem_33" },
+    { "name": "Cloud Spires: Gem 34", "item_count": 1, "code": "cs_gem_34" },
+    { "name": "Cloud Spires: Gem 45", "item_count": 1, "code": "cs_gem_45" },
+    { "name": "Cloud Spires: Gem 46", "item_count": 1, "code": "cs_gem_46" },
+    { "name": "Cloud Spires: Gem 54", "item_count": 1, "code": "cs_gem_54" },
+    { "name": "Cloud Spires: Gem 55", "item_count": 1, "code": "cs_gem_55" },
+    { "name": "Cloud Spires: Gem 56", "item_count": 1, "code": "cs_gem_56" },
+    { "name": "Cloud Spires: Gem 57", "item_count": 1, "code": "cs_gem_57" },
+    { "name": "Cloud Spires: Gem 62", "item_count": 1, "code": "cs_gem_62" },
+    { "name": "Cloud Spires: Gem 63", "item_count": 1, "code": "cs_gem_63" },
+    { "name": "Cloud Spires: Gem 64", "item_count": 1, "code": "cs_gem_64" },
+    { "name": "Cloud Spires: Gem 65", "item_count": 1, "code": "cs_gem_65" },
+    { "name": "Cloud Spires: Gem 66", "item_count": 1, "code": "cs_gem_66" },
+    { "name": "Cloud Spires: Gem 67", "item_count": 1, "code": "cs_gem_67" },
+    { "name": "Cloud Spires: Gem 68", "item_count": 1, "code": "cs_gem_68" },
+    { "name": "Cloud Spires: Gem 69", "item_count": 1, "code": "cs_gem_69" },
+    { "name": "Cloud Spires: Gem 70", "item_count": 1, "code": "cs_gem_70" },
+    { "name": "Cloud Spires: Gem 71", "item_count": 1, "code": "cs_gem_71" },
+    { "name": "Cloud Spires: Gem 72", "item_count": 1, "code": "cs_gem_72" },
+    { "name": "Cloud Spires: Gem 77", "item_count": 1, "code": "cs_gem_77" },
+    { "name": "Cloud Spires: Gem 82", "item_count": 1, "code": "cs_gem_82" },
+    { "name": "Cloud Spires: Gem 84", "item_count": 1, "code": "cs_gem_84" },
+    { "name": "Cloud Spires: Gem 85", "item_count": 1, "code": "cs_gem_85" },
+    { "name": "Cloud Spires: Gem 86", "item_count": 1, "code": "cs_gem_86" },
+    { "name": "Cloud Spires: Gem 87", "item_count": 1, "code": "cs_gem_87" },
+    { "name": "Cloud Spires: Gem 88", "item_count": 1, "code": "cs_gem_88" },
+    { "name": "Cloud Spires: Gem 89", "item_count": 1, "code": "cs_gem_89" },
+    { "name": "Cloud Spires: Gem 90", "item_count": 1, "code": "cs_gem_90" },
+    { "name": "Cloud Spires: Gem 91", "item_count": 1, "code": "cs_gem_91" },
+    { "name": "Cloud Spires: Gem 92", "item_count": 1, "code": "cs_gem_92" },
+    { "name": "Cloud Spires: Gem 93", "item_count": 1, "code": "cs_gem_93" },
+    { "name": "Cloud Spires: Gem 94", "item_count": 1, "code": "cs_gem_94" },
+    { "name": "Cloud Spires: Gem 97", "item_count": 1, "code": "cs_gem_97" },
+    { "name": "Cloud Spires: Gem 99", "item_count": 1, "code": "cs_gem_99" },
+    { "name": "Cloud Spires: Gem 100", "item_count": 1, "code": "cs_gem_100" },
+    { "name": "Cloud Spires: Gem 101", "item_count": 1, "code": "cs_gem_101" },
+    { "name": "Cloud Spires: Gem 102", "item_count": 1, "code": "cs_gem_102" },
+    { "name": "Cloud Spires: Gem 103", "item_count": 1, "code": "cs_gem_103" },
+    { "name": "Cloud Spires: Gem 105", "item_count": 1, "code": "cs_gem_105" },
+    { "name": "Cloud Spires: Gem 106", "item_count": 1, "code": "cs_gem_106" },
+    { "name": "Cloud Spires: Gem 107", "item_count": 1, "code": "cs_gem_107" },
+    { "name": "Cloud Spires: Gem 108", "item_count": 1, "code": "cs_gem_108" }
+  ]
+},
+{
+  "name": "Cloud Spires: Moneybags Gems",
+  "chest_unopened_img": "images/ui/Gems.png", 
+  "chest_opened_img": "images/ui/Gems_Checked.png",
+  "map_locations": [
+    { "map": "CloudSpires", "x": 197, "y": 474 }
+  ],
+  "sections": [
+    { "name": "Cloud Spires: Gem 1", "item_count": 1, "code": "cs_gem_1" },
+    { "name": "Cloud Spires: Gem 2", "item_count": 1, "code": "cs_gem_2" },
+    { "name": "Cloud Spires: Gem 8", "item_count": 1, "code": "cs_gem_8" },
+    { "name": "Cloud Spires: Gem 9", "item_count": 1, "code": "cs_gem_9" },
+    { "name": "Cloud Spires: Gem 10", "item_count": 1, "code": "cs_gem_10" },
+    { "name": "Cloud Spires: Gem 11", "item_count": 1, "code": "cs_gem_11" },
+    { "name": "Cloud Spires: Gem 12", "item_count": 1, "code": "cs_gem_12" },
+    { "name": "Cloud Spires: Gem 13", "item_count": 1, "code": "cs_gem_13" },
+    { "name": "Cloud Spires: Gem 14", "item_count": 1, "code": "cs_gem_14" },
+    { "name": "Cloud Spires: Gem 15", "item_count": 1, "code": "cs_gem_15" },
+    { "name": "Cloud Spires: Gem 16", "item_count": 1, "code": "cs_gem_16" },
+    { "name": "Cloud Spires: Gem 35", "item_count": 1, "code": "cs_gem_35" },
+    { "name": "Cloud Spires: Gem 36", "item_count": 1, "code": "cs_gem_36" },
+    { "name": "Cloud Spires: Gem 37", "item_count": 1, "code": "cs_gem_37" },
+    { "name": "Cloud Spires: Gem 38", "item_count": 1, "code": "cs_gem_38" },
+    { "name": "Cloud Spires: Gem 39", "item_count": 1, "code": "cs_gem_39" },
+    { "name": "Cloud Spires: Gem 40", "item_count": 1, "code": "cs_gem_40" },
+    { "name": "Cloud Spires: Gem 41", "item_count": 1, "code": "cs_gem_41" },
+    { "name": "Cloud Spires: Gem 42", "item_count": 1, "code": "cs_gem_42" },
+    { "name": "Cloud Spires: Gem 43", "item_count": 1, "code": "cs_gem_43" },
+    { "name": "Cloud Spires: Gem 44", "item_count": 1, "code": "cs_gem_44" },
+    { "name": "Cloud Spires: Gem 47", "item_count": 1, "code": "cs_gem_47" },
+    { "name": "Cloud Spires: Gem 48", "item_count": 1, "code": "cs_gem_48" },
+    { "name": "Cloud Spires: Gem 49", "item_count": 1, "code": "cs_gem_49" },
+    { "name": "Cloud Spires: Gem 50", "item_count": 1, "code": "cs_gem_50" },
+    { "name": "Cloud Spires: Gem 51", "item_count": 1, "code": "cs_gem_51" },
+    { "name": "Cloud Spires: Gem 52", "item_count": 1, "code": "cs_gem_52" },
+    { "name": "Cloud Spires: Gem 53", "item_count": 1, "code": "cs_gem_53" },
+    { "name": "Cloud Spires: Gem 58", "item_count": 1, "code": "cs_gem_58" },
+    { "name": "Cloud Spires: Gem 59", "item_count": 1, "code": "cs_gem_59" },
+    { "name": "Cloud Spires: Gem 60", "item_count": 1, "code": "cs_gem_60" },
+    { "name": "Cloud Spires: Gem 61", "item_count": 1, "code": "cs_gem_61" },
+    { "name": "Cloud Spires: Gem 73", "item_count": 1, "code": "cs_gem_73" },
+    { "name": "Cloud Spires: Gem 74", "item_count": 1, "code": "cs_gem_74" },
+    { "name": "Cloud Spires: Gem 75", "item_count": 1, "code": "cs_gem_75" },
+    { "name": "Cloud Spires: Gem 76", "item_count": 1, "code": "cs_gem_76" },
+    { "name": "Cloud Spires: Gem 78", "item_count": 1, "code": "cs_gem_78" },
+    { "name": "Cloud Spires: Gem 79", "item_count": 1, "code": "cs_gem_79" },
+    { "name": "Cloud Spires: Gem 80", "item_count": 1, "code": "cs_gem_80" },
+    { "name": "Cloud Spires: Gem 81", "item_count": 1, "code": "cs_gem_81" },
+    { "name": "Cloud Spires: Gem 83", "item_count": 1, "code": "cs_gem_83" },
+    { "name": "Cloud Spires: Gem 95", "item_count": 1, "code": "cs_gem_95" },
+    { "name": "Cloud Spires: Gem 96", "item_count": 1, "code": "cs_gem_96" },
+    { "name": "Cloud Spires: Gem 98", "item_count": 1, "code": "cs_gem_98" },
+    { "name": "Cloud Spires: Gem 104", "item_count": 1, "code": "cs_gem_104" },
+    { "name": "Cloud Spires: Gem 109", "item_count": 1, "code": "cs_gem_109" },
+    { "name": "Cloud Spires: Gem 110", "item_count": 1, "code": "cs_gem_110" },
+    { "name": "Cloud Spires: Gem 111", "item_count": 1, "code": "cs_gem_111" },
+    { "name": "Cloud Spires: Gem 112", "item_count": 1, "code": "cs_gem_112" },
+    { "name": "Cloud Spires: Gem 113", "item_count": 1, "code": "cs_gem_113" },
+    { "name": "Cloud Spires: Gem 114", "item_count": 1, "code": "cs_gem_114" },
+    { "name": "Cloud Spires: Gem 115", "item_count": 1, "code": "cs_gem_115" },
+    { "name": "Cloud Spires: Gem 116", "item_count": 1, "code": "cs_gem_116" },
+    { "name": "Cloud Spires: Gem 117", "item_count": 1, "code": "cs_gem_117" },
+    { "name": "Cloud Spires: Gem 118", "item_count": 1, "code": "cs_gem_118" },
+    { "name": "Cloud Spires: Gem 119", "item_count": 1, "code": "cs_gem_119" },
+    { "name": "Cloud Spires: Gem 120", "item_count": 1, "code": "cs_gem_120" },
+    { "name": "Cloud Spires: Gem 121", "item_count": 1, "code": "cs_gem_121" },
+    { "name": "Cloud Spires: Gem 122", "item_count": 1, "code": "cs_gem_122" },
+    { "name": "Cloud Spires: Gem 123", "item_count": 1, "code": "cs_gem_123" },
+    { "name": "Cloud Spires: Gem 124", "item_count": 1, "code": "cs_gem_124" },
+    { "name": "Cloud Spires: Gem 125", "item_count": 1, "code": "cs_gem_125" },
+    { "name": "Cloud Spires: Gem 126", "item_count": 1, "code": "cs_gem_126" },
+    { "name": "Cloud Spires: Gem 127", "item_count": 1, "code": "cs_gem_127" },
+    { "name": "Cloud Spires: Gem 128", "item_count": 1, "code": "cs_gem_128" },
+    { "name": "Cloud Spires: Gem 129", "item_count": 1, "code": "cs_gem_129" },
+    { "name": "Cloud Spires: Gem 130", "item_count": 1, "code": "cs_gem_130" },
+    { "name": "Cloud Spires: Gem 131", "item_count": 1, "code": "cs_gem_131" },
+    { "name": "Cloud Spires: Gem 132", "item_count": 1, "code": "cs_gem_132" },
+    { "name": "Cloud Spires: Gem 133", "item_count": 1, "code": "cs_gem_133" },
+    { "name": "Cloud Spires: Gem 134", "item_count": 1, "code": "cs_gem_134" },
+    { "name": "Cloud Spires: Gem 135", "item_count": 1, "code": "cs_gem_135" },
+    { "name": "Cloud Spires: Gem 136", "item_count": 1, "code": "cs_gem_136" },
+    { "name": "Cloud Spires: Gem 137", "item_count": 1, "code": "cs_gem_137" },
+    { "name": "Cloud Spires: Gem 138", "item_count": 1, "code": "cs_gem_138" },
+    { "name": "Cloud Spires: Gem 139", "item_count": 1, "code": "cs_gem_139" },
+    { "name": "Cloud Spires: Gem 140", "item_count": 1, "code": "cs_gem_140" },
+    { "name": "Cloud Spires: Gem 141", "item_count": 1, "code": "cs_gem_141" },
+    { "name": "Cloud Spires: Gem 142", "item_count": 1, "code": "cs_gem_142" },
+    { "name": "Cloud Spires: Gem 143", "item_count": 1, "code": "cs_gem_143" },
+    { "name": "Cloud Spires: Gem 144", "item_count": 1, "code": "cs_gem_144" },
+    { "name": "Cloud Spires: Gem 145", "item_count": 1, "code": "cs_gem_145" },
+    { "name": "Cloud Spires: Gem 146", "item_count": 1, "code": "cs_gem_146" },
+    { "name": "Cloud Spires: Gem 147", "item_count": 1, "code": "cs_gem_147" },
+    { "name": "Cloud Spires: Gem 148", "item_count": 1, "code": "cs_gem_148" }
+  ]
+},
+  {
+    "name": "Life Bottle Past Whirlwind",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 1907, "y": 1412 }
+    ],
+    "sections": [
+      { "name": "Life Bottle", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Run along the wall.",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 2141, "y": 1278 }
+    ],
+    "sections": [
+      { "name": "Egg: Stephanie", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Plant the sun seeds",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 365, "y": 920 }
+    ],
+    "sections": [
+      { "name": "Egg: LuLu", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Bell tower thief",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 1074, "y": 429 }
+    ],
+    "sections": [
+      { "name": "Egg: Bryan", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Glide to the Island",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 1441, "y": 715 }
+    ],
+    "sections": [
+      { "name": "Egg: Clare", "item_count": 1 }
+    ]
+  },
+{
+  "name": "Bell tower spirits",
+  "chest_unopened_img": "images/ui/DragonEgg.png", 
+  "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+  "map_locations": [
+    { "map": "CloudSpires", "x": 1224, "y": 465 }
+  ],
+  "sections": [
+    { "name": "Egg: Jake", "item_count": 1 }
+  ]
+},
+  {
+    "name": "Turn on the Cloud Generator",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "CloudSpires", "x": 1066, "y": 947 }
+    ],
+    "sections": [
+      { "name": "Egg: Henry", "item_count": 1 },
+      { "name": "Cloud Spires: Level Complete",
+      "item_count": 1,
+      "chest_unopened_img": "images/ui/LevelComplete.png", 
+      "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+  }
+]

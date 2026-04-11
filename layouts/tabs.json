@@ -2,6 +2,10 @@
   "tabs": {
     "type": "tabbed",
     "tabs": [
+      {
+        "title": "Full List",
+        "content": { "type": "layout", "key": "00FullList" }
+      },
       { 
         "title": "Sunrise Spring", 
         "content": { "type": "layout", "key": "01SunriseSpring" } 

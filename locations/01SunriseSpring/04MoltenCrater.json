@@ -1,0 +1,295 @@
+[
+  {
+    "name": "Molten Crater Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 891, "y": 329 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+{
+  "name": "Molten Crater: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",  "map_locations": [
+    { "map": "MoltenCrater", "x": 991, "y": 329 }
+  ],
+  "sections": [
+    { "name": "Molten Crater: Gem 1", "item_count": 1, "code": "mc_gem_1" },
+    { "name": "Molten Crater: Gem 2", "item_count": 1, "code": "mc_gem_2" },
+    { "name": "Molten Crater: Gem 3", "item_count": 1, "code": "mc_gem_3" },
+    { "name": "Molten Crater: Gem 4", "item_count": 1, "code": "mc_gem_4" },
+    { "name": "Molten Crater: Gem 5", "item_count": 1, "code": "mc_gem_5" },
+    { "name": "Molten Crater: Gem 6", "item_count": 1, "code": "mc_gem_6" },
+    { "name": "Molten Crater: Gem 7", "item_count": 1, "code": "mc_gem_7" },
+    { "name": "Molten Crater: Gem 8", "item_count": 1, "code": "mc_gem_8" },
+    { "name": "Molten Crater: Gem 9", "item_count": 1, "code": "mc_gem_9" },
+    { "name": "Molten Crater: Gem 10", "item_count": 1, "code": "mc_gem_10" },
+    { "name": "Molten Crater: Gem 11", "item_count": 1, "code": "mc_gem_11" },
+    { "name": "Molten Crater: Gem 12", "item_count": 1, "code": "mc_gem_12" },
+    { "name": "Molten Crater: Gem 13", "item_count": 1, "code": "mc_gem_13" },
+    { "name": "Molten Crater: Gem 14", "item_count": 1, "code": "mc_gem_14" },
+    { "name": "Molten Crater: Gem 15", "item_count": 1, "code": "mc_gem_15" },
+    { "name": "Molten Crater: Gem 16", "item_count": 1, "code": "mc_gem_16" },
+    { "name": "Molten Crater: Gem 17", "item_count": 1, "code": "mc_gem_17" },
+    { "name": "Molten Crater: Gem 18", "item_count": 1, "code": "mc_gem_18" },
+    { "name": "Molten Crater: Gem 19", "item_count": 1, "code": "mc_gem_19" },
+    { "name": "Molten Crater: Gem 20", "item_count": 1, "code": "mc_gem_20" },
+    { "name": "Molten Crater: Gem 21", "item_count": 1, "code": "mc_gem_21" },
+    { "name": "Molten Crater: Gem 22", "item_count": 1, "code": "mc_gem_22" },
+    { "name": "Molten Crater: Gem 23", "item_count": 1, "code": "mc_gem_23" },
+    { "name": "Molten Crater: Gem 24", "item_count": 1, "code": "mc_gem_24" },
+    { "name": "Molten Crater: Gem 25", "item_count": 1, "code": "mc_gem_25" },
+    { "name": "Molten Crater: Gem 26", "item_count": 1, "code": "mc_gem_26" },
+    { "name": "Molten Crater: Gem 27", "item_count": 1, "code": "mc_gem_27" },
+    { "name": "Molten Crater: Gem 28", "item_count": 1, "code": "mc_gem_28" },
+    { "name": "Molten Crater: Gem 29", "item_count": 1, "code": "mc_gem_29" },
+    { "name": "Molten Crater: Gem 30", "item_count": 1, "code": "mc_gem_30" },
+    { "name": "Molten Crater: Gem 31", "item_count": 1, "code": "mc_gem_31" },
+    { "name": "Molten Crater: Gem 32", "item_count": 1, "code": "mc_gem_32" },
+    { "name": "Molten Crater: Gem 33", "item_count": 1, "code": "mc_gem_33" },
+    { "name": "Molten Crater: Gem 34", "item_count": 1, "code": "mc_gem_34" },
+    { "name": "Molten Crater: Gem 35", "item_count": 1, "code": "mc_gem_35" },
+    { "name": "Molten Crater: Gem 36", "item_count": 1, "code": "mc_gem_36" },
+    { "name": "Molten Crater: Gem 37", "item_count": 1, "code": "mc_gem_37" },
+    { "name": "Molten Crater: Gem 38", "item_count": 1, "code": "mc_gem_38" },
+    { "name": "Molten Crater: Gem 39", "item_count": 1, "code": "mc_gem_39" },
+    { "name": "Molten Crater: Gem 40", "item_count": 1, "code": "mc_gem_40" },
+    { "name": "Molten Crater: Gem 41", "item_count": 1, "code": "mc_gem_41" },
+    { "name": "Molten Crater: Gem 42", "item_count": 1, "code": "mc_gem_42" },
+    { "name": "Molten Crater: Gem 43", "item_count": 1, "code": "mc_gem_43" },
+    { "name": "Molten Crater: Gem 44", "item_count": 1, "code": "mc_gem_44" },
+    { "name": "Molten Crater: Gem 45", "item_count": 1, "code": "mc_gem_45" },
+    { "name": "Molten Crater: Gem 46", "item_count": 1, "code": "mc_gem_46" },
+    { "name": "Molten Crater: Gem 47", "item_count": 1, "code": "mc_gem_47" },
+    { "name": "Molten Crater: Gem 48", "item_count": 1, "code": "mc_gem_48" },
+    { "name": "Molten Crater: Gem 49", "item_count": 1, "code": "mc_gem_49" },
+    { "name": "Molten Crater: Gem 50", "item_count": 1, "code": "mc_gem_50" },
+    { "name": "Molten Crater: Gem 51", "item_count": 1, "code": "mc_gem_51" },
+    { "name": "Molten Crater: Gem 52", "item_count": 1, "code": "mc_gem_52" },
+    { "name": "Molten Crater: Gem 53", "item_count": 1, "code": "mc_gem_53" },
+    { "name": "Molten Crater: Gem 54", "item_count": 1, "code": "mc_gem_54" },
+    { "name": "Molten Crater: Gem 55", "item_count": 1, "code": "mc_gem_55" },
+    { "name": "Molten Crater: Gem 56", "item_count": 1, "code": "mc_gem_56" },
+    { "name": "Molten Crater: Gem 57", "item_count": 1, "code": "mc_gem_57" },
+    { "name": "Molten Crater: Gem 58", "item_count": 1, "code": "mc_gem_58" },
+    { "name": "Molten Crater: Gem 59", "item_count": 1, "code": "mc_gem_59" },
+    { "name": "Molten Crater: Gem 60", "item_count": 1, "code": "mc_gem_60" },
+    { "name": "Molten Crater: Gem 61", "item_count": 1, "code": "mc_gem_61" },
+    { "name": "Molten Crater: Gem 62", "item_count": 1, "code": "mc_gem_62" },
+    { "name": "Molten Crater: Gem 63", "item_count": 1, "code": "mc_gem_63" },
+    { "name": "Molten Crater: Gem 64", "item_count": 1, "code": "mc_gem_64" },
+    { "name": "Molten Crater: Gem 65", "item_count": 1, "code": "mc_gem_65" },
+    { "name": "Molten Crater: Gem 66", "item_count": 1, "code": "mc_gem_66" },
+    { "name": "Molten Crater: Gem 67", "item_count": 1, "code": "mc_gem_67" },
+    { "name": "Molten Crater: Gem 68", "item_count": 1, "code": "mc_gem_68" },
+    { "name": "Molten Crater: Gem 69", "item_count": 1, "code": "mc_gem_69" },
+    { "name": "Molten Crater: Gem 70", "item_count": 1, "code": "mc_gem_70" },
+    { "name": "Molten Crater: Gem 71", "item_count": 1, "code": "mc_gem_71" },
+    { "name": "Molten Crater: Gem 72", "item_count": 1, "code": "mc_gem_72" },
+    { "name": "Molten Crater: Gem 73", "item_count": 1, "code": "mc_gem_73" }
+  ]
+},
+{
+  "name": "Molten Crater Thief Area Gems",
+  "chest_unopened_img": "images/ui/Gems.png", 
+  "chest_opened_img": "images/ui/Gems_Checked.png",
+  "map_locations": [
+    { "map": "MoltenCrater", "x": 991, "y": 429 }
+  ],
+  "sections": [
+    { "name": "Molten Crater: Gem 105", "item_count": 1, "code": "mc_gem_105" },
+    { "name": "Molten Crater: Gem 106", "item_count": 1, "code": "mc_gem_106" },
+    { "name": "Molten Crater: Gem 107", "item_count": 1, "code": "mc_gem_107" },
+    { "name": "Molten Crater: Gem 108", "item_count": 1, "code": "mc_gem_108" },
+    { "name": "Molten Crater: Gem 109", "item_count": 1, "code": "mc_gem_109" },
+    { "name": "Molten Crater: Gem 110", "item_count": 1, "code": "mc_gem_110" },
+    { "name": "Molten Crater: Gem 111", "item_count": 1, "code": "mc_gem_111" },
+    { "name": "Molten Crater: Gem 112", "item_count": 1, "code": "mc_gem_112" },
+    { "name": "Molten Crater: Gem 113", "item_count": 1, "code": "mc_gem_113" },
+    { "name": "Molten Crater: Gem 114", "item_count": 1, "code": "mc_gem_114" },
+    { "name": "Molten Crater: Gem 115", "item_count": 1, "code": "mc_gem_115" },
+    { "name": "Molten Crater: Gem 116", "item_count": 1, "code": "mc_gem_116" },
+    { "name": "Molten Crater: Gem 117", "item_count": 1, "code": "mc_gem_117" },
+    { "name": "Molten Crater: Gem 118", "item_count": 1, "code": "mc_gem_118" },
+    { "name": "Molten Crater: Gem 119", "item_count": 1, "code": "mc_gem_119" },
+    { "name": "Molten Crater: Gem 120", "item_count": 1, "code": "mc_gem_120" },
+    { "name": "Molten Crater: Gem 121", "item_count": 1, "code": "mc_gem_121" },
+    { "name": "Molten Crater: Gem 122", "item_count": 1, "code": "mc_gem_122" },
+    { "name": "Molten Crater: Gem 123", "item_count": 1, "code": "mc_gem_123" },
+    { "name": "Molten Crater: Gem 124", "item_count": 1, "code": "mc_gem_124" },
+    { "name": "Molten Crater: Gem 125", "item_count": 1, "code": "mc_gem_125" },
+    { "name": "Molten Crater: Gem 126", "item_count": 1, "code": "mc_gem_126" },
+    { "name": "Molten Crater: Gem 127", "item_count": 1, "code": "mc_gem_127" },
+    { "name": "Molten Crater: Gem 128", "item_count": 1, "code": "mc_gem_128" },
+    { "name": "Molten Crater: Gem 129", "item_count": 1, "code": "mc_gem_129" },
+    { "name": "Molten Crater: Gem 130", "item_count": 1, "code": "mc_gem_130" },
+    { "name": "Molten Crater: Gem 131", "item_count": 1, "code": "mc_gem_131" },
+    { "name": "Molten Crater: Gem 132", "item_count": 1, "code": "mc_gem_132" },
+    { "name": "Molten Crater: Gem 133", "item_count": 1, "code": "mc_gem_133" },
+    { "name": "Molten Crater: Gem 134", "item_count": 1, "code": "mc_gem_134" },
+    { "name": "Molten Crater: Gem 135", "item_count": 1, "code": "mc_gem_135" },
+    { "name": "Molten Crater: Gem 136", "item_count": 1, "code": "mc_gem_136" },
+    { "name": "Molten Crater: Gem 137", "item_count": 1, "code": "mc_gem_137" },
+    { "name": "Molten Crater: Gem 138", "item_count": 1, "code": "mc_gem_138" },
+    { "name": "Molten Crater: Gem 139", "item_count": 1, "code": "mc_gem_139" },
+    { "name": "Molten Crater: Gem 140", "item_count": 1, "code": "mc_gem_140" },
+    { "name": "Molten Crater: Gem 141", "item_count": 1, "code": "mc_gem_141" },
+    { "name": "Molten Crater: Gem 142", "item_count": 1, "code": "mc_gem_142" },
+    { "name": "Molten Crater: Gem 143", "item_count": 1, "code": "mc_gem_143" },
+    { "name": "Molten Crater: Gem 144", "item_count": 1, "code": "mc_gem_144" },
+    { "name": "Molten Crater: Gem 145", "item_count": 1, "code": "mc_gem_145" },
+    { "name": "Molten Crater: Gem 146", "item_count": 1, "code": "mc_gem_146" },
+    { "name": "Molten Crater: Gem 147", "item_count": 1, "code": "mc_gem_147" }
+  ]
+},
+{
+  "name": "Molten Crater Sgt Byrd Gems",
+  "chest_unopened_img": "images/ui/Gems.png", 
+  "chest_opened_img": "images/ui/Gems_Checked.png",
+  "map_locations": [
+    { "map": "MoltenCrater", "x": 891, "y": 429 }
+  ],
+  "sections": [
+    { "name": "Molten Crater: Gem 74", "item_count": 1, "code": "mc_gem_74" },
+    { "name": "Molten Crater: Gem 75", "item_count": 1, "code": "mc_gem_75" },
+    { "name": "Molten Crater: Gem 76", "item_count": 1, "code": "mc_gem_76" },
+    { "name": "Molten Crater: Gem 77", "item_count": 1, "code": "mc_gem_77" },
+    { "name": "Molten Crater: Gem 78", "item_count": 1, "code": "mc_gem_78" },
+    { "name": "Molten Crater: Gem 79", "item_count": 1, "code": "mc_gem_79" },
+    { "name": "Molten Crater: Gem 80", "item_count": 1, "code": "mc_gem_80" },
+    { "name": "Molten Crater: Gem 81", "item_count": 1, "code": "mc_gem_81" },
+    { "name": "Molten Crater: Gem 82", "item_count": 1, "code": "mc_gem_82" },
+    { "name": "Molten Crater: Gem 83", "item_count": 1, "code": "mc_gem_83" },
+    { "name": "Molten Crater: Gem 84", "item_count": 1, "code": "mc_gem_84" },
+    { "name": "Molten Crater: Gem 85", "item_count": 1, "code": "mc_gem_85" },
+    { "name": "Molten Crater: Gem 86", "item_count": 1, "code": "mc_gem_86" },
+    { "name": "Molten Crater: Gem 87", "item_count": 1, "code": "mc_gem_87" },
+    { "name": "Molten Crater: Gem 88", "item_count": 1, "code": "mc_gem_88" },
+    { "name": "Molten Crater: Gem 89", "item_count": 1, "code": "mc_gem_89" },
+    { "name": "Molten Crater: Gem 90", "item_count": 1, "code": "mc_gem_90" },
+    { "name": "Molten Crater: Gem 91", "item_count": 1, "code": "mc_gem_91" },
+    { "name": "Molten Crater: Gem 92", "item_count": 1, "code": "mc_gem_92" },
+    { "name": "Molten Crater: Gem 93", "item_count": 1, "code": "mc_gem_93" },
+    { "name": "Molten Crater: Gem 94", "item_count": 1, "code": "mc_gem_94" },
+    { "name": "Molten Crater: Gem 95", "item_count": 1, "code": "mc_gem_95" },
+    { "name": "Molten Crater: Gem 96", "item_count": 1, "code": "mc_gem_96" },
+    { "name": "Molten Crater: Gem 97", "item_count": 1, "code": "mc_gem_97" },
+    { "name": "Molten Crater: Gem 98", "item_count": 1, "code": "mc_gem_98" },
+    { "name": "Molten Crater: Gem 99", "item_count": 1, "code": "mc_gem_99" },
+    { "name": "Molten Crater: Gem 100", "item_count": 1, "code": "mc_gem_100" },
+    { "name": "Molten Crater: Gem 101", "item_count": 1, "code": "mc_gem_101" },
+    { "name": "Molten Crater: Gem 102", "item_count": 1, "code": "mc_gem_102" },
+    { "name": "Molten Crater: Gem 103", "item_count": 1, "code": "mc_gem_103" },
+    { "name": "Molten Crater: Gem 104", "item_count": 1, "code": "mc_gem_104" }
+  ]
+},
+    {
+    "name": "Supercharge the wall",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 791, "y": 329 }
+    ],
+    "sections": [
+      { "name": "Skillpoint 1", "item_count": 1 }
+    ]
+},
+  {
+    "name": "Assemble tiki heads",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 791, "y": 429 }
+    ],
+    "sections": [
+      { "name": "Skillpoint 2", "item_count": 1 }
+    ]
+  },
+{
+    "name": "Life Bottle in Breakable Wall in Thief Area",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 1435, "y": 1435 }
+    ],
+    "sections": [
+      { "name": "Life Bottle", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Egg by lava river",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 632, "y": 1488 }
+    ],
+    "sections": [
+      { "name": "Egg: Rikki", "item_count": 1 }
+    ]
+  },
+{
+    "name": "MC: Catch the theif.",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 1793, "y": 1483 }
+    ],
+    "sections": [
+      { "name": "Egg: Moira", "item_count": 1 }
+    ]
+},
+{
+    "name": "Supercharge after the thief",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 1888, "y": 1496 }
+    ],
+    "sections": [
+      { "name": "Egg: Kermitt", "item_count": 1 }
+    ]
+},
+{
+    "name": "Sgt Byrd blows up a wall",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 1948, "y": 658 }
+    ],
+    "sections": [
+      { "name": "Egg: Luna", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Replace idol heads",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 1926, "y": 450 }
+    ],
+    "sections": [
+      { "name": "Egg: Ryan", "item_count": 1 }
+    ]
+  },
+    {
+    "name": "Get to the tiki lodge",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+      { "map": "MoltenCrater", "x": 461, "y": 637 }
+    ],
+    "sections": [
+      { "name": "Egg: Curlie", "item_count": 1 },
+      { "name": "Molten Crater: Level Complete",
+      "item_count": 1,
+      "chest_unopened_img": "images/ui/LevelComplete.png", 
+      "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]
+  }
+]

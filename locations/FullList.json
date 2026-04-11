@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sunrise Spring Checks",
+    "map_locations": [
+      { 
+        "map": "FullList", 
+        "x": 535, 
+        "y": 157
+      }
+    ],
+"sections": [
+  { "ref": "Sunrise Spring Gem Thresholds/Gem Threshold 25%" },
+  { "ref": "Sunrise Spring Gem Thresholds/Gem Threshold 50%" },
+  { "ref": "Sunrise Spring Gem Thresholds/Gem Threshold 75%" },
+  { "ref": "Sunrise Spring Gem Thresholds/Gem Threshold 100%" },
+  { "ref": "Life Bottle By Starting Pond/Life Bottle 1" },
+  { "ref": "Life Bottle By Sheila's Alp/Life Bottle 2" },
+  { "ref": "Egg by the Stream/Egg: Isabelle" },
+  { "ref": "Learn Gliding/Egg: Coltrane" },
+  { "ref": "Fly through the Cave/Egg: Ami" },
+  { "ref": "Head bash the rock/Egg: Liam" },
+  { "ref": "Bottom of the lake/Egg: Bruce" },
+  { "ref": "Defeat Buzz/Egg: Grayson" },
+  { "ref": "Defeat Buzz/Boss: Buzz" }
+]
+  }
+]

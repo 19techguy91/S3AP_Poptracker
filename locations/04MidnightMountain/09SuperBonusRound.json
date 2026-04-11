@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Super Bonus Round Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "SuperBonusRound", "x": 172, "y": 150 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Woo, a secret egg",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SuperBonusRound", "x": 564, "y": 329 }
+    ],
+    "sections": [
+        { "name": "Egg: Yin Yang", "item_count": 1 },
+        { "name": "Defeat Sorceress2",
+        "item_count": 1,
+        "code": "Sorceress2Defeated",
+        "chest_unopened_img": "images/ui/Sorceress2.png", 
+        "chest_opened_img": "images/ui/Sorceress2_Checked.png" }
+    ]
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Sunny Villa Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "SunnyVilla", "x": 1178, "y": 250 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+{
+  "name": "Sunny Villa: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",  "map_locations": [
+    { "map": "SunnyVilla", "x": 1278, "y": 250 }
+  ],
+  "sections": [
+    { "name": "Sunny Villa: Gem 1", "item_count": 1, "code": "sv_gem_1" },
+    { "name": "Sunny Villa: Gem 2", "item_count": 1, "code": "sv_gem_2" },
+    { "name": "Sunny Villa: Gem 3", "item_count": 1, "code": "sv_gem_3" },
+    { "name": "Sunny Villa: Gem 4", "item_count": 1, "code": "sv_gem_4" },
+    { "name": "Sunny Villa: Gem 5", "item_count": 1, "code": "sv_gem_5" },
+    { "name": "Sunny Villa: Gem 6", "item_count": 1, "code": "sv_gem_6" },
+    { "name": "Sunny Villa: Gem 7", "item_count": 1, "code": "sv_gem_7" },
+    { "name": "Sunny Villa: Gem 8", "item_count": 1, "code": "sv_gem_8" },
+    { "name": "Sunny Villa: Gem 9", "item_count": 1, "code": "sv_gem_9" },
+    { "name": "Sunny Villa: Gem 10", "item_count": 1, "code": "sv_gem_10" },
+    { "name": "Sunny Villa: Gem 11", "item_count": 1, "code": "sv_gem_11" },
+    { "name": "Sunny Villa: Gem 12", "item_count": 1, "code": "sv_gem_12" },
+    { "name": "Sunny Villa: Gem 13", "item_count": 1, "code": "sv_gem_13" },
+    { "name": "Sunny Villa: Gem 14", "item_count": 1, "code": "sv_gem_14" },
+    { "name": "Sunny Villa: Gem 15", "item_count": 1, "code": "sv_gem_15" },
+    { "name": "Sunny Villa: Gem 16", "item_count": 1, "code": "sv_gem_16" },
+    { "name": "Sunny Villa: Gem 17", "item_count": 1, "code": "sv_gem_17" },
+    { "name": "Sunny Villa: Gem 18", "item_count": 1, "code": "sv_gem_18" },
+    { "name": "Sunny Villa: Gem 19", "item_count": 1, "code": "sv_gem_19" },
+    { "name": "Sunny Villa: Gem 20", "item_count": 1, "code": "sv_gem_20" },
+    { "name": "Sunny Villa: Gem 21", "item_count": 1, "code": "sv_gem_21" },
+    { "name": "Sunny Villa: Gem 22", "item_count": 1, "code": "sv_gem_22" },
+    { "name": "Sunny Villa: Gem 23", "item_count": 1, "code": "sv_gem_23" },
+    { "name": "Sunny Villa: Gem 24", "item_count": 1, "code": "sv_gem_24" },
+    { "name": "Sunny Villa: Gem 25", "item_count": 1, "code": "sv_gem_25" },
+    { "name": "Sunny Villa: Gem 26", "item_count": 1, "code": "sv_gem_26" },
+    { "name": "Sunny Villa: Gem 27", "item_count": 1, "code": "sv_gem_27" },
+    { "name": "Sunny Villa: Gem 28", "item_count": 1, "code": "sv_gem_28" },
+    { "name": "Sunny Villa: Gem 29", "item_count": 1, "code": "sv_gem_29" },
+    { "name": "Sunny Villa: Gem 30", "item_count": 1, "code": "sv_gem_30" },
+    { "name": "Sunny Villa: Gem 31", "item_count": 1, "code": "sv_gem_31" },
+    { "name": "Sunny Villa: Gem 32", "item_count": 1, "code": "sv_gem_32" },
+    { "name": "Sunny Villa: Gem 33", "item_count": 1, "code": "sv_gem_33" },
+    { "name": "Sunny Villa: Gem 34", "item_count": 1, "code": "sv_gem_34" },
+    { "name": "Sunny Villa: Gem 35", "item_count": 1, "code": "sv_gem_35" },
+    { "name": "Sunny Villa: Gem 36", "item_count": 1, "code": "sv_gem_36" },
+    { "name": "Sunny Villa: Gem 37", "item_count": 1, "code": "sv_gem_37" },
+    { "name": "Sunny Villa: Gem 38", "item_count": 1, "code": "sv_gem_38" },
+    { "name": "Sunny Villa: Gem 39", "item_count": 1, "code": "sv_gem_39" },
+    { "name": "Sunny Villa: Gem 40", "item_count": 1, "code": "sv_gem_40" },
+    { "name": "Sunny Villa: Gem 41", "item_count": 1, "code": "sv_gem_41" },
+    { "name": "Sunny Villa: Gem 42", "item_count": 1, "code": "sv_gem_42" },
+    { "name": "Sunny Villa: Gem 43", "item_count": 1, "code": "sv_gem_43" },
+    { "name": "Sunny Villa: Gem 44", "item_count": 1, "code": "sv_gem_44" },
+    { "name": "Sunny Villa: Gem 45", "item_count": 1, "code": "sv_gem_45" },
+    { "name": "Sunny Villa: Gem 46", "item_count": 1, "code": "sv_gem_46" },
+    { "name": "Sunny Villa: Gem 47", "item_count": 1, "code": "sv_gem_47" },
+    { "name": "Sunny Villa: Gem 48", "item_count": 1, "code": "sv_gem_48" },
+    { "name": "Sunny Villa: Gem 49", "item_count": 1, "code": "sv_gem_49" },
+    { "name": "Sunny Villa: Gem 50", "item_count": 1, "code": "sv_gem_50" },
+    { "name": "Sunny Villa: Gem 51", "item_count": 1, "code": "sv_gem_51" },
+    { "name": "Sunny Villa: Gem 52", "item_count": 1, "code": "sv_gem_52" },
+    { "name": "Sunny Villa: Gem 53", "item_count": 1, "code": "sv_gem_53" },
+    { "name": "Sunny Villa: Gem 54", "item_count": 1, "code": "sv_gem_54" },
+    { "name": "Sunny Villa: Gem 55", "item_count": 1, "code": "sv_gem_55" },
+    { "name": "Sunny Villa: Gem 56", "item_count": 1, "code": "sv_gem_56" },
+    { "name": "Sunny Villa: Gem 57", "item_count": 1, "code": "sv_gem_57" },
+    { "name": "Sunny Villa: Gem 58", "item_count": 1, "code": "sv_gem_58" },
+    { "name": "Sunny Villa: Gem 59", "item_count": 1, "code": "sv_gem_59" },
+    { "name": "Sunny Villa: Gem 60", "item_count": 1, "code": "sv_gem_60" },
+    { "name": "Sunny Villa: Gem 61", "item_count": 1, "code": "sv_gem_61" },
+    { "name": "Sunny Villa: Gem 62", "item_count": 1, "code": "sv_gem_62" },
+    { "name": "Sunny Villa: Gem 63", "item_count": 1, "code": "sv_gem_63" },
+    { "name": "Sunny Villa: Gem 64", "item_count": 1, "code": "sv_gem_64" },
+    { "name": "Sunny Villa: Gem 65", "item_count": 1, "code": "sv_gem_65" },
+    { "name": "Sunny Villa: Gem 66", "item_count": 1, "code": "sv_gem_66" },
+    { "name": "Sunny Villa: Gem 67", "item_count": 1, "code": "sv_gem_67" },
+    { "name": "Sunny Villa: Gem 68", "item_count": 1, "code": "sv_gem_68" },
+    { "name": "Sunny Villa: Gem 69", "item_count": 1, "code": "sv_gem_69" },
+    { "name": "Sunny Villa: Gem 70", "item_count": 1, "code": "sv_gem_70" },
+    { "name": "Sunny Villa: Gem 71", "item_count": 1, "code": "sv_gem_71" },
+    { "name": "Sunny Villa: Gem 72", "item_count": 1, "code": "sv_gem_72" },
+    { "name": "Sunny Villa: Gem 73", "item_count": 1, "code": "sv_gem_73" },
+    { "name": "Sunny Villa: Gem 74", "item_count": 1, "code": "sv_gem_74" },
+    { "name": "Sunny Villa: Gem 75", "item_count": 1, "code": "sv_gem_75" },
+    { "name": "Sunny Villa: Gem 76", "item_count": 1, "code": "sv_gem_76" },
+    { "name": "Sunny Villa: Gem 77", "item_count": 1, "code": "sv_gem_77" },
+    { "name": "Sunny Villa: Gem 78", "item_count": 1, "code": "sv_gem_78" },
+    { "name": "Sunny Villa: Gem 79", "item_count": 1, "code": "sv_gem_79" },
+    { "name": "Sunny Villa: Gem 80", "item_count": 1, "code": "sv_gem_80" },
+    { "name": "Sunny Villa: Gem 81", "item_count": 1, "code": "sv_gem_81" },
+    { "name": "Sunny Villa: Gem 82", "item_count": 1, "code": "sv_gem_82" },
+    { "name": "Sunny Villa: Gem 83", "item_count": 1, "code": "sv_gem_83" },
+    { "name": "Sunny Villa: Gem 84", "item_count": 1, "code": "sv_gem_84" },
+    { "name": "Sunny Villa: Gem 85", "item_count": 1, "code": "sv_gem_85" },
+    { "name": "Sunny Villa: Gem 86", "item_count": 1, "code": "sv_gem_86" },
+    { "name": "Sunny Villa: Gem 87", "item_count": 1, "code": "sv_gem_87" },
+    { "name": "Sunny Villa: Gem 88", "item_count": 1, "code": "sv_gem_88" },
+    { "name": "Sunny Villa: Gem 89", "item_count": 1, "code": "sv_gem_89" },
+    { "name": "Sunny Villa: Gem 90", "item_count": 1, "code": "sv_gem_90" },
+    { "name": "Sunny Villa: Gem 91", "item_count": 1, "code": "sv_gem_91" },
+    { "name": "Sunny Villa: Gem 92", "item_count": 1, "code": "sv_gem_92" },
+    { "name": "Sunny Villa: Gem 93", "item_count": 1, "code": "sv_gem_93" },
+    { "name": "Sunny Villa: Gem 94", "item_count": 1, "code": "sv_gem_94" },
+    { "name": "Sunny Villa: Gem 95", "item_count": 1, "code": "sv_gem_95" },
+    { "name": "Sunny Villa: Gem 96", "item_count": 1, "code": "sv_gem_96" },
+    { "name": "Sunny Villa: Gem 97", "item_count": 1, "code": "sv_gem_97" },
+    { "name": "Sunny Villa: Gem 98", "item_count": 1, "code": "sv_gem_98" },
+    { "name": "Sunny Villa: Gem 99", "item_count": 1, "code": "sv_gem_99" },
+    { "name": "Sunny Villa: Gem 100", "item_count": 1, "code": "sv_gem_100" },
+    { "name": "Sunny Villa: Gem 156", "item_count": 1, "code": "sv_gem_156" },
+    { "name": "Sunny Villa: Gem 157", "item_count": 1, "code": "sv_gem_157" },
+    { "name": "Sunny Villa: Gem 158", "item_count": 1, "code": "sv_gem_158" },
+    { "name": "Sunny Villa: Gem 159", "item_count": 1, "code": "sv_gem_159" },
+    { "name": "Sunny Villa: Gem 160", "item_count": 1, "code": "sv_gem_160" },
+    { "name": "Sunny Villa: Gem 161", "item_count": 1, "code": "sv_gem_161" },
+    { "name": "Sunny Villa: Gem 162", "item_count": 1, "code": "sv_gem_162" },
+    { "name": "Sunny Villa: Gem 163", "item_count": 1, "code": "sv_gem_163" },
+    { "name": "Sunny Villa: Gem 164", "item_count": 1, "code": "sv_gem_164" },
+    { "name": "Sunny Villa: Gem 165", "item_count": 1, "code": "sv_gem_165" },
+    { "name": "Sunny Villa: Gem 166", "item_count": 1, "code": "sv_gem_166" },
+    { "name": "Sunny Villa: Gem 167", "item_count": 1, "code": "sv_gem_167" },
+    { "name": "Sunny Villa: Gem 168", "item_count": 1, "code": "sv_gem_168" },
+    { "name": "Sunny Villa: Gem 169", "item_count": 1, "code": "sv_gem_169" },
+    { "name": "Sunny Villa: Gem 170", "item_count": 1, "code": "sv_gem_170" },
+    { "name": "Sunny Villa: Gem 171", "item_count": 1, "code": "sv_gem_171" },
+    { "name": "Sunny Villa: Gem 172", "item_count": 1, "code": "sv_gem_172" },
+    { "name": "Sunny Villa: Gem 173", "item_count": 1, "code": "sv_gem_173" },
+    { "name": "Sunny Villa: Gem 174", "item_count": 1, "code": "sv_gem_174" },
+    { "name": "Sunny Villa: Gem 175", "item_count": 1, "code": "sv_gem_175" },
+    { "name": "Sunny Villa: Gem 176", "item_count": 1, "code": "sv_gem_176" },
+    { "name": "Sunny Villa: Gem 177", "item_count": 1, "code": "sv_gem_177" },
+    { "name": "Sunny Villa: Gem 178", "item_count": 1, "code": "sv_gem_178" },
+    { "name": "Sunny Villa: Gem 179", "item_count": 1, "code": "sv_gem_179" },
+    { "name": "Sunny Villa: Gem 180", "item_count": 1, "code": "sv_gem_180" },
+    { "name": "Sunny Villa: Gem 181", "item_count": 1, "code": "sv_gem_181" },
+    { "name": "Sunny Villa: Gem 182", "item_count": 1, "code": "sv_gem_182" },
+    { "name": "Sunny Villa: Gem 183", "item_count": 1, "code": "sv_gem_183" },
+    { "name": "Sunny Villa: Gem 184", "item_count": 1, "code": "sv_gem_184" },
+    { "name": "Sunny Villa: Gem 185", "item_count": 1, "code": "sv_gem_185" },
+    { "name": "Sunny Villa: Gem 186", "item_count": 1, "code": "sv_gem_186" },
+    { "name": "Sunny Villa: Gem 187", "item_count": 1, "code": "sv_gem_187" },
+    { "name": "Sunny Villa: Gem 188", "item_count": 1, "code": "sv_gem_188" },
+    { "name": "Sunny Villa: Gem 189", "item_count": 1, "code": "sv_gem_189" },
+    { "name": "Sunny Villa: Gem 190", "item_count": 1, "code": "sv_gem_190" },
+    { "name": "Sunny Villa: Gem 191", "item_count": 1, "code": "sv_gem_191" },
+    { "name": "Sunny Villa: Gem 192", "item_count": 1, "code": "sv_gem_192" },
+    { "name": "Sunny Villa: Gem 193", "item_count": 1, "code": "sv_gem_193" },
+    { "name": "Sunny Villa: Gem 194", "item_count": 1, "code": "sv_gem_194" },
+    { "name": "Sunny Villa: Gem 195", "item_count": 1, "code": "sv_gem_195" },
+    { "name": "Sunny Villa: Gem 196", "item_count": 1, "code": "sv_gem_196" },
+    { "name": "Sunny Villa: Gem 197", "item_count": 1, "code": "sv_gem_197" },
+    { "name": "Sunny Villa: Gem 198", "item_count": 1, "code": "sv_gem_198" }
+  ]
+},
+{
+  "name": "Sunny Villa: Gems (Sheila's Area)",
+  "chest_unopened_img": "images/ui/Gems.png", 
+  "chest_opened_img": "images/ui/Gems_Checked.png",
+  "map_locations": [
+    { "map": "SunnyVilla", "x": 1278, "y": 350 }
+  ],
+  "sections": [
+    { "name": "Sunny Villa: Gem 101", "item_count": 1, "code": "sv_gem_101" },
+    { "name": "Sunny Villa: Gem 102", "item_count": 1, "code": "sv_gem_102" },
+    { "name": "Sunny Villa: Gem 103", "item_count": 1, "code": "sv_gem_103" },
+    { "name": "Sunny Villa: Gem 104", "item_count": 1, "code": "sv_gem_104" },
+    { "name": "Sunny Villa: Gem 105", "item_count": 1, "code": "sv_gem_105" },
+    { "name": "Sunny Villa: Gem 106", "item_count": 1, "code": "sv_gem_106" },
+    { "name": "Sunny Villa: Gem 107", "item_count": 1, "code": "sv_gem_107" },
+    { "name": "Sunny Villa: Gem 108", "item_count": 1, "code": "sv_gem_108" },
+    { "name": "Sunny Villa: Gem 109", "item_count": 1, "code": "sv_gem_109" },
+    { "name": "Sunny Villa: Gem 110", "item_count": 1, "code": "sv_gem_110" },
+    { "name": "Sunny Villa: Gem 111", "item_count": 1, "code": "sv_gem_111" },
+    { "name": "Sunny Villa: Gem 112", "item_count": 1, "code": "sv_gem_112" },
+    { "name": "Sunny Villa: Gem 113", "item_count": 1, "code": "sv_gem_113" },
+    { "name": "Sunny Villa: Gem 114", "item_count": 1, "code": "sv_gem_114" },
+    { "name": "Sunny Villa: Gem 115", "item_count": 1, "code": "sv_gem_115" },
+    { "name": "Sunny Villa: Gem 116", "item_count": 1, "code": "sv_gem_116" },
+    { "name": "Sunny Villa: Gem 117", "item_count": 1, "code": "sv_gem_117" },
+    { "name": "Sunny Villa: Gem 118", "item_count": 1, "code": "sv_gem_118" },
+    { "name": "Sunny Villa: Gem 119", "item_count": 1, "code": "sv_gem_119" },
+    { "name": "Sunny Villa: Gem 120", "item_count": 1, "code": "sv_gem_120" },
+    { "name": "Sunny Villa: Gem 121", "item_count": 1, "code": "sv_gem_121" },
+    { "name": "Sunny Villa: Gem 122", "item_count": 1, "code": "sv_gem_122" },
+    { "name": "Sunny Villa: Gem 123", "item_count": 1, "code": "sv_gem_123" },
+    { "name": "Sunny Villa: Gem 124", "item_count": 1, "code": "sv_gem_124" },
+    { "name": "Sunny Villa: Gem 125", "item_count": 1, "code": "sv_gem_125" },
+    { "name": "Sunny Villa: Gem 126", "item_count": 1, "code": "sv_gem_126" },
+    { "name": "Sunny Villa: Gem 127", "item_count": 1, "code": "sv_gem_127" },
+    { "name": "Sunny Villa: Gem 128", "item_count": 1, "code": "sv_gem_128" },
+    { "name": "Sunny Villa: Gem 129", "item_count": 1, "code": "sv_gem_129" },
+    { "name": "Sunny Villa: Gem 130", "item_count": 1, "code": "sv_gem_130" },
+    { "name": "Sunny Villa: Gem 131", "item_count": 1, "code": "sv_gem_131" },
+    { "name": "Sunny Villa: Gem 132", "item_count": 1, "code": "sv_gem_132" },
+    { "name": "Sunny Villa: Gem 133", "item_count": 1, "code": "sv_gem_133" },
+    { "name": "Sunny Villa: Gem 134", "item_count": 1, "code": "sv_gem_134" },
+    { "name": "Sunny Villa: Gem 135", "item_count": 1, "code": "sv_gem_135" },
+    { "name": "Sunny Villa: Gem 136", "item_count": 1, "code": "sv_gem_136" },
+    { "name": "Sunny Villa: Gem 137", "item_count": 1, "code": "sv_gem_137" },
+    { "name": "Sunny Villa: Gem 138", "item_count": 1, "code": "sv_gem_138" },
+    { "name": "Sunny Villa: Gem 139", "item_count": 1, "code": "sv_gem_139" },
+    { "name": "Sunny Villa: Gem 140", "item_count": 1, "code": "sv_gem_140" },
+    { "name": "Sunny Villa: Gem 141", "item_count": 1, "code": "sv_gem_141" },
+    { "name": "Sunny Villa: Gem 142", "item_count": 1, "code": "sv_gem_142" },
+    { "name": "Sunny Villa: Gem 143", "item_count": 1, "code": "sv_gem_143" },
+    { "name": "Sunny Villa: Gem 144", "item_count": 1, "code": "sv_gem_144" },
+    { "name": "Sunny Villa: Gem 145", "item_count": 1, "code": "sv_gem_145" },
+    { "name": "Sunny Villa: Gem 146", "item_count": 1, "code": "sv_gem_146" },
+    { "name": "Sunny Villa: Gem 147", "item_count": 1, "code": "sv_gem_147" },
+    { "name": "Sunny Villa: Gem 148", "item_count": 1, "code": "sv_gem_148" },
+    { "name": "Sunny Villa: Gem 149", "item_count": 1, "code": "sv_gem_149" },
+    { "name": "Sunny Villa: Gem 150", "item_count": 1, "code": "sv_gem_150" },
+    { "name": "Sunny Villa: Gem 151", "item_count": 1, "code": "sv_gem_151" },
+    { "name": "Sunny Villa: Gem 152", "item_count": 1, "code": "sv_gem_152" },
+    { "name": "Sunny Villa: Gem 153", "item_count": 1, "code": "sv_gem_153" },
+    { "name": "Sunny Villa: Gem 154", "item_count": 1, "code": "sv_gem_154" },
+    { "name": "Sunny Villa: Gem 155", "item_count": 1, "code": "sv_gem_155" }
+  ]
+  },
+  {
+    "name": "Skill Point: Bushes",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+      { "map": "SunnyVilla", "x": 1078, "y": 250 }
+    ],
+    "sections": [
+      { "name": "Skill Point Bushes", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Skill Point: Course Record",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+      { "map": "SunnyVilla", "x": 1078, "y": 350 }
+    ],
+    "sections": [
+      { "name": "3200 Course Record", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Life Bottle Past Starting Area Pillars",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 1004, "y": 1099 }
+    ],
+    "sections": [
+        { "name": "Life Bottle: Pillars", "item_count": 1 }
+    ]
+  },
+{
+    "name": "Life Bottle: near Skate",
+    "chest_unopened_img": "images/ui/LifeBottle.png", 
+    "chest_opened_img": "images/ui/LifeBottle_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 576, "y": 856 }
+    ],
+    "sections": [
+        { "name": "Life Bottle: Skate", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Egg by the Building",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 1159, "y": 585 }
+    ],
+    "sections": [
+        { "name": "Egg: Vanessa", "item_count": 1 }   
+    ]
+  },
+  {
+    "name": "Glide to the spring",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 559, "y": 1479 }
+    ],
+    "sections": [
+        { "name": "Egg: Miles", "item_count": 1 }   
+    ]
+  },
+  {
+    "name": "Lizard Skating 1",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 2216, "y": 1685 }
+    ],
+    "sections": [
+        { "name": "Egg: Emily", "item_count": 1 }   
+    ]
+  },
+  {
+    "name": "Lizard Skating 2",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 2264, "y": 1710 }
+    ],
+    "sections": [
+        { "name": "Egg: Daisy", "item_count": 1 }   
+    ]
+  },
+  {
+    "name": "Hop to Rapunzel",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 2414, "y": 226 }
+    ],
+    "sections": [
+        { "name": "Egg: Lucy", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Rescue the mayor",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "SunnyVilla", "x": 510, "y": 689 }
+    ],
+    "sections": [
+        { "name": "Egg: Sanders", "item_count": 1 },
+        { 
+          "name": "Sunny Villa: Level Complete", "item_count": 1 ,
+          "chest_unopened_img": "images/ui/LevelComplete.png",
+          "chest_opened_img": "images/ui/LevelComplete_Checked.png" }   
+    ]
+  }
+]

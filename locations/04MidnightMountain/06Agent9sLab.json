@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Agent 9's Lab Gem Thresholds",
+    "chest_unopened_img": "images/ui/Gem_Red.png", 
+    "chest_opened_img": "images/ui/Gem_Red_Checked.png",
+    "map_locations": [
+      { "map": "Agent9sLab", "x": 210, "y": 139 }
+    ],
+    "sections": [
+      { "name": "Gem Threshold 25%", "visibility_rules": "setting_threshold_25", "item_count": 1 },
+      { "name": "Gem Threshold 50%", "visibility_rules": "setting_threshold_50", "item_count": 1 },
+      { "name": "Gem Threshold 75%", "visibility_rules": "setting_threshold_75", "item_count": 1 },
+      { "name": "Gem Threshold 100%", "visibility_rules": "setting_threshold_100", "item_count": 1 }
+    ]
+  },
+  {
+    "name": "Agent 9's Lab: Gems",
+    "chest_unopened_img": "images/ui/Gems.png", 
+    "chest_opened_img": "images/ui/Gems_Checked.png",
+    "map_locations": [
+      { "map": "Agent9sLab", "x": 310, "y": 139 }
+    ],
+    "sections": [
+        { "name": "Agent 9's Lab: Gem 1", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 2", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 3", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 4", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 5", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 6", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 7", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 8", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 9", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 10", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 11", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 12", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 13", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 14", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 15", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 16", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 17", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 18", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 19", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 20", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 21", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 22", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 23", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 24", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 25", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 26", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 27", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 28", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 29", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 30", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 31", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 32", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 33", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 34", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 35", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 36", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 37", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 38", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 39", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 40", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 41", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 42", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 43", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 44", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 45", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 46", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 47", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 48", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 49", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 50", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 51", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 52", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 53", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 54", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 55", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 56", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 57", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 58", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 59", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 60", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 61", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 62", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 63", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 64", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 65", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 66", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 67", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 68", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 69", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 70", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 71", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 72", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 73", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 74", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 75", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 76", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 77", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 78", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 79", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 80", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 81", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 82", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 83", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 84", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 85", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 86", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 87", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 88", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 89", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 90", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 91", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 92", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 93", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 94", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 95", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 96", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 97", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 98", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 99", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 100", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 101", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 102", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 103", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 104", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 105", "item_count": 1 },
+        { "name": "Agent 9's Lab: Gem 106", "item_count": 1 }
+    ]
+},
+  {
+    "name": "Blow up all palm trees",
+    "chest_unopened_img": "images/ui/Skillpoint.png",
+    "chest_opened_img": "images/ui/Skillpoint_Checked.png",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 110, "y": 139 }
+    ],
+    "sections": [
+        { "name": "Skillpoint", "item_count": 1 }
+    ]    
+  },
+{
+    "name": "This place has gone to the birds",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 784, "y": 448 }
+    ],
+    "sections": [
+        { "name": "Egg: Beulah", "item_count": 1 }
+    ]    
+  },
+  {
+    "name": "Snipe the boats",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 777, "y": 198 }
+    ],
+    "sections": [
+        { "name": "Egg: Tony", "item_count": 1 }
+    ]    
+  },
+  {
+    "name": "Blast and bomb the rhynocs",
+    "chest_unopened_img": "images/ui/DragonEgg.png", 
+    "chest_opened_img": "images/ui/DragonEgg_Checked.png",
+    "map_locations": [
+        { "map": "Agent9sLab", "x": 853, "y": 541 }
+    ],
+    "sections": [
+        { "name": "Egg: Rowan", "item_count": 1 },
+    { 
+    "name": "Agt9: Level Complete", 
+    "item_count": 1,
+    "chest_unopened_img": "images/ui/LevelComplete.png", 
+    "chest_opened_img": "images/ui/LevelComplete_Checked.png" }
+    ]    
+  }
+]
